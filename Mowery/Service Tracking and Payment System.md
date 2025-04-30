@@ -32,11 +32,6 @@ This system allows customers to receive a confirmation text message with a link 
   3. After service completion, a **"Pay Now"** button appears for the customer to click and pay.
   4. The customer completes the payment, and the system automatically updates the payment status.
 
-- **Timestamp Context:**
-  - **00:48:11:** "The message should include a link to a web page where they can track the technician’s progress."
-  - **00:49:11:** "When the call is closed, the customer can click **'Pay Now'** to make a payment."
-  - **00:50:09:** "A text notification will be sent to the technician once the payment is completed."
-
 ### Technician Notifications
 
 - **Description:**  

@@ -31,7 +31,7 @@ The product list is a new feature that allows you to categorize and track produc
 2. Next, click on **Catalog**.
     
 
-> **Note**: The product list now includes categories, and each product can be marked as active or inactive. Products are assigned task codes, which are incremented automatically, but can be adjusted manually if necessary
+> **Note**: The product list now includes categories, and each product can be marked as active or inactive. Products are assigned task codes, which are incremented automatically, but can be adjusted manually if necessary.
 
 
 ### 2. Catalog Management

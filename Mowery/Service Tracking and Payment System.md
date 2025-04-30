@@ -12,7 +12,6 @@ This documentation outlines the features and workflow for the new service tracki
   - [Real-Time Service Updates](#real-time-service-updates)
   - [Web Page Design and Functionality](#web-page-design-and-functionality)
   - [User Flow for Service Completion and Payment](#user-flow-for-service-completion-and-payment)
-  - [Next Steps and Additional Features](#next-steps-and-additional-features)
 - [Conclusion](#conclusion)
 
 ## Overview

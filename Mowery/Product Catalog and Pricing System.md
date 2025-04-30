@@ -1,115 +1,110 @@
-# Product Catalog and Pricing System
+
+# 📘 Product Catalog and Pricing System
 
 ## Overview
 
-This system enables users to manage and maintain their product catalog and associated pricing, allowing for efficient catalog creation, price revisions, and the printing of price books. The new design enhances flexibility, reduces paper usage, and facilitates easier updates to product prices and descriptions.
+This system helps you manage and update your product catalog and pricing. It offers an easy way to create catalogs, revise prices, and print price books. The new design enhances flexibility, reduces paper usage, and supports quick updates to product details.
+
+---
 
 ## Features
 
-- **Products List**: A structured list of products that can be categorized and updated with ease.
-    
-- **Catalog Management**: Separate catalogs for price books, with the ability to create revisions.
-    
-- **Revision Control**: Track revisions to ensure the correct pricing is used and printed.
-    
-- **Efficient Printing**: Print individual pages when prices change, minimizing paper usage.
-    
-- **Flexible Task Codes**: Task codes are data-driven and can be assigned to products dynamically.
-    
-- **Historical Price Tracking**: The system allows users to keep track of previous pricing, supporting accounting and auditing needs.
+- **Product List**: Organize and track products easily.
+- **Catalog Management**: Create and manage price books with revisions.
+- **Revision Control**: Keep track of price changes with revision history.
+- **Efficient Printing**: Print only updated pages to save paper.
+- **Task Codes**: Dynamically assign task codes to organize products.
+- **Historical Pricing**: Track and view previous prices for auditing and accounting.
 
-## System Setup
+---
 
-### 1. Products List
+## 🔧 Workflow Guide
 
-The product list is a new feature that allows you to categorize and track products separately from their pricing. It is not a price list, but rather a catalog of all available products. This list is integral for managing your pricing structures efficiently.
+### Step 1: Access Products
+1. From the menu, click on **Products**.
+2. Then, click **Catalog** to view or manage your products.
+3. Ensure each product has:
+   - Name
+   - Description
+   - Price
+   - Task Code
+   - Category & Subcategory
 
-**Steps to Access:**
+> **Tip**: Task codes help order products in the catalog. Adjust them to change the order.
 
-1. From the navigation bar, click on **Products**.
-    
-2. Next, click on **Catalog**.
-    
+---
 
-> **Note**: The product list now includes categories, and each product can be marked as active or inactive. Products are assigned task codes, which are incremented automatically, but can be adjusted manually if necessary.
-
-
-### 2. Catalog Management
-
-The catalog is where you can define your price books. Each catalog functions as a price book with the following features:
-
-- **Effective Date**: Price books can have an effective date.
-    
-- **Revisions**: Each price book can be revised to reflect price changes.
-    
-- **Printing**: You can print revised pages to replace outdated versions.
-    
-
-To create a catalog:
-
+### Step 2: Manage Catalogs
 1. Click on **Catalog** in the navigation bar.
-    
-2. Click on **Create New Catalog**.
-    
-3. Choose a price book to start with (you can duplicate an existing price book for new catalogs).
-    
-4. Add or remove products as necessary.
-    
-5. Set the effective date for the catalog.
-    
+2. Select **Create New Catalog** or choose an existing one.
+3. Choose a price book to start with (you can duplicate an existing price book).
+4. Add or remove products as needed.
+5. Set an effective date for the catalog.
 
-> **Revision Control**: Revisions are tracked and printed on each page to ensure that everyone is using the most current version.
+> **Revision Control**: Revisions are tracked and printed on each page to ensure the latest version is used.
 
 ---
 
-### 3. Viewing and Printing a Price Book
-
-To view a printed version of your catalog, follow these steps:
-
+### Step 3: Print a Catalog
 1. Select **Print** from the catalog screen.
-    
-2. Choose the appropriate **view** (e.g., residential or commercial).
-    
-3. Scroll down to see the revision number, page number, and effective date printed at the bottom of each page.
-    
+2. Choose a **view** (e.g., residential or commercial).
+3. Check the revision number, page number, and effective date at the bottom of each page.
 
-> **Tip**: If only one product changes, you can print just the page containing that product, saving paper and resources.
+> **Tip**: Print only the pages with updated products to save paper.
 
 ---
 
-### 4. Adjusting Task Codes
-
-Each product has an associated task code, which helps organize and classify products. Task codes are dynamically assigned but can be modified as needed.
-
-To adjust a task code:
-
+### Step 4: Adjust Task Codes
+To reorder or adjust products:
 1. Open the **Product** window.
-    
 2. Locate the **Task Code** field.
-    
-3. Modify the code to reorder or adjust products in the list.
-
-### 5. Category and Subcategory Management
-
-Products can be assigned to categories and subcategories for easier classification. Categories (e.g., Plumbing, HVAC) help organize products, while subcategories further refine classification.
-
-To assign or modify a category:
-
-1. Click on **Products**.
-    
-2. Click on **Category** or **Subcategory** in the navigation bar.
-    
-3. Use the dropdown to assign products to the correct category or subcategory.
-    
+3. Modify the task code to change the product order.
 
 ---
 
-### 6. Importing Existing Pricing Data
+### Step 5: Assign Categories and Subcategories
+To classify products:
+1. Go to **Products**.
+2. Click **Category** or **Subcategory** in the menu.
+3. Use the dropdown to assign products to the correct category.
 
-If you have an existing price book with updated prices, you can import this data into the new catalog format. During the initial setup, we will import your existing price data into the new product list.
+> **Tip**: Categories (e.g., Plumbing, HVAC) help organize products, and subcategories refine the classification.
 
-Steps:
+---
 
-1. Ensure your existing price data is up-to-date.
-    
-2. Our team will assist with importing the data into the new product list structure, including active products, descriptions, and pricing.
+### Step 6: Import Existing Pricing Data
+If you have an existing price list, we can help you import it into the new system. Here’s how:
+
+1. Ensure your price data is up-to-date.
+2. Contact our team for assistance in importing your product data, including prices, descriptions, and categories.
+
+---
+
+## 💬 Support
+
+For help:
+- Reach out to the implementation team.
+- Provide feedback during User Acceptance Testing (UAT).
+- Report any pages or codes needing updates.
+
+---
+
+## 📚 Features Overview
+
+### Price Book Management
+- **Purpose**: Maintain and update a catalog of prices for your products.
+- **Key Features**: Easily update price books, track historical pricing, and generate revisions for each price book.
+- **Benefit**: Track price changes over time, ensuring your pricing is accurate and up to date.
+
+#### Catalog Creation
+- **Steps**:
+  1. Navigate to the catalog section.
+  2. Choose a price book to create a new catalog.
+  3. Review the catalog before finalizing.
+
+  **Status**: Catalog creation works as expected, with future improvements based on feedback.
+
+### Task Codes
+- **Purpose**: Task codes are used to organize and categorize your products.
+- **Current Status**: Task code management is evolving. Stay updated and share feedback on how these changes affect your workflows.
+

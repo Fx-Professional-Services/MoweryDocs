@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Catalog and Pricing System.md",
+                "file": "Service Tracking and Payment System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Catalog and Pricing System"
+              "title": "Service Tracking and Payment System"
             }
           },
           {
@@ -182,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f25451a879719d",
+  "active": "69353df031b4bd5b",
   "lastOpenFiles": [
-    "Service Tracking and Payment System.md",
     "Product Catalog and Pricing System.md",
+    "Service Tracking and Payment System.md",
     "Product and Price Book Management System.md",
     "Mowery Documentation",
     "Welcome.md",

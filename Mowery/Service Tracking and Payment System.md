@@ -1,7 +1,6 @@
+# Service Tracking and Payment System: TO BE DEVELOPED
 
-# Service Tracking and Payment System
-
-This documentation outlines the features and workflow for the new service tracking and payment system designed to provide a seamless experience for both customers and technicians. The system allows customers to track the service progress in real-time and make payments directly through a web page link, while technicians are notified instantly when payments are completed.
+This document describes the features and workflow of the service tracking and payment system. The system provides a seamless experience for customers and technicians by enabling real-time service tracking and integrated payment functionality.
 
 ## Table of Contents
 
@@ -16,90 +15,95 @@ This documentation outlines the features and workflow for the new service tracki
 
 ## Overview
 
-This system allows customers to receive a confirmation text message with a link to a web page where they can track the progress of their service. The service page is updated in real-time, and once the service is completed, the customer is presented with a **"Pay Now"** button to complete the payment. Upon successful payment, the technician is notified immediately.
+Customers receive a confirmation text message with a link to a web page where they can track service progress in real time. After the technician completes the service, the page displays a **Pay Now** button for payment. When the customer completes the payment, the system immediately notifies the technician.
 
 ## Key Features
 
 ### Payment Process via Web Page Link
 
-- **Description:**  
-  After the technician is dispatched, the customer receives a text message with a link to a web page where they can track the service's progress. When the service is completed, the customer is prompted to pay through the link.
+Customers can track service progress and make payments through a single web page.
 
-- **Steps:**
-  1. The customer receives a text message with a link to a service status page.
-  2. The page will update as the technician arrives and progresses through the service.
-  3. After service completion, a **"Pay Now"** button appears for the customer to click and pay.
-  4. The customer completes the payment, and the system automatically updates the payment status.
+**Steps:**
+
+1. The customer receives a text message with a link to the service status page.
+2. The page updates in real time as the technician arrives and performs the service.
+3. After the service is complete, a **Pay Now** button appears.
+4. The customer completes the payment, and the system updates the payment status.
 
 ### Technician Notifications
 
-- **Description:**  
-  Technicians are notified in real-time when a customer completes their payment.
+Technicians receive immediate notifications when a payment is completed.
 
-- **Steps:**
-  1. After the customer pays, a notification is sent to the technician confirming that payment was successful.
-  
-- **Expected Result:**
-  - The technician will be notified immediately via SMS or an internal notification system.
+**Steps:**
 
-- **Timestamp Context:**
-  - **00:50:09:** "Send a text message to notify the technician that the payment has been completed."
+1. When the customer completes the payment, the system sends a notification to the technician.
+
+**Expected Result:**
+
+- The technician receives an SMS or internal notification confirming the successful payment.
+
+**Timestamp Reference:**
+
+- **00:50:09** — "Send a text message to notify the technician that the payment has been completed."
 
 ### Real-Time Service Updates
 
-- **Description:**  
-  The web page provided to customers updates in real-time to reflect the technician’s progress. The status is updated to show when the technician arrives, performs the service, and completes the service.
+Customers can view live updates of the technician's progress on the service web page.
 
-- **Steps:**
-  1. The customer receives a confirmation text with a link to the service page.
-  2. The page updates with real-time service status, showing:
-    - Technician arrival status
-    - Service in-progress status
-    - Service completion status
-  3. Once the service is completed, the customer can pay using the **"Pay Now"** button.
+**Steps:**
 
-- **Timestamp Context:**
-  - **00:49:11:** "The web page will update in real-time, allowing the customer to see the technician’s progress."
+1. The customer receives a confirmation text with a link to the service page.
+2. The page displays real-time updates, including:
+   - Technician arrival
+   - Service in progress
+   - Service completion
+3. After completion, the **Pay Now** button is displayed.
+
+**Timestamp Reference:**
+
+- **00:49:11** — "The web page will update in real time, allowing the customer to see the technician’s progress."
 
 ### Web Page Design and Functionality
 
-- **Description:**  
-  The web page presented to the customer serves as the central hub for tracking the service and completing the payment. It updates dynamically based on the technician’s actions.
+The customer-facing web page serves as a central hub for tracking and payment.
 
-- **Key Features:**
-  - **Service Status:** Displays whether the technician has arrived, is performing the service, or has completed the service.
-  - **Payment Button:** After the service is completed, a **"Pay Now"** button is shown to facilitate immediate payment.
+**Features:**
 
-- **Steps:**
-  1. The customer clicks on the provided link to view the service status.
-  2. As the technician progresses through the service, the status updates automatically.
-  3. Once the service is complete, the **"Pay Now"** button will appear for the customer to use.
-  
-- **Timestamp Context:**
-  - **00:48:11:** "The web page will update with the technician’s progress in real-time."
-  - **00:49:11:** "Once the call is closed, the customer will see a **'Pay Now'** button to complete the payment."
+- **Service Status:** Shows the technician's progress (arrived, in progress, completed).
+- **Payment Button:** Displays a **Pay Now** button after the service is completed.
+
+**Steps:**
+
+1. The customer clicks the service link.
+2. The page updates automatically based on the technician’s actions.
+3. After service completion, the **Pay Now** button appears.
+
+**Timestamp References:**
+
+- **00:48:11** — "The web page will update with the technician’s progress in real time."
+- **00:49:11** — "Once the call is closed, the customer will see a 'Pay Now' button to complete the payment."
 
 ### User Flow for Service Completion and Payment
 
-- **Description:**  
-  This section outlines the complete user flow from the technician's dispatch to the final payment stage.
+This section summarizes the complete user flow from service dispatch to payment.
 
-- **Steps:**
-  1. The customer receives a confirmation text message with a link to track the service status.
-  2. As the technician arrives, the web page updates to show that the technician has arrived.
-  3. The technician performs the service, and the customer can see the progress in real-time.
-  4. Once the service is completed, the customer will see the **"Pay Now"** button.
-  5. The customer clicks the button to complete the payment.
-  6. Upon payment completion, the technician is notified via SMS or an internal system.
+**Steps:**
 
-- **Expected Result:**
-  - The customer is informed at every step of the process and can easily pay when the service is completed.
+1. The customer receives a text message with a link to track service status.
+2. The technician arrives, and the page updates to reflect this.
+3. The technician performs the service; progress is shown in real time.
+4. After completion, the **Pay Now** button is displayed.
+5. The customer clicks the button and completes the payment.
+6. The technician is notified via SMS or the internal system.
 
+**Expected Result:**
+
+- The customer stays informed throughout the process and can complete payment easily once the service ends.
 
 ## Conclusion
 
-This system is designed to improve the customer and technician experience by providing real-time updates, easy access to payment links, and efficient communication. By tracking service status and processing payments through a web page, customers can enjoy a seamless, transparent experience. Technicians, in turn, will receive timely notifications once payments are completed, helping them move on to the next task with ease.
+The service tracking and payment system improves the customer and technician experience by offering real-time updates, simplified payment, and timely communication. Customers benefit from transparency and ease of use, while technicians receive immediate confirmation of payment, allowing them to move to the next task efficiently.
 
-The first phase of deployment will focus on the service status tracking and payment process, while additional features will be rolled out in subsequent updates.
+The initial deployment focuses on service status tracking and payment. Additional features will be introduced in future updates.
 
-For any questions or additional support, please contact the support team.
+For support, contact the customer service team.

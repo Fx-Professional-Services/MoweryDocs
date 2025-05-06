@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Tracking and Payment System.md",
+                "file": "Product Catalog and Pricing System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Tracking and Payment System"
+              "title": "Product Catalog and Pricing System"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Product Catalog and Pricing System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4b47498c8eb376fc",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Catalog and Pricing System.md",
+                "file": "Service Tracking and Payment System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Product Catalog and Pricing System"
+              "title": "Backlinks for Service Tracking and Payment System"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Catalog and Pricing System.md",
+                "file": "Service Tracking and Payment System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Product Catalog and Pricing System"
+              "title": "Outgoing links from Service Tracking and Payment System"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Catalog and Pricing System.md",
+                "file": "Service Tracking and Payment System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Product Catalog and Pricing System"
+              "title": "Outline of Service Tracking and Payment System"
             }
           }
         ]
@@ -183,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593df7ad4371bd36",
+  "active": "e0f25451a879719d",
   "lastOpenFiles": [
     "Service Tracking and Payment System.md",
     "Product Catalog and Pricing System.md",

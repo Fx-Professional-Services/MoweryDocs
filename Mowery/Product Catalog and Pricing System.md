@@ -66,20 +66,11 @@ To reorder or adjust products:
 To classify products:
 1. Go to **Products**.
 2. Click **Category** or **Subcategory** in the menu.
-3. Use the dropdown to assign products to the correct category.
+3. To be developed: Use the dropdown to assign products to the correct type field in subcategory.
 
-> **Tip**: Categories (e.g., Plumbing, HVAC) help organize products, and subcategories refine the classification.
-
----
-
-### Step 6: Import Existing Pricing Data
-If you have an existing price list, we can help you import it into the new system. Here’s how:
-
-1. Ensure your price data is up-to-date.
-2. Contact our team for assistance in importing your product data, including prices, descriptions, and categories.
+> **Tip**: Categories help organize products, and subcategories refine the classification.
 
 ---
-
 ## 💬 Support
 
 For help:

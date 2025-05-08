@@ -1,67 +1,57 @@
+## 🖨️ Printing Price Books
 
-## Printing Price Books
+You can print Residential or Commercial price books directly from a catalog. A preview is displayed before printing to help verify that the information is accurate and up to date.
 
-You can print Residential or Commercial price books directly from a catalog. Before printing, the system provides a preview to ensure the information is correct and up to date.
+---
 
-### Prerequisites
+### ✅ Prerequisites
 
-- A catalog must exist in the system.
-- You must have permission to access and modify catalogs.
+- A catalog must already exist.
+- You must have permission to view and print catalogs.
 
 ---
 
 ### ➕ Create a Catalog
 
-1. Navigate to **System Defaults** → **Catalog**.
-2. Click the **New Catalog** button.
-3. In the catalog window, enter the required details:
+1. Go to **System Defaults → Catalog**.
+2. Click **New Catalog**.
+3. In the catalog form, enter the required details:
    - **Effective Date**
    - **Title**
    - **Revision**
-   - Any other required fields
+   - Any additional required fields
 4. Click **Add Catalog**.
-5. A dialog appears confirming that catalog creation is in progress. Click **OK**.
-6. When the process completes, a dialog informs you whether the catalog creation succeeded or failed.
-7. Click the catalog name to view its items.
-8. Verify that the number of items matches the number of active products.
+5. When prompted, click **OK** to acknowledge that creation is in progress.
+6. After the process completes, a message will confirm success or failure.
+7. Click the catalog name to view the catalog items.
+8. Confirm that the number of items matches the number of active products.
 
 ---
 
-### Steps to Print a Price Book
+### 🖨️ Print a Price Book
 
-1. Navigate to **System Defaults** → **Catalog**.
-2. Choose one of the following:
-   - Use a newly created catalog.
-   - Use an existing catalog:
-     1. Locate the catalog.
-     2. Click the **leftmost button** beside the **Code** column to open catalog details.
-3. In the catalog details view, click **View Catalog** to display catalog items.
-4. Click the **Print** button.
-5. Choose a view type:
+1. Go to **System Defaults → Catalog**.
+2. Choose a catalog:
+   - To use a new catalog, follow the steps above.
+   - To use an existing catalog:
+     - Locate the catalog in the list.
+     - Click the **leftmost button** next to the **Code** column to open it.
+3. Click **View Catalog** to display catalog items.
+4. Click **Print**.
+5. Choose a format:
    - **Residential**
    - **Commercial**
-6. A **print preview** window opens showing the layout of the selected price book.
-7. Review the preview carefully:
+6. A print preview window appears.
+7. Review the following in the preview:
    - Product names
-   - Pricing information
+   - Pricing details
    - Page layout and formatting
-   - **Revision number**, **page number**, and **effective date** at the bottom of each page
-8. If the information is correct, continue printing using your system’s print dialog.
+   - **Revision number**, **page number**, and **effective date** on each page
+8. If the preview is correct, proceed with printing using your system’s print dialog.
 
 ---
 
-### Print a Catalog
+### ✅ Expected Result
 
-1. Select **Print** from the catalog screen.
-2. Choose a **view** (e.g., Residential or Commercial).
-3. Confirm the following appear at the bottom of each page:
-   - **Revision number**
-   - **Page number**
-   - **Effective date**
-
----
-
-### Expected Outcome
-
-- A print preview of the selected price book (Residential or Commercial) is displayed.
-- You can verify the information and print or export to PDF with confidence.
+- A print preview of the price book (Residential or Commercial) appears.
+- You can verify the content and print or export the document as a PDF.

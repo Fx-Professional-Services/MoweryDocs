@@ -11,10 +11,14 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Viewing and Searching Catalog Items.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Viewing and Searching Catalog Items"
             }
           }
         ]
@@ -164,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f25451a879719d",
+  "active": "593df7ad4371bd36",
   "lastOpenFiles": [
+    "Viewing and Searching Catalog Items.md",
+    "Create Catalogs.md",
+    "Catalog Management.md",
+    "Delete Catalog.md",
+    "Print Catalogs.md",
     "Product Catalog and Pricing System.md",
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",

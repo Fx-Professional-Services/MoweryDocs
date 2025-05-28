@@ -11,10 +11,14 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Managing Categories and Subcategories.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Managing Categories and Subcategories"
             }
           }
         ]
@@ -164,8 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f25451a879719d",
+  "active": "593df7ad4371bd36",
   "lastOpenFiles": [
+    "Managing Categories and Subcategories.md",
+    "Managing Categories and Subcategories.md",
+    "Send Text Message from Service Calls.md",
+    "Send Text Message from Service Calls.md",
+    "Task Codes.md",
+    "Staff Management.md",
+    "Task Codes.md",
+    "Task Codes.md",
+    "Assign Service Calls on the Dispatch Board.md",
+    "Assign Calls on the Dispatch Board.md",
+    "SERVICE CALLS.md",
+    "Edit Product Pricing.md",
+    "Edit Catalog Tax and Add-on Rates.md",
+    "Edit Pricing Fields.md",
     "Product Catalog and Pricing System.md",
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",

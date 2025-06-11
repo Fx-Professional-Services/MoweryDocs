@@ -11,14 +11,12 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Connecting to the Mowery Service Call App.md",
-                "mode": "source",
-                "source": false
+                "file": "service_call_tabs.png"
               },
-              "icon": "lucide-file",
-              "title": "Connecting to the Mowery Service Call App"
+              "icon": "lucide-image",
+              "title": "service_call_tabs"
             }
           }
         ]
@@ -171,6 +169,7 @@
   "active": "593df7ad4371bd36",
   "lastOpenFiles": [
     "Connecting to the Mowery Service Call App.md",
+    "service_call_tabs.png",
     "Technician Profile Page.md",
     "Edit Sort Numbers to Reorder Items.md",
     "Automatic Price Rounding.md",

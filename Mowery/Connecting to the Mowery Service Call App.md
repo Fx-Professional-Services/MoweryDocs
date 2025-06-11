@@ -34,7 +34,7 @@
 ---
 ### 3. Open the Mowery App
 
-1. Tap **Mowery Payment** under the saved host.
+1. Tap **mowerydb_mobile** under the saved host.
 2. Sign in using your **account name** and **password**.
 3. Tap **Sign In**.
 ---

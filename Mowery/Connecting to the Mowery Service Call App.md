@@ -45,7 +45,7 @@ You will arrive at the **Service Call Dashboard**, which contains tabs for diffe
 ---
 ## 📂 Tab Descriptions
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/c3824db36a51d0088498d5ca21e180ec3f0951ef/Mowery/service_call_tabs.png"width="350" height="300">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/c3824db36a51d0088498d5ca21e180ec3f0951ef/Mowery/service_call_tabs.png" width="350" height="300">
 
 ### 🔧 Service Setup
 

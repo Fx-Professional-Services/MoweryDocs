@@ -11,14 +11,12 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Edit Catalog Tax and Add-on Rates.md",
-                "mode": "source",
-                "source": false
+                "file": "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png"
               },
-              "icon": "lucide-file",
-              "title": "Edit Catalog Tax and Add-on Rates"
+              "icon": "lucide-image",
+              "title": "1311_Edit Catalog Tax and Add-on Rates"
             }
           }
         ]
@@ -168,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f25451a879719d",
+  "active": "593df7ad4371bd36",
   "lastOpenFiles": [
-    "1311_edit_pricing_fields.png",
     "Edit Catalog Tax and Add-on Rates.md",
+    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
+    "1311_edit_pricing_fields.png",
     "1311_edit_pricing_fields 1.png",
     "1304_edit_pricing_fields.png",
     "Edit Pricing Fields.md",
@@ -188,7 +187,6 @@
     "Mowery Mobile App – iPad Setup Instructions.md",
     "Connecting to the Mowery Service Call App.md",
     "Edit Product Pricing.md",
-    "service_call_tabs.png",
     "Technician Profile Page.md",
     "Edit Sort Numbers to Reorder Items.md",
     "Automatic Price Rounding.md",

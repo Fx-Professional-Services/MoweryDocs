@@ -9,4 +9,4 @@ To delete a catalog in the new Price Book interface:
 
 > ⚠️ Deleting a catalog is irreversible. Make sure the catalog is no longer needed before confirming deletion.
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/2_delete_catalog.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/cf0f3e9827d27e37f9617f48879e1758843db31f/Mowery/2_delete_catalog.png" width="350" height="230">

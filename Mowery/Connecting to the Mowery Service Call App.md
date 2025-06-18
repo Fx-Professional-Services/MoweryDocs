@@ -60,8 +60,7 @@ You will arrive at the **Service Call Dashboard**, which contains tabs for diffe
 Use this tab to confirm customer identity and job location.
 
 ---
-
-  ### 📋 Ticket Details
+### 📋 Ticket Details
 
   This tab shows all the key information for the current service ticket:
 
@@ -84,6 +83,8 @@ Use this tab to confirm customer identity and job location.
 - **Payment Type** – Payment method selected (e.g., Credit, Cash, Invoice).
 
 - **Description** – Free-text notes about the issue or customer request.
+
+| Tip: Tap the Refresh button in the upper-left corner of the screen to reload the service details.
 
 ---
 

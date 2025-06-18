@@ -15,6 +15,8 @@ You can modify the pricing fields of individual items within a catalog to reflec
 6. When a field is modified, a **reset icon** appears. Click it to revert the value to the original system-generated rate.
 7. Click **Done** when you finish editing.
 
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/876227e93b3fb1361e5a9be0e4b16fb8a3c84a1e/Mowery/4_edit_pricing_fields.png.png" width="350" height="230">
+
 > **Note**: Item-level pricing overrides the catalog defaults and is saved individually for each catalog item.
 
 ---

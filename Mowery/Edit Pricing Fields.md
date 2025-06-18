@@ -13,6 +13,7 @@ You can modify the pricing fields of individual items within a catalog to reflec
    - **Value Rate** – A rate based on value-driven pricing models.
    - **Commercial Rate** – A special rate for commercial or bulk purchases.
 6. When a field is modified, a **reset icon** appears. Click it to revert the value to the original system-generated rate.
+7. Click **Done** when you finish editing.
 
 > **Note**: Item-level pricing overrides the catalog defaults and is saved individually for each catalog item.
 

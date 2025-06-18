@@ -62,18 +62,18 @@ This guide explains how to create and print catalogs (also known as price books)
      - Locate it in the list.
      - Click the **leftmost button** next to the **Code** column to open it.
      
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_1_print_catalog.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/6d4d3efbd14e1e3a7f82c372b115ffdb317274ce/Mowery/3_1_print_catalog.png" width="350" height="230">
 
 3. Click **View Catalog**.
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_2_print_catalog.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/6d4d3efbd14e1e3a7f82c372b115ffdb317274ce/Mowery/3_2_print_catalog.png" width="350" height="230">
 
 4. Click **Print**.
 5. Select a format:
    - **Residential**
    - **Commercial**
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_3_print_catalog.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/6d4d3efbd14e1e3a7f82c372b115ffdb317274ce/Mowery/3_3_print_catalog.png" width="350" height="230">
 
 4. A print preview window opens.
 5. Review the preview:

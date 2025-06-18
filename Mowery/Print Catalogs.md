@@ -61,13 +61,22 @@ This guide explains how to create and print catalogs (also known as price books)
    - For an existing catalog:
      - Locate it in the list.
      - Click the **leftmost button** next to the **Code** column to open it.
+     
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_1_print_catalog.png" width="350" height="230">
+
 3. Click **View Catalog**.
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_2_print_catalog.png" width="350" height="230">
+
 4. Click **Print**.
 5. Select a format:
    - **Residential**
    - **Commercial**
-6. A print preview window opens.
-7. Review the preview:
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/3_3_print_catalog.png" width="350" height="230">
+
+4. A print preview window opens.
+5. Review the preview:
    - Product names
    - Pricing details
    - Page layout and formatting

@@ -16,3 +16,4 @@ To create a new catalog (price book) in Mowery:
 8. Verify that the number of catalog items matches the number of active products.
 
 > 📘 **Note**: In Mowery, catalogs are also referred to as **price books**. Each catalog lists product pricing that becomes effective on the specified date.
+

@@ -29,4 +29,6 @@ You can update tax rates and other catalog-level pricing fields from the **Catal
 3. Click **Proceed**.
 4. A confirmation message appears. Click **OK** to close it.
 
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d9b56235ea4e319145c9cb9665c6e1f282f52146/Mowery/1311_apply_the_price_updates" width="350" height="230">
+
 > **Tip**: To preserve any manual adjustments made to catalog item pricing, choose the default option.

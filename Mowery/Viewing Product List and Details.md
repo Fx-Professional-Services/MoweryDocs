@@ -8,15 +8,13 @@ This guide explains how to view the list of products in the system and access de
 
 1. From the main menu, go to **System Defaults → Products**. The **Product List** screen appears, showing all available products.
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_viewing_product_list_and_details.png" width="350" height="230">
-
 ---
 
 ## 🔍 View a Product’s Details
 2. Locate the product you want to review. 
 3. Click the leftmost button in the product row to open the **Product Detail** page.
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_1_view_product_list_and_details.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_viewing_product_list_and_details.png" width="350" height="230">
 
 ---
 ## 🧾 Understand the Product Detail Sections
@@ -88,3 +86,5 @@ Located in the upper-right corner, this section shows a log of all pricing chang
 > This setting applies when you click the **New Product** button.
 
 ---
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_1_view_product_list_and_details.png" width="350" height="230">

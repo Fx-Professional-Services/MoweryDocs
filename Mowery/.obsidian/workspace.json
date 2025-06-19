@@ -11,12 +11,14 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1313_2_view_catalog_items.png"
+                "file": "Viewing and Searching Catalog Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1313_2_view_catalog_items"
+              "icon": "lucide-file",
+              "title": "Viewing and Searching Catalog Items"
             }
           }
         ]
@@ -168,9 +170,9 @@
   },
   "active": "593df7ad4371bd36",
   "lastOpenFiles": [
+    "1313_2_view_catalog_items.png",
     "Viewing and Searching Catalog Items.md",
     "1313_search_catalog_items.png",
-    "1313_2_view_catalog_items.png",
     "1313_view_catalog_items.png",
     "Edit Catalog Tax and Add-on Rates.md",
     "Mowery Documentation/1311_apply_the_price_updates.png",

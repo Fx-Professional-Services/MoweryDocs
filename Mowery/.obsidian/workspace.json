@@ -11,14 +11,12 @@
             "id": "593df7ad4371bd36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Viewing and Searching Catalog Items.md",
-                "mode": "source",
-                "source": false
+                "file": "1313_2_view_catalog_items.png"
               },
-              "icon": "lucide-file",
-              "title": "Viewing and Searching Catalog Items"
+              "icon": "lucide-image",
+              "title": "1313_2_view_catalog_items"
             }
           }
         ]
@@ -171,10 +169,29 @@
   "active": "593df7ad4371bd36",
   "lastOpenFiles": [
     "Viewing and Searching Catalog Items.md",
+    "1313_search_catalog_items.png",
+    "1313_2_view_catalog_items.png",
+    "1313_view_catalog_items.png",
+    "Edit Catalog Tax and Add-on Rates.md",
+    "Mowery Documentation/1311_apply_the_price_updates.png",
+    "Mowery Documentation/1311_apply_the_price_update.png",
+    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
+    "1311_edit_pricing_fields.png",
+    "1311_edit_pricing_fields 1.png",
+    "1304_edit_pricing_fields.png",
+    "Edit Pricing Fields.md",
+    "4_edit_pricing_fields.png",
+    "Print Catalogs.md",
+    "Delete Catalog.md",
     "Create Catalogs.md",
     "Catalog Management.md",
-    "Delete Catalog.md",
-    "Print Catalogs.md",
+    "Mowery Mobile App – iPad Setup Instructions.md",
+    "Connecting to the Mowery Service Call App.md",
+    "Edit Product Pricing.md",
+    "Technician Profile Page.md",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Automatic Price Rounding.md",
+    "Duplicate a Catalog.md",
     "Product Catalog and Pricing System.md",
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",

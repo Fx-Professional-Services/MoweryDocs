@@ -18,7 +18,7 @@ You can update tax rates and other catalog-level pricing fields from the **Catal
 
 5. Click **Update Price**.
 
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d9b56235ea4e319145c9cb9665c6e1f282f52146/Mowery/1311_edit_pricing_fields.png" width="350" height="230">
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d9b56235ea4e319145c9cb9665c6e1f282f52146/Mowery/1304_edit_pricing_fields.png" width="350" height="230">
 
 ### Apply the Price Update
 

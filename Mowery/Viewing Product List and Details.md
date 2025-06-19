@@ -6,22 +6,19 @@ This guide explains how to view the list of products in the system and access de
 
 ## 📋 Open the Product List
 
-1. From the main menu, go to **System Defaults → Products**.
-2. The **Product List** screen appears, showing all available products.
+1. From the main menu, go to **System Defaults → Products**. The **Product List** screen appears, showing all available products.
 
 ---
 
 ## 🔍 View a Product’s Details
-
-1. Locate the product you want to review.
-2. Click the product to open its **Product Detail** page.
+2. Locate the product you want to review. 
+3. Click the leftmost button in the product row to open the **Product Detail** page.
 
 ---
-
 ## 🧾 Understand the Product Detail Sections
 
 Each product has multiple sections that provide specific information.
-### 🔹 Product Info
+### 🔹 I.  Product Info
 
 This section provides general information that helps classify and describe the product.
 
@@ -43,7 +40,7 @@ This section provides general information that helps classify and describe the p
 > **Purpose:** This section ensures each product is correctly classified and described, making it easier for teams to find, understand, and use the right item during sales or service workflows.
 ---
 
-### 🔹 Product Price Attributes
+### 🔹 II. Product Price Attributes
 
 Provides details about how the product’s price is structured:
 
@@ -57,7 +54,7 @@ Provides details about how the product’s price is structured:
 
 ---
 
-### 🔹 Current Pricing
+### 🔹 III. Current Pricing
 
 Shows the product’s price as of the current or most recent effective date:
 
@@ -73,7 +70,7 @@ Shows the product’s price as of the current or most recent effective date:
 
 ---
 
-### 🔹 Pricing Tracking and History
+### 🔹 IV. Pricing Tracking and History
 
 Located in the upper-right corner, this section shows a log of all pricing changes over time.
 
@@ -81,7 +78,7 @@ Located in the upper-right corner, this section shows a log of all pricing chang
 
 ---
 
-## ⚙️ Developer Settings Tip
+## ⚙️ V. Developer Settings Tip
 
 > In developer settings, you can enable auto-entry of **Add-On** and **Commercial** rates when creating new products.  
 > This setting applies when you click the **New Product** button.

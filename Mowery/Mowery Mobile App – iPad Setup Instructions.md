@@ -23,8 +23,8 @@ This  will guide you through connecting your iPad to the live Mowery Mobile app 
 5. Tap **Save**.
 6. Tap the file named:  
    `MoweryDB_Mobile.fmp12`
-7. Enter your **Username** and **Password**.
-8. Tap **Sign In**.
+7. Click the **Sign in with Microsoft** button on the login dialog box.
+8. Follow the on-screen instructions to sign in.
 
 ---
 
@@ -32,7 +32,7 @@ This  will guide you through connecting your iPad to the live Mowery Mobile app 
 
 You now have access to the live Mowery Mobile system. From here, you can:
 
-- View and update service calls  
+- View and access service calls  
 - Access equipment and customer records  
 - Submit notes and parts requests in real time  
 
@@ -40,8 +40,8 @@ You now have access to the live Mowery Mobile system. From here, you can:
 
 ## 🛠 Troubleshooting
 
-| Problem            | Solution                                                                 |
-|--------------------|--------------------------------------------------------------------------|
-| Can’t find host     | Double-check your internet connection and spelling: `moweryservice.net` |
-| File not visible    | Make sure the host is saved and active. Contact your team lead if needed |
-| Login not working   | Verify your username/password. If needed, contact SCG onboarding support |
+| Problem           | Solution                                                                 |
+| ----------------- | ------------------------------------------------------------------------ |
+| Can’t find host   | Double-check your internet connection and spelling: `moweryservice.net`  |
+| File not visible  | Make sure the host is saved and active. Contact your team lead if needed |
+| Login not working | Use the **Sign in with Microsoft** button and follow the prompts.        |

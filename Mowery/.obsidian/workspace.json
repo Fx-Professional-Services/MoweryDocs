@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Create Catalogs.md",
                 "file": "Task Codes.md",
                 "file": "Print to Parts from a Service Call.md",
                 "file": "Edit Product Pricing.md",
@@ -35,6 +36,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Create Catalogs"
               "title": "Print to Parts from a Service Call"
               "title": "Table of Contents"
             }
@@ -188,6 +190,11 @@
     }
   },
   "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "Create Catalogs.md",
+    "Create Catalogs.md",
+    "Delete Catalog.md",
+    "Print Catalogs.md",
   "lastOpenFiles": [
     "Task Codes.md",
     "Staff Management.md",

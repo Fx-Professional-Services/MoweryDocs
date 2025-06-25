@@ -6,14 +6,14 @@ You can create multiple catalogs (price books) with effective dates to support f
 
 ## **Quick Links**
 
-- [Create a Catalog](#➕-create-a-catalog)
+- [Create a Catalog](#create-a-catalog)
 - [Duplicate a Catalog (Manual Edits Are Preserved)](#duplicate-a-catalog-manual-edits-are-preserved)
 - [View and Search Catalog Items](#view-and-search-catalog-items)
 - [Task Codes (Reordering Items)](#task-codes-reordering-items)
 
 ---
 
-## ➕ Create a Catalog
+## Create a Catalog
 
 You can create multiple catalogs with different effective dates to plan future price changes.
 

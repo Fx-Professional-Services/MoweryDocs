@@ -13,50 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duplicate a Catalog.md",
-                "file": "Send Text Message from Service Calls.md",
-                "file": "Task Codes.md",
-                "file": "Automatic Logout After Inactivity.md",
-                "file": "Automatic Price Rounding.md",
-                "file": "Edit Sort Numbers to Reorder Items.md",
-                "file": "Viewing and Searching Catalog Items.md",
-                "file": "Create Catalogs.md",
-                "file": "Task Codes.md",
-                "file": "Print to Parts from a Service Call.md",
-                "file": "Edit Product Pricing.md",
+                "file": "I.  Catalogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Codes"
-              "title": "Automatic Price Rounding"
-              "title": "Viewing and Searching Catalog Items"
-              "title": "Task Codes"
-              "title": "Edit Product Pricing"
-            }
-          },
-          {
-            "id": "6851dde1ae2625fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duplicate a Catalog"
-              "title": "Send Text Message from Service Calls"
-              "title": "Automatic Logout After Inactivity"
-              "title": "Edit Sort Numbers to Reorder Items"
-              "title": "Create Catalogs"
-              "title": "Print to Parts from a Service Call"
-              "title": "Table of Contents"
+              "title": "I.  Catalogs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,98 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593df7ad4371bd36",a
+  "active": "593df7ad4371bd36",
   "lastOpenFiles": [
-  "lastOpenFiles": [
-    "Send Text Message from Service Calls.md",
-    "Task Codes.md",
-    "Staff Management.md",
-    "Task Codes.md",
-    "Task Codes.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "Assign Calls on the Dispatch Board.md",
-    "SERVICE CALLS.md",
-    "Edit Product Pricing.md",
-    "Edit Catalog Tax and Add-on Rates.md",
-    "Edit Pricing Fields.md",
-  "lastOpenFiles": [
-    "Send Text Message from Service Calls.md",
-    "Send Text Message from Service Calls.md",
-    "Task Codes.md",
-    "Staff Management.md",
-    "Task Codes.md",
-    "Task Codes.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "Assign Calls on the Dispatch Board.md",
-    "SERVICE CALLS.md",
-    "Edit Product Pricing.md",
-    "Edit Catalog Tax and Add-on Rates.md",
-    "Edit Pricing Fields.md",
-  "lastOpenFiles": [
-    "Task Codes.md",
-    "Task Codes.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "Assign Calls on the Dispatch Board.md",
-    "SERVICE CALLS.md",
-    "Edit Product Pricing.md",
-    "Edit Catalog Tax and Add-on Rates.md",
-    "Edit Pricing Fields.md",
-  "lastOpenFiles": [
+    "III. Service Calls.md",
     "Automatic Logout After Inactivity.md",
-    "The Technician Profile Page.md",
-    "Effective Date.md",
-  "lastOpenFiles": [
-  "lastOpenFiles": [
-  "lastOpenFiles": [
-    "1313_2_view_catalog_items.png",
-    "Viewing and Searching Catalog Items.md",
-    "1313_search_catalog_items.png",
-    "1313_view_catalog_items.png",
-    "Edit Catalog Tax and Add-on Rates.md",
-    "Mowery Documentation/1311_apply_the_price_updates.png",
-    "Mowery Documentation/1311_apply_the_price_update.png",
-    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
-    "1311_edit_pricing_fields.png",
-    "1311_edit_pricing_fields 1.png",
-    "1304_edit_pricing_fields.png",
-    "Edit Pricing Fields.md",
-    "4_edit_pricing_fields.png",
-    "Print Catalogs.md",
-    "Delete Catalog.md",
-    "Create Catalogs.md",
-    "Catalog Management.md",
-    "Mowery Mobile App – iPad Setup Instructions.md",
-    "Connecting to the Mowery Service Call App.md",
-    "Edit Product Pricing.md",
-  "lastOpenFiles": [
-    "Create Catalogs.md",
-    "Create Catalogs.md",
-    "Delete Catalog.md",
-    "Print Catalogs.md",
-  "lastOpenFiles": [
-    "Task Codes.md",
-    "Staff Management.md",
-    "Task Codes.md",
-    "Task Codes.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "Assign Calls on the Dispatch Board.md",
-    "SERVICE CALLS.md",
-    "Edit Product Pricing.md",
-    "Edit Catalog Tax and Add-on Rates.md",
-    "Edit Pricing Fields.md",
-  "lastOpenFiles": [
-    "Print to Parts from a Service Call.md",
-  "active": "6851dde1ae2625fb",
-  "lastOpenFiles": [
-    "Edit Product Pricing.md",
-    "Table of Contents.md",
-    "Mowery Mobile App – iPad Setup Instructions.md",
-    "Connecting to the Mowery Service Call App.md",
-    "service_call_tabs.png",
-    "Technician Profile Page.md",
-    "Edit Sort Numbers to Reorder Items.md",
+    "Send Text Message from Service Calls.md",
+    "II. Products.md",
     "Automatic Price Rounding.md",
+    "I.  Catalogs.md",
+    "Task Codes.md",
+    "Viewing and Searching Catalog Items.md",
+    "001 Table of Contents.md",
     "Duplicate a Catalog.md",
+    "002 Catalog",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Connecting to the Mowery Service Call App.md",
+    "1313_view_catalog_items.png",
+    "1313_search_catalog_items.png",
+    "1313_2_view_catalog_items.png",
+    "service_call_tabs.png",
+    "Mowery Mobile App – iPad Setup Instructions.md",
+    "Technician Profile Page.md",
     "Product Catalog and Pricing System.md",
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",

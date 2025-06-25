@@ -13,12 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Technician Profile Page.md",
                 "file": "Add a New Employee (FileMaker Access).md",
                 "file": "Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Technician Profile Page"
               "title": "Table of Contents"
             }
           },
@@ -186,6 +188,11 @@
     }
   },
   "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "Technician Profile Page.md",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Automatic Price Rounding.md",
+    "Duplicate a Catalog.md",
   "lastOpenFiles": [
     "Add a New Employee (FileMaker Access).md",
     "Connecting to the Mowery Service Call App.md",

@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Duplicate a Catalog.md",
                 "file": "Send Text Message from Service Calls.md",
                 "file": "Task Codes.md",
                 "file": "Automatic Logout After Inactivity.md",
@@ -45,6 +46,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Duplicate a Catalog"
               "title": "Send Text Message from Service Calls"
               "title": "Automatic Logout After Inactivity"
               "title": "Edit Sort Numbers to Reorder Items"
@@ -201,7 +203,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593df7ad4371bd36",
+  "active": "593df7ad4371bd36",a
+  "lastOpenFiles": [
   "lastOpenFiles": [
     "Send Text Message from Service Calls.md",
     "Task Codes.md",
@@ -214,7 +217,6 @@
     "Edit Product Pricing.md",
     "Edit Catalog Tax and Add-on Rates.md",
     "Edit Pricing Fields.md",
-=======
   "lastOpenFiles": [
     "Send Text Message from Service Calls.md",
     "Send Text Message from Service Calls.md",

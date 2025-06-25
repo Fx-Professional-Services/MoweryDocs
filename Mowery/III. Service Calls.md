@@ -1,268 +1,227 @@
-# 🖨️ Print to Parts from a Service Call
+# 🖨️ Print to Parts and Service Call Messaging Guide
 
-You can generate a printed parts list directly from a **Service Call** record using the **Print to Parts** feature.
+This guide explains how to use the **Print to Parts** feature, send technician text messages from a **Service Call**, and how the system handles automatic logout after inactivity.
 
 ---
-### ✅ What Happens When You Click "Print to Parts"
+
+## **Quick Links**
+
+- [Print to Parts from a Service Call](#print-to-parts-from-a-service-call)
+- [Send Text Message from Service Calls](#send-text-message-from-service-calls)
+- [Automatic Logout After Inactivity](#automatic-logout-after-inactivity)
+
+---
+
+# Print to Parts from a Service Call
+
+You can generate a printed parts list directly from a **Service Call** using the **Print to Parts** feature.
+
+---
+
+## ✅ What Happens When You Click "Print to Parts"
 
 When the **dispatcher** clicks the **Print to Parts** button:
 
-- The system automatically populates the **Printed to Parts** field with:
+- The system updates the **Printed to Parts** field with:
+  - The **name of the dispatcher** who clicked the button.
+  - The **date and time** of the action.
 
-  - The **name of the dispatcher** (account name) who clicked the button.
-
-  - The **date and time** the button was clicked.
-
-> 📌 This field serves as a log and helps track print activity for accountability.
+> 📌 This field serves as a log for tracking print activity.
 
 ---
-### 🔄 Steps to Use Print to Parts
 
-1. From the main menu, go to **Service Call**.
+## 🔄 Steps to Use Print to Parts
 
-2. In the **rightmost column** (highlighted in fluorescent blue), click a service card. This opens the **Customer Property** or **Service Call** data entry screen.
-
-3. Scroll to the **bottom right** of the page (Step 4 section).
-
-4. Click the **Print to Parts** button:
-
-   - A **print layout** will appear.
-
-   - If you see a **"Printer not found"** error, you can ignore it. This usually means a printer isn't connected to your network.
-
-5. After clicking the button:
-
-   - The **Printed to Parts** field (bottom left) is updated automatically with:
-
-     - Your **account name** (dispatcher).
-
-     - The **timestamp** of the print action.
+1. Go to **Service Call** from the main menu.
+2. In the **rightmost column** (highlighted in blue), click a service card to open the **Customer Property** or **Service Call** screen.
+3. Scroll to the **bottom right** of the page.
+4. Click **Print to Parts**:
+   - A print layout will appear.
+   - If you see a **"Printer not found"** message, you can ignore it. It means a printer isn’t connected to your network.
+5. After clicking:
+   - The **Printed to Parts** field updates with your account name and the timestamp.
 
 ---
-### 🛠️ Default Printer Behavior
 
-- When you click **Print to Parts**, the system sends the print job to the **default parts printer**.
+## 🛠️ Default Printer Behavior
 
-- You don't need to manually select a printer.
+- The system sends the print job to the **default parts printer**.
+- No manual printer selection is required.
 
-#### Benefits
+**Benefits**:
 
-- 🕒 Saves time  
+- 🕒 Saves time  
+- ✅ Reduces user errors  
+- 🚀 Improves dispatch efficiency  
 
-- ✅ Reduces user errors  
-
-- 🚀 Improves dispatch efficiency
 ---
+
 ## 📘 Definitions
 
-### **Service Call**
+**Service Call**  
+A scheduled visit by a technician for maintenance, repair, or installation. Contains job details, service address, assigned technician, and materials used.
 
-A *Service Call* is a scheduled or on-demand visit by a technician to a customer location for maintenance, repair, installation, or inspection. It contains job details, service address, technician assignment, and materials used.
+**Print to Parts**  
+Allows dispatchers or technicians to print a parts list directly from a Service Call record.
 
-### **Print to Parts**
+**Printed to Parts Field**  
+A system log showing the dispatcher’s account name and timestamp when the Print to Parts action was performed.
 
-The *Print to Parts* feature enables dispatchers or technicians to print a parts list directly from the Service Call record. This printed list includes items used or required for the job.
-
-### **Printed to Parts Field**
-
-A read-only log that automatically captures:
-
-- The dispatcher’s **account name**
-
-- The **timestamp** of the Print to Parts action.
-
-Used for traceability and accountability.
-
-### **Default Parts Printer**
-
-A designated printer that the system automatically uses for printing parts lists. It ensures:
-
-- Consistent output location  
-
-- No need for manual selection  
-
-- Faster dispatch processing
-
-# Send Text Message from Service Calls 
-
-You can send a text message directly to a customer from the **Service Call** screen using the integrated messaging feature powered by Twilio. The message includes details about the technician and a public-facing webpage link to help build trust and transparency.
-
-## Pre-send checklist
-
-Before sending a text message, verify the following:
-
-1. **Check the customer record in Master Property List**  
-   - From the main menu, go to **Master Property List**.  
-   - Locate the customer’s record.  
-   - Verify the phone number is valid and saved correctly.  
-   - Confirm the number is marked as **preferred**.
-
-2. **Check the Service Call record**  
-   - From the main menu, go to **Service Calls**.  
-   - Open the corresponding service call record for the same customer.  
-   - Confirm the **Accept Text Message** checkbox is checked for the phone number.
-
-3. **Validate the phone number format**  
-   - Ensure the phone number format conforms to U.S. standards (e.g., 10 digits, area code included).
+**Default Parts Printer**  
+The designated printer used for printing parts lists automatically.
 
 ---
 
-## How to send a text message
+# Send Text Message from Service Calls
 
-1. **Open the Service Calls menu**  
-   From the main menu, select **Service Calls** to view the list of service call records.
-
-2. **Select a service call record**  
-   Find and open the specific service call record for the customer you want to message.
-
-3. **Verify contact method**  
-   In the **Contact** section of the service call record:  
-   - Confirm that **Text** is selected as the contact method. This enables the text messaging feature.
-
-4. **Confirm the customer’s phone number details**  
-   Check the phone number information associated with the customer:  
-   - Ensure a **valid U.S. cellphone number** is saved in the customer’s record.  
-   - Confirm this phone number is marked as **preferred** (the primary number used for communication).  
-   - Make sure the **Accept Text Message** checkbox is **checked** for this number.
-
-5. **Locate the Send Text Message icon**  
-   Next to the **Preferred Number** field, find the **Send Text Message** icon, shown in blue.
-
-6. **Click the Send Text Message icon**  
-   Click the icon to initiate sending the text message.
-
-7. **Wait for feedback**  
-   The system will process the message and display one of the following:  
-   - A **success message** confirming the text was sent.  
-   - An **error message** explaining why the message failed to send (see the *Error messages* section below).
+You can send a text message to a customer directly from the **Service Call** screen using the integrated messaging feature powered by Twilio. The message includes technician details and a secure public webpage link to build trust with customers.
 
 ---
 
-## Requirements
+## 📝 Pre-send Checklist
 
-Before sending a text message, ensure the following:
+Before sending a message:
 
-- The phone number is a **valid U.S. cellphone number**.  
-- The **Accept Text Message** checkbox is checked for the number.  
-- The phone number is marked as **preferred**.  
-- **Text** is selected as the **Contact Method**.
+1. **Check the Master Property List**  
+   - Go to **Master Property List**.  
+   - Verify the customer’s phone number is valid and marked as **preferred**.  
+
+2. **Check the Service Call Record**  
+   - Go to **Service Calls**.  
+   - Open the record for the customer.  
+   - Ensure **Accept Text Message** is checked for the phone number.  
+
+3. **Validate Phone Number Format**  
+   - Confirm it follows U.S. standards (10-digit number with area code).
 
 ---
 
-## Error messages
+## ✉️ How to Send a Text Message
+
+1. Go to **Service Calls** from the main menu.
+2. Select the specific service call record.
+3. In the **Contact** section:
+   - Confirm **Text** is selected as the contact method.
+4. Verify:
+   - A **valid U.S. cellphone number** is saved.  
+   - The number is marked as **preferred**.  
+   - The **Accept Text Message** checkbox is checked.  
+5. Locate the **Send Text Message** icon (in blue) next to the **Preferred Number**.
+6. Click the icon to send the message.
+7. The system provides feedback:
+   - **Success message** confirms the text was sent.
+   - **Error message** explains why sending failed.
+
+---
+
+## ⚠️ Requirements
+
+- A valid U.S. cellphone number is required.  
+- The **Accept Text Message** checkbox must be checked.  
+- The number must be marked as **preferred**.  
+- **Text** must be selected as the contact method.
+
+---
+
+## 🚫 Error Messages
 
 | Condition                                    | Error Message                                      |
-| -------------------------------------------- | ------------------------------------------------ |
-| No preferred phone number is set             | `A preferred phone number is required to send a message.` |
-| Accept Text Message is checked but number is blank | `Cell number is required if Accept Text Message is checked.` |
-| Invalid U.S. phone number                     | `Invalid US Number.`                              |
-| Twilio fails to deliver                       | `Failed to deliver.`                              |
-| Other errors from Twilio API                  | Displays the exact error message returned by Twilio |
+|----------------------------------------------|---------------------------------------------------|
+| No preferred number                          | `A preferred phone number is required to send a message.` |
+| Accept Text checked, but number is blank     | `Cell number is required if Accept Text Message is checked.` |
+| Invalid phone number                         | `Invalid US Number.`                              |
+| Twilio delivery failure                      | `Failed to deliver.`                              |
+| Other errors from Twilio                     | Displays exact error message from Twilio          |
 
 ---
 
-## Success message
+## ✅ Success Message
 
-If the message is sent successfully, a confirmation message will appear on the screen.
-
----
-
-If you experience issues after following these steps, verify all requirements are met or contact your support team.
-   - Confirm that **Text** is selected as the contact method.
-
-4. **Confirm the customer’s phone number details**  
-   - Ensure a **valid U.S. cellphone number** is saved in the customer’s record.  
-   - Confirm the number is marked as **preferred**.  
-   - Make sure the **Accept Text Message** checkbox is checked.
-
-5. **Locate the Send Text Message icon**  
-   Next to the **Preferred Number** field, find the **Send Text Message** icon (in blue).  
-
-6. **Click the Send Text Message icon**  
-   Click the icon to initiate the message.
-
-7. **Wait for feedback**  
-   The system will display a success or error message based on the result.
+A confirmation message appears when the text is sent successfully.
 
 ---
 
-## Message contents
+## 📨 Message Contents
 
-The system sends customers a personalized message when a technician is on the way. The message includes:
+The system sends a personalized message with:
 
-- Technician name(s)
-- Customer’s address
-- A link to a public-facing technician profile page
-- A short introduction and friendly greeting from the technician
+- Technician name(s)  
+- Customer address  
+- Public technician profile link  
+- Short greeting from the technician  
 
-### Sample message
+### Example Message
 
 Hello [Customer Name], [Technician Name(s)] from Mowery is on the way to [Customer Address].  
 Click here for more details: [Technician Profile Webpage Link]
 
 Hi, my name is [Technician Name]. I’ll be your technician today. [Short Technician Bio]  
-If you have any questions or concerns, please don’t hesitate to share them—I'm here to help!
+If you have any questions, I’m here to help. Thank you for choosing Mowery!
 
-Thank you for choosing Mowery. We look forward to seeing you soon!
-___
-
-
-### Template Variables
-
-| Variable                    | Description                                               |
-|----------------------------|-----------------------------------------------------------|
-| `[Customer Name]`          | The full name of the customer                             |
-| `[Technician Name(s)]`     | One or more technician names assigned to the service call |
-| `[Customer Address]`       | Full service address from the service call                |
-| `[Technician Bio]`         | A short introduction and background from the technician   |
-| `[Technician Profile Webpage Link]` | A secure public-facing link to technician details |
 
 ---
 
-### Message Behavior
+## 🔧 Template Variables
+
+| Variable                       | Description                                     |
+|---------------------------------|-------------------------------------------------|
+| `[Customer Name]`               | Full name of the customer                       |
+| `[Technician Name(s)]`          | Assigned technician name(s)                     |
+| `[Customer Address]`            | Service address from the Service Call           |
+| `[Technician Bio]`              | Short introduction from the technician          |
+| `[Technician Profile Webpage Link]` | Secure link to technician details           |
+
+---
+
+## 🌐 Message Behavior
 
 - Sent automatically or manually from the **Service Call** screen.
-- Links to a secure webpage with:
-  - Technician name, photo, and bio
-  - Estimated time of arrival
-  - Appointment confirmation or cancellation buttons (if applicable)
-- Personal and professional tone to build trust with the customer.
-
-# ⏳ Automatic Logout After Inactivity
-
-  This guide explains how the Mowery FileMaker system automatically logs users out after a period of inactivity.
+- Includes a secure webpage with:
+  - Technician photo, bio, and name  
+  - Estimated arrival time  
+  - Appointment confirmation options (if applicable)  
+- Designed to build trust and enhance communication.
 
 ---
+
+# Automatic Logout After Inactivity
+
+The system automatically logs out inactive users to protect data and improve security.
+
+---
+
 ## 📋 Overview
 
-To help protect data and improve security, the system will automatically close your session if there is no activity for 2 hours. A warning message appears before logout, giving you a chance to continue your session.
+If there is no activity for 2 hours, the system displays:
+
+> “No activity detected. The file will close unless you click Cancel.”
+
+If no action is taken, FileMaker automatically closes the session.
 
 ---
+
 ## 🔔 How It Works
 
-- If the system detects **2 hours of inactivity**, it displays this message:  
-
-  > “No activity detected. The file will close unless you click Cancel.”
-
-- If you do not respond, FileMaker will automatically close.
-
-- Clicking **Cancel** keeps your session active and resets the timer.
+- After **2 hours of inactivity**, the logout warning appears.  
+- Click **Cancel** to stay logged in and reset the timer.  
+- If no response, the system closes automatically.
 
 ---
+
 ## 👤 Who This Applies To
 
-This feature applies to **all FileMaker users**, regardless of their role or access level.
+All **FileMaker users**, regardless of role or access level.
 
 ---
+
 ## ✅ Tips to Stay Logged In
 
-- Click **Cancel** when prompted to continue your session.
-
-- Save your work regularly in case the file closes.
-
-- If logged out, simply reopen the FileMaker file and log in again.
+- Click **Cancel** when prompted to extend your session.  
+- Save work frequently in case the file closes.  
+- If logged out, reopen the FileMaker file and log in again.
 
 ---
 
-> ℹ️ This feature ensures that unattended sessions do not remain open, protecting system data.
+> ℹ️ This feature prevents unattended sessions from remaining open and protects system data.
+
 

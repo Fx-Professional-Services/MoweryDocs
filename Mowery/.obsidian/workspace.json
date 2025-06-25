@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Edit Sort Numbers to Reorder Items.md",
                 "file": "Viewing and Searching Catalog Items.md",
                 "file": "Create Catalogs.md",
                 "file": "Task Codes.md",
@@ -38,6 +39,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Edit Sort Numbers to Reorder Items"
               "title": "Create Catalogs"
               "title": "Print to Parts from a Service Call"
               "title": "Table of Contents"
@@ -193,6 +195,7 @@
   },
   "active": "593df7ad4371bd36",
   "lastOpenFiles": [
+  "lastOpenFiles": [
     "1313_2_view_catalog_items.png",
     "Viewing and Searching Catalog Items.md",
     "1313_search_catalog_items.png",
@@ -213,7 +216,6 @@
     "Mowery Mobile App – iPad Setup Instructions.md",
     "Connecting to the Mowery Service Call App.md",
     "Edit Product Pricing.md",
-=======
   "lastOpenFiles": [
     "Create Catalogs.md",
     "Create Catalogs.md",

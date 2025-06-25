@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Print to Parts from a Service Call.md",
                 "file": "Edit Product Pricing.md",
                 "mode": "source",
                 "source": false
@@ -32,6 +33,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Print to Parts from a Service Call"
               "title": "Table of Contents"
             }
           }
@@ -183,6 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "Print to Parts from a Service Call.md",
   "active": "6851dde1ae2625fb",
   "lastOpenFiles": [
     "Edit Product Pricing.md",

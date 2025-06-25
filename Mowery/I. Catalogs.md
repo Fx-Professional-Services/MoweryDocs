@@ -37,7 +37,7 @@ You can create multiple catalogs with different effective dates to plan future p
 
 ---
 
-## 🌀 Duplicate a Catalog (Manual Edits Are Preserved)
+## Duplicate a Catalog (Manual Edits Are Preserved)
 
 You can duplicate a catalog without losing manually entered values. Custom prices, descriptions, and other edits are retained—system auto-filled fields will not overwrite your data.
 
@@ -73,7 +73,7 @@ If your edits didn’t copy over, contact support or your system administrator.
 
 ---
 
-## 📚 View and Search Catalog Items
+##  View and Search Catalog Items
 
 You can view and modify catalog details, or search for specific items within a catalog.
 
@@ -91,7 +91,7 @@ You can view and modify catalog details, or search for specific items within a c
 
 ---
 
-### 🔍 Search Catalog Items
+###  Search Catalog Items
 
 Follow these steps to search for specific items:
 
@@ -112,7 +112,7 @@ Follow these steps to search for specific items:
 
 ---
 
-## 🔢 Task Codes (Reordering Items)
+## Task Codes (Reordering Items)
 
 Task Codes control the sequence of items within a product catalog. You can adjust these numeric values to reorder items manually.
 

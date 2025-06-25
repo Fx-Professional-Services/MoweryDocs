@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Automatic Logout After Inactivity.md",
                 "file": "Automatic Price Rounding.md",
                 "file": "Edit Sort Numbers to Reorder Items.md",
                 "file": "Viewing and Searching Catalog Items.md",
@@ -41,6 +42,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Automatic Logout After Inactivity"
               "title": "Edit Sort Numbers to Reorder Items"
               "title": "Create Catalogs"
               "title": "Print to Parts from a Service Call"
@@ -196,6 +198,10 @@
     }
   },
   "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "Automatic Logout After Inactivity.md",
+    "The Technician Profile Page.md",
+    "Effective Date.md",
   "lastOpenFiles": [
   "lastOpenFiles": [
   "lastOpenFiles": [

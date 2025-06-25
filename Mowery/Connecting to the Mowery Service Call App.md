@@ -35,8 +35,9 @@
 ### 3. Open the Mowery App
 
 1. Tap **mowerydb_mobile** under the saved host.
-2. Sign in using your **account name** and **password**.
-3. Tap **Sign In**.
+2. Click the **Sign in with Microsoft** button on the login dialog box.
+3. Follow the on-screen instructions to sign in.
+
 ---
 ## 🖥️ After Signing In
 
@@ -139,7 +140,7 @@ Use this tab to verify whether the customer’s work is covered under contract.
 
 | Login failed | Confirm you're using your **account name** (not email). Contact your dispatcher if needed. |
 
-| Mowery Payment not showing | Re-check host entry or reinstall FileMaker Go. |
+| MoweryDB Mobile not showing | Re-check host entry or reinstall FileMaker Go. |
 
 ---
 ## 📌 Tips
@@ -151,8 +152,13 @@ Use this tab to verify whether the customer’s work is covered under contract.
 - Check the **Equipment** and **Maintenance Agreement** tabs to confirm coverage and work requirements.
 
 - Keep your iPad charged and software updated to avoid issues during the day.
-
 ---
+
+## ⚠️ Important System Behavior
+
+- The app will only display service calls with the status **"Dispatched"**.  
+  - If no dispatched calls are found, the app will automatically close.
+
 
 For questions or login help, contact your dispatcher or service manager.
 

@@ -14,14 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "The Technician Profile Page.md",
+                "file": "Table of Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Table of Contents"
+            }
+          },
+          {
+            "id": "367b96c3ab9d6616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V. Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "The Technician Profile Page"
+              "title": "V. Templates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +189,44 @@
   "lastOpenFiles": [
     "The Technician Profile Page.md",
     "Effective Date.md",
+  "active": "367b96c3ab9d6616",
+  "lastOpenFiles": [
+    "To be organized/Send Text Message from Service Calls.md",
+    "V. Templates.md",
+    "To be organized/Duplicate a Catalog.md",
+    "To be organized/Automatic Logout After Inactivity.md",
+    "To be organized/Automatic Price Rounding.md",
+    "To be organized/Viewing and Searching Catalog Items.md",
+    "I. Catalogs.md",
+    "Table of Contents.md",
+    "To be organized/Task Codes.md",
+    "III. Service Calls.md",
+    "Assign Service Calls on the Dispatch Board.md",
+    "IV. FileMaker Access.md",
+    "Create Catalogs.md",
+    "Technician Profile Page.md",
+    "II. Products.md",
+    "Delete Catalog.md",
+    "Images/2_delete_catalog.png",
+    "Images/1_add_catalog.png",
+    "Images",
+    "Untitled.md",
+    "I.  Catalogs.md",
+    "I. Create and Manage Catalogs",
+    "To be organized",
+    "002 Catalog",
+    "Connecting to the Mowery Service Call App.md",
+    "Images/1313_view_catalog_items.png",
+    "Images/1313_search_catalog_items.png",
+    "Images/1313_2_view_catalog_items.png",
+    "service_call_tabs.png",
+    "Mowery Mobile App – iPad Setup Instructions.md",
     "Product Catalog and Pricing System.md",
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",
     "Mowery Mirror Server Access Guide.md",
     "Product and Price Book Management System.md",
     "Mowery Documentation",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }

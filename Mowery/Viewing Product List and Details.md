@@ -88,3 +88,9 @@ Located in the upper-right corner, this section shows a log of all pricing chang
 ---
 
 <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_1_view_product_list_and_details.png" width="350" height="230">
+
+##  VI.  Category and Subcategory
+
+**Category**: A top-level group used to organize service calls, identified by a name and a type (`HVAC` or `Plumbing`). Categories can share names if their types differ.
+
+**Subcategory**: A specific group linked to a category. Subcategories inherit the type from their parent category and are required for product assignment.

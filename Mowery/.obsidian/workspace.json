@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Edit Catalog Tax and Add-on Rates.md"
                 "file": "Staff Management.md",
                 "file": "Managing Categories and Subcategories.md",
                 "file": "The Technician Profile Page.md",
@@ -21,6 +22,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Edit Catalog Tax and Add-on Rates"
               "title": "Managing Categories and Subcategories"
               "title": "Table of Contents"
             }
@@ -189,6 +191,32 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "Mowery Documentation/1311_apply_the_price_updates.png",
+    "Mowery Documentation/1311_apply_the_price_update.png",
+    "Edit Catalog Tax and Add-on Rates.md",
+    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
+    "1311_edit_pricing_fields.png",
+    "1311_edit_pricing_fields 1.png",
+    "1304_edit_pricing_fields.png",
+    "Edit Pricing Fields.md",
+    "4_edit_pricing_fields.png",
+    "Print Catalogs.md",
+    "3_3_print_catalog.png",
+    "3_2_print_catalog.png",
+    "3_1_print_catalog.png",
+    "Delete Catalog.md",
+    "2_delete_catalog.png",
+    "Create Catalogs.md",
+    "Catalog Management.md",
+    "Mowery Mobile App – iPad Setup Instructions.md",
+    "Connecting to the Mowery Service Call App.md",
+    "Edit Product Pricing.md",
+    "Technician Profile Page.md",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Automatic Price Rounding.md",
+    "Duplicate a Catalog.md",
   "active": "367b96c3ab9d6616",
   "lastOpenFiles": [
     "Managing Categories and Subcategories.md",

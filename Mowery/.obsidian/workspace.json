@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Staff Management.md",
                 "file": "Managing Categories and Subcategories.md",
                 "file": "The Technician Profile Page.md",
                 "file": "Table of Contents.md",
@@ -35,6 +36,7 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Staff Management"
               "title": "The Technician Profile Page"
               "title": "V. Templates"
             }
@@ -189,6 +191,15 @@
   },
   "active": "367b96c3ab9d6616",
   "lastOpenFiles": [
+    "Managing Categories and Subcategories.md",
+    "Staff Management.md",
+    "I. Catalogs.md",
+    "V. Templates.md",
+    "Table of Contents.md",
+    "IV. FileMaker Access.md",
+    "To be organized/Task Codes.md",
+    "To be organized/Send Text Message from Service Calls.md",
+  "lastOpenFiles": [
     "I. Catalogs.md",
     "Managing Categories and Subcategories.md",
     "V. Templates.md",
@@ -238,6 +249,7 @@
     "Service Tracking and Payment System.md",
     "Resolve Duplicated Template Items.md",
     "Mowery Mirror Server Access Guide.md",
+    "Mowery Documentation"
     "Product and Price Book Management System.md",
     "Mowery Documentation"
     "Mowery Documentation",

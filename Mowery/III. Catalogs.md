@@ -57,22 +57,32 @@ This guide explains how to create, duplicate, delete, and manage **Catalogs** (a
 
 ---
 
-### How the Effective Date Works
+## How the Effective Date Works
 
-- The **Effective Date** is required.
-    
-- It must be unique and cannot duplicate a date from another catalog.
-    
-- When you create a catalog, the effective date copies to all catalog items automatically.
-    
-- If you update the effective date later:
-    
-    - Catalog items update to match the new date.
-        
-    - No update occurs if the date remains unchanged.
-        
-    - If the new date differs, it replaces the date in all items.
-        
+The **Effective Date** controls when a catalog (price book) becomes active. It also applies to all catalog items automatically.
+
+### Effective Date Rules
+
+- The **Effective Date** is a required field.
+- The date must be **unique** across all catalogs.
+- The system prevents creating or duplicating a catalog with an Effective Date that already exists in another catalog.
+- If a duplicate Effective Date is entered, an error message appears:
+  
+  > `"A catalog with this Effective Date already exists. Please enter a different date."`
+
+### Behavior When Creating a Catalog
+
+- When you create a new catalog:
+  - The Effective Date copies automatically to all catalog items.
+
+### Behavior When Updating the Effective Date
+
+- If you change the Effective Date:
+  - All catalog items update to match the new date.
+- If the date remains unchanged:
+  - No updates occur.
+- If the new date differs:
+  - The new date replaces the old date in all catalog items.
 
 ---
 ##  Duplicate a Catalog (Manual Edits Are Preserved)

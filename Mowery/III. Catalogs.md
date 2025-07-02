@@ -75,45 +75,47 @@ This guide explains how to create, duplicate, delete, and manage **Catalogs** (a
         
 
 ---
-
 ##  Duplicate a Catalog (Manual Edits Are Preserved)
 
- Duplicating a catalog retains your manually entered values, including custom prices and descriptions. System-generated values do not overwrite your edits.
+Duplicating a catalog retains your manually entered values, such as custom prices and descriptions. System-generated values do not overwrite your edits.
+
+---
 
 ### 📄 How to Duplicate a Catalog
 
 1. Go to **System Defaults → Catalog**.
     
-2. Click the white space of the catalog to select it.
+2. Click the white area to the right of the catalog name to select it.
     
 3. Click **Duplicate Catalog**.
     
-4. Edit catalog details as needed.
+4. In the window that appears, update the catalog information if needed.
     
-5. Click **Duplicate Catalog** to confirm.
+5. Click **Duplicate Catalog** to start duplicating.
     
-6. Click **OK** when prompted.
+6. A dialog appears stating that duplication is in progress. Click **OK**.
     
-7. After processing, a success or failure message appears.
+7. Another dialog appears to inform you if duplication succeeded or failed.
     
-8. Open the duplicated catalog.
+8. Click the catalog name to open it.
     
-9. Verify that the number of items matches the original.
+9. Verify that the number of catalog items matches the original catalog.
     
 
 ---
 
-### Confirm Your Edits Are Preserved
+### Confirm Manual Edits Are Preserved
 
-1. Manually change a field in a catalog.
+1. Manually edit a field in an existing catalog.
     
-2. Duplicate the catalog.
+2. Follow the steps to duplicate the catalog.
     
-3. Open the duplicated catalog to confirm your changes copied over.
+3. Open the duplicated catalog.
+    
+4. Confirm your manual changes copied over to the duplicate.
     
 
-> **Tip**: If edits didn’t copy, contact support or your system administrator.
-
+> **Tip:** If edits do not copy, contact support or your system administrator.
 ---
 
 ## Delete a Catalog

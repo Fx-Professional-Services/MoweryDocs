@@ -34,7 +34,7 @@ These tools help maintain accurate, consistent pricing across your product catal
 
 You can manually update product pricing in the **Current Pricing** section. All updates are tracked in the **Price History Tracking** panel.
 
-### How to Edit Pricing
+### ✏️ How to Edit Pricing
 
 1. Go to **System Defaults → Products**.
     
@@ -66,7 +66,7 @@ All pricing updates are recorded in the **Price History Tracking** panel on the 
 
 The system simplifies pricing by rounding certain fields to the **nearest whole dollar**. Rounding affects only the displayed price—internal calculations continue using exact decimal values.
 
-### Price Fields Affected
+### 🎯 Price Fields Affected
 
 |Field|Example|
 |---|---|
@@ -96,7 +96,7 @@ The system simplifies pricing by rounding certain fields to the **nearest whole 
 
 You can view a record of all price changes for a product using the **Price History Tracking** panel.
 
-### How to View Price History
+### 🕘 How to View Price History
 
 1. Go to **System Defaults → Products**.
     

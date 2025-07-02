@@ -24,6 +24,8 @@ These tools help maintain accurate, consistent pricing across your product catal
 - [Automatic Price Rounding](#automatic-price-rounding)
     
 - [View Product Price History](#view-product-price-history)
+
+* [Terminology Reference](#terminology-reference)
     
 
 ---
@@ -123,6 +125,21 @@ The **Price History Tracking** panel displays a list of price updates, including
 > All pricing field changes are automatically recorded for auditing and reference.
 
 ---
+
+## Terminology Reference
+
+|Term|Meaning|
+|---|---|
+|**Standard Rate**|The default product price used for regular sales.|
+|**Value Rate**|Discounted or promotional product price, often for special offers.|
+|**Commercial Rate**|Price applied to business, wholesale, or bulk purchases.|
+|**Add-On Standard**|Price for optional add-ons or services under standard pricing.|
+|**Add-On Value**|Price for optional add-ons when the product uses value-based pricing.|
+|**Catalog**|Also called a **Price Book**; a product price list with an effective date.|
+|**Effective Date**|Date when a new price or catalog becomes active.|
+|**Reset Icon**|A button (circular arrow) to undo manual pricing changes.|
+|**Price History Tracking**|A record showing all pricing updates made to a product.|
+
 
 ## 📞 Need Help?
 

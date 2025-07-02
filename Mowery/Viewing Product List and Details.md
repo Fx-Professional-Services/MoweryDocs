@@ -91,6 +91,6 @@ Located in the upper-right corner, this section shows a log of all pricing chang
 
 ##  VI.  Category and Subcategory
 
-**Category**: A top-level group used to organize service calls, identified by a name and a type (`HVAC` or `Plumbing`). Categories can share names if their types differ.
+**Category**: A top-level group used to organize products, identified by a name and a type (`HVAC` or `Plumbing`). Categories can share names if their types differ.
 
 **Subcategory**: A specific group linked to a category. Subcategories inherit the type from their parent category and are required for product assignment.

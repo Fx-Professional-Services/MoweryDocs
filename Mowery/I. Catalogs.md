@@ -1,221 +1,298 @@
 # ➕ Create and Manage Catalogs
 
-You can create multiple catalogs (price books) with effective dates to support future pricing changes. This guide explains how to create catalogs, duplicate them, search catalog items, and manage task codes.
+This guide explains how to create, duplicate, delete, and manage **Catalogs** (also called **Price Books**) in Mowery. Catalogs support future pricing by allowing you to maintain product price lists with effective dates. You can also update tax rates, search catalog items, and reorder products using task codes.
 
 ---
 
 ## **Quick Links**
 
-- [Create a Catalog](#create-a-catalog)
+- [Create a Catalog (Price Book)](#create-a-catalog-price-book)
+    
 - [Duplicate a Catalog (Manual Edits Are Preserved)](#duplicate-a-catalog-manual-edits-are-preserved)
-- [Delete a Catalog (Price Book)](#delete-a-catalog-(price-book))
+    
+- [Delete a Catalog](#delete-a-catalog)
+    
 - [View and Search Catalog Items](#view-and-search-catalog-items)
+    
 - [Edit Catalog Tax and Add-on Rates](#edit-catalog-tax-and-add-on-rates)
-- [Task Codes (Reordering Items)](#task-codes-reordering-items)
+    
+- [Manage Task Codes (Reorder Items)](#manage-task-codes-reorder-items)
+    
 
 ---
 
 ## ➕ Create a Catalog (Price Book)
 
-To create a new catalog (price book) in Mowery:
+To create a new catalog in Mowery:
 
-1. Go to **System Defaults** → **Catalog**.
+1. Go to **System Defaults → Catalog**.
+    
 2. Click **New Catalog**.
-3. In the catalog form, enter the required details:
-   - **Effective Date**
-   - **Title**
-   - **Revision**
-   - Any other required fields
+    
+3. Enter the required details:
+    
+    - **Effective Date**
+        
+    - **Title**
+        
+    - **Revision**
+        
+    - Other required fields
+        
 4. Click **Add Catalog**.
-5. A dialog appears confirming that the catalog creation is in progress. Click **OK**.
-6. After processing, a second dialog confirms whether the catalog was created successfully or not.
+    
+5. A confirmation dialog appears. Click **OK** to proceed.
+    
+6. After processing, a success or failure message displays.
+    
 7. Click the catalog name to open it.
-8. Verify that the number of catalog items matches the number of active products.
+    
+8. Verify the number of catalog items matches your active product list.
+    
 
-> 📘 **Note**: In Mowery, catalogs are also referred to as **price books**. Each catalog lists product pricing that becomes effective on the specified date.
+> **Note**: In Mowery, **Catalogs** and **Price Books** are the same. Catalogs store product pricing effective on the specified date.
 
 <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/1e36d159fcf3d5d763fe6d3b338c804a0fb539c6/Mowery/1_add_catalog.png" width="350" height="230">
 
-## How Effective Date Works
+---
 
-- The **Effective Date** field is **required**. You can't leave it blank.
-- The entered effective date must be **unique**. It shouldn't duplicate the date used in previous catalogs.
-- When a catalog is created, its effective date is **automatically copied** to all related catalog items.
-- If the effective date in the catalog is changed later:
-  - All catalog items update automatically to match the new date.
-  - If the new date is **the same** as the existing date in the catalog items, no updates are made.
-  - If the new date is **different**, it **replaces** the date in all catalog items.
+### How the Effective Date Works
 
+- The **Effective Date** is required.
+    
+- It must be unique and cannot duplicate a date from another catalog.
+    
+- When you create a catalog, the effective date copies to all catalog items automatically.
+    
+- If you update the effective date later:
+    
+    - Catalog items update to match the new date.
+        
+    - No update occurs if the date remains unchanged.
+        
+    - If the new date differs, it replaces the date in all items.
+        
 
 ---
 
-## Duplicate a Catalog (Manual Edits Are Preserved)
+## 📄 Duplicate a Catalog (Manual Edits Are Preserved)
 
-You can duplicate a catalog without losing manually entered values. Custom prices, descriptions, and other edits are retained—system auto-filled fields will not overwrite your data.
+Duplicating a catalog retains your manually entered values, including custom prices and descriptions. System-generated values do not overwrite your edits.
 
 ### How to Duplicate a Catalog
 
 1. Go to **System Defaults → Catalog**.
-2. Click the white space of the catalog you want to duplicate.
+    
+2. Click the white space of the catalog to select it.
+    
 3. Click **Duplicate Catalog**.
-4. Update the catalog details if needed.
-5. Click **Duplicate Catalog** again to confirm.
-6. When prompted, click **OK**.
+    
+4. Edit catalog details as needed.
+    
+5. Click **Duplicate Catalog** to confirm.
+    
+6. Click **OK** when prompted.
+    
 7. After processing, a success or failure message appears.
-8. Click the duplicated catalog to open it.
-9. Confirm the number of items matches the original catalog.
-
-### What You Should Know
-
-- Manually entered values (such as prices) are **kept**.
-- System-generated values will **not overwrite** your changes.
-- Your edits are safe when duplicating catalogs.
-
-### Quick Check
-
-Want to confirm your edits were preserved?
-
-1. Change some fields manually in a catalog.
-2. Duplicate the catalog.
-3. Open the new catalog and confirm your changes are still present.
-
-### Need Help?
-
-If your edits didn’t copy over, contact support or your system administrator.
-
-______
-## ❌ Delete a Catalog (Price Book)
-
-To delete a catalog in the new Price Book interface:
-
-1. Navigate to **System Defaults → Catalog**.
-2. Select the catalog you want to delete by clicking the white area on the right side of the window.
-3. Click the **Delete Catalog** button located at the upper-left corner of the screen.
-4. A confirmation dialog will appear. Click **Delete** to permanently delete the catalog. Click **No** to cancel the deletion.
-
-> ⚠️ Deleting a catalog is irreversible. Make sure the catalog is no longer needed before confirming deletion.
-
-<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/cf0f3e9827d27e37f9617f48879e1758843db31f/Mowery/2_delete_catalog.png" width="350" height="230">
-
+    
+8. Open the duplicated catalog.
+    
+9. Verify that the number of items matches the original.
+    
 
 ---
 
-##  View and Search Catalog Items
+### Confirm Your Edits Are Preserved
 
-You can view and modify catalog details, or search for specific items within a catalog.
+1. Manually change a field in a catalog.
+    
+2. Duplicate the catalog.
+    
+3. Open the duplicated catalog to confirm your changes copied over.
+    
+
+> **Tip**: If edits didn’t copy, contact support or your system administrator.
+
+---
+
+## 🗑️ Delete a Catalog
+
+To delete a catalog:
+
+1. Go to **System Defaults → Catalog**.
+    
+2. Select the catalog by clicking the white area on the right.
+    
+3. Click **Delete Catalog** at the top-left corner.
+    
+4. In the confirmation dialog, click:
+    
+    - **Delete** to confirm.
+        
+    - **No** to cancel.
+        
+
+> ⚠️ **Warning**: Deleting a catalog is irreversible. Ensure it is no longer needed before deletion.
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/cf0f3e9827d27e37f9617f48879e1758843db31f/Mowery/2_delete_catalog.png" width="350" height="230">
+
+---
+
+## 🔍 View and Search Catalog Items
+
+You can review catalog details or search for specific items within a catalog.
 
 ### View a Catalog
 
 1. Go to **System Defaults → Catalog**.
-2. Select a catalog and click the **leftmost button** next to the **Code** to open **Catalog Info** and **Price Settings**.
+    
+2. Click the leftmost button next to the catalog **Code** to open **Catalog Info** and **Price Settings**.
+    
 
-   ![View Catalog Button](https://github.com/Fx-Professional-Services/MoweryDocs/blob/e7eb1bd7f50a885c571bc5516885876c05b2b61b/Mowery/1313_search_catalog_items.png)
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/e7eb1bd7f50a885c571bc5516885876c05b2b61b/Mowery/1313_search_catalog_items.png" width="350" height="230">
 
-3. Modify pricing fields, tax rates, and other catalog details as needed.
-4. To display catalog items, click **View Catalog**.
+3. Edit pricing fields, tax rates, or other details.
+    
+4. To view catalog items, click **View Catalog**.
+    
 
-   ![View Catalog Items](https://github.com/Fx-Professional-Services/MoweryDocs/blob/e7eb1bd7f50a885c571bc5516885876c05b2b61b/Mowery/1313_2_view_catalog_items.png)
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/e7eb1bd7f50a885c571bc5516885876c05b2b61b/Mowery/1313_2_view_catalog_items.png" width="350" height="230">
 
 ---
 
-###  Search Catalog Items
-
-Follow these steps to search for specific items:
+### Search for Catalog Items
 
 1. Go to **System Defaults → Catalog**.
-2. Click the **Catalog Title** to open the catalog.
-3. In the **Catalog Items** section, use the **search bar** at the top.
-   - Enter a **keyword**, **product code**, or **phrase**.
+    
+2. Click the catalog title to open it.
+    
+3. In **Catalog Items**, use the search bar at the top:
+    
+    - Enter a **keyword**, **product code**, or **phrase**.
+        
 4. Press:
-   - **Enter** (Windows)
-   - **Return** (Mac)
+    
+    - **Enter** (Windows)
+        
+    - **Return** (Mac)
+        
 
-   ![Search Catalog Items](https://github.com/Fx-Professional-Services/MoweryDocs/blob/e7eb1bd7f50a885c571bc5516885876c05b2b61b/Mowery/1313_search_catalog_items.png)
+**Search Results:**
 
-### Search Results
-
-- If no results are found, a **"no results found"** message appears.
-- The full catalog item list remains available for browsing.
+- If no results are found, a “no results found” message appears.
+    
+- The full catalog item list remains accessible for browsing.
+    
 
 ---
-##  Edit Catalog Tax and Add-on Rates
 
-You can update tax rates and other catalog-level pricing fields from the **Catalog Price Settings** section.
+## 💵 Edit Catalog Tax and Add-on Rates
 
-### Steps
+You can update tax rates, labor charges, and other catalog-level pricing fields in **Catalog Price Settings**.
+
+### How to Update Rates
 
 1. Go to **System Defaults → Catalog**.
-2. Select a catalog from the list.
-3. Click the **leftmost button** next to the **Code** column to open the catalog details.
-4. In the **Catalog Price Settings** section, edit any of the following fields as needed:
-   - **Tax** – Set a new tax rate (e.g., `0%` for tax-exempt catalogs).
-   - **HVAC Labor** – Labor rate for HVAC-related services.
-   - **HVAC Value** – Value-based adjustment for HVAC work.
-   - **Plumbing Labor** – Labor rate for plumbing services.
-   - **Plumbing Value** – Value-based pricing for plumbing tasks.
-   - **Flat** – Flat rate adjustment across applicable items.
-   - **Mobile App SA Add-on Discount** – Discount applied for service agreements via the mobile app.
-
+    
+2. Select a catalog.
+    
+3. Click the leftmost button next to the **Code** to open catalog details.
+    
+4. In **Catalog Price Settings**, update fields as needed:
+    
+    - **Tax** — Set the tax rate (`0%` for tax-exempt catalogs).
+        
+    - **HVAC Labor** — Labor rate for HVAC services.
+        
+    - **HVAC Value** — Value-based HVAC adjustment.
+        
+    - **Plumbing Labor** — Labor rate for plumbing.
+        
+    - **Plumbing Value** — Value-based plumbing pricing.
+        
+    - **Flat** — Flat rate adjustment for applicable items.
+        
+    - **Mobile App SA Add-on Discount** — Discount for mobile app service agreements.
+        
 5. Click **Update Price**.
+    
 
 <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d9b56235ea4e319145c9cb9665c6e1f282f52146/Mowery/1304_edit_pricing_fields.png" width="350" height="230">
 
-### Apply the Price Update
+---
 
-1. A dialog window appears asking how you'd like to apply the update.
-2. Choose one of the following options:
-   - **Update prices except for manually modified ones** (default): Updates only system-controlled values.
-   - **Update all prices (overwrite manual changes)**: Applies the changes to all catalog items, including manually edited ones.
-3. Click **Proceed**.
-4. A confirmation message appears. Click **OK** to close it.
+### Apply Price Updates
+
+1. A dialog prompts you to select how to apply the update:
+    
+    - **Update prices except manually modified ones** _(default)_ — System-controlled values update; manual edits stay unchanged.
+        
+    - **Update all prices (overwrite manual changes)** — Applies changes to all items, including manual edits.
+        
+2. Click **Proceed**.
+    
+3. Click **OK** to close the confirmation message.
+    
 
 <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/6b032d293511fe3a15afb430bca112ef42504df1/Mowery/Mowery%20Documentation/1311_apply_the_price_updates.png" width="350" height="230">
 
-> **Tip**: To preserve any manual adjustments made to catalog item pricing, choose the default option.
-
-___
-## Task Codes (Reordering Items)
-
-Task Codes control the sequence of items within a product catalog. You can adjust these numeric values to reorder items manually.
-
-### Functionality Overview
-
-- **Reordering Tasks**: Task codes define the display order within each category and subcategory.
-- **Automatic Sequencing**: New items are automatically assigned the next task code in sequence.
-- **Immediate Display Updates**: Changes to task codes update the catalog order in real-time.
+> **Tip**: To preserve manual adjustments, select the default option.
 
 ---
 
-### Manual Overrides
+## 🔢 Manage Task Codes (Reorder Items)
 
-To reorder items manually:
+**Task Codes** control the sequence of catalog items. You can adjust task codes to reorder items manually.
+
+---
+
+### How Task Codes Work
+
+- **Reordering Items** — Task codes define item order within categories and subcategories.
+    
+- **Automatic Assignment** — New items get the next task code automatically.
+    
+- **Immediate Updates** — Catalog order updates in real time after changes.
+    
+
+---
+
+### Manually Reorder Items
 
 1. Go to **System Defaults → Catalog**.
-2. Select the catalog by clicking its name.
-3. Find the item you want to reorder.
-4. Click its **Code** field.
-5. Enter a new numeric value to adjust its position.
+    
+2. Click the catalog title to open it.
+    
+3. Find the item to reorder.
+    
+4. Click the item’s **Code** field.
+    
+5. Enter a new numeric task code.
+    
 6. The catalog updates automatically.
+    
 
-> **Tip**: Use gaps in task codes (e.g., 10, 20, 30) to simplify inserting new items later.
-
----
-
-### Catalog-Level Task Code Behavior
-
-When creating a new catalog:
-
-- Task codes continue as long as **Category Code** and **Subcategory Code** remain unchanged.
-- If **Category Code** or **Subcategory Code** changes, task codes reset to **1** for the new group.
-
-**Example**:
-
-| Category | Subcategory | Task Code Sequence |
-|----------|-------------|-------------------|
-| A        | A           | 1, 2, 3...        |
-| A        | B           | 1, 2...           |
-| A        | A           | 4, 5...           |
-
-This structure ensures task codes stay meaningful and organized within each catalog group.
+> **Tip**: Use gaps between task codes (e.g., 10, 20, 30) to simplify inserting new items later.
 
 ---
+
+### Task Code Behavior by Category
+
+Task code sequencing depends on **Category Code** and **Subcategory Code**:
+
+|Category|Subcategory|Task Code Sequence|
+|---|---|---|
+|A|A|1, 2, 3...|
+|A|B|1, 2...|
+|A|A|4, 5...|
+
+**Behavior Notes**:
+
+- Task codes continue within the same category and subcategory.
+    
+- Changing either resets the sequence to **1** for that group.
+    
+- Returning to a previous group resumes the task code sequence.
+    
+
+This structure ensures catalog order stays organized and easy to manage.

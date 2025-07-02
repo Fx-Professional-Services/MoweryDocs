@@ -21,7 +21,7 @@ This guide explains how to create, duplicate, delete, and manage **Catalogs** (a
 
 ---
 
-## ➕ Create a Catalog (Price Book)
+##  Create a Catalog (Price Book) ➕
 
 To create a new catalog in Mowery:
 

@@ -13,38 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edit Catalog Tax and Add-on Rates.md"
-                "file": "Staff Management.md",
-                "file": "Managing Categories and Subcategories.md",
-                "file": "The Technician Profile Page.md",
-                "file": "Table of Contents.md",
+                "file": "I. Catalogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edit Catalog Tax and Add-on Rates"
-              "title": "Managing Categories and Subcategories"
-              "title": "Table of Contents"
-            }
-          },
-          {
-            "id": "367b96c3ab9d6616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V. Templates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Staff Management"
-              "title": "The Technician Profile Page"
-              "title": "V. Templates"
+              "title": "I. Catalogs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,96 +168,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593df7ad4371bd36",
+  "active": "367b96c3ab9d6616",
   "lastOpenFiles": [
-    "Mowery Documentation/1311_apply_the_price_updates.png",
-    "Mowery Documentation/1311_apply_the_price_update.png",
     "Edit Catalog Tax and Add-on Rates.md",
-    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
-    "1311_edit_pricing_fields.png",
-    "1311_edit_pricing_fields 1.png",
-    "1304_edit_pricing_fields.png",
-    "Edit Pricing Fields.md",
-    "4_edit_pricing_fields.png",
-    "Print Catalogs.md",
-    "3_3_print_catalog.png",
-    "3_2_print_catalog.png",
-    "3_1_print_catalog.png",
-    "Delete Catalog.md",
-    "2_delete_catalog.png",
-    "Create Catalogs.md",
-    "Catalog Management.md",
-    "Mowery Mobile App – iPad Setup Instructions.md",
-    "Connecting to the Mowery Service Call App.md",
-    "Edit Product Pricing.md",
-    "Technician Profile Page.md",
-    "Edit Sort Numbers to Reorder Items.md",
-    "Automatic Price Rounding.md",
-    "Duplicate a Catalog.md",
-  "active": "367b96c3ab9d6616",
-  "lastOpenFiles": [
+    "I. Catalogs.md",
     "Managing Categories and Subcategories.md",
+    "V. Templates.md",
     "Staff Management.md",
-    "I. Catalogs.md",
-    "V. Templates.md",
-    "Table of Contents.md",
+    "Mowery Documentation/1311_apply_the_price_updates.png",
+    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
+    "Mowery Documentation",
     "IV. FileMaker Access.md",
-    "To be organized/Task Codes.md",
-    "To be organized/Send Text Message from Service Calls.md",
-  "lastOpenFiles": [
-    "I. Catalogs.md",
-    "Managing Categories and Subcategories.md",
-    "V. Templates.md",
     "Table of Contents.md",
-    "IV. FileMaker Access.md",
-    "To be organized/Task Codes.md",
-    "To be organized/Send Text Message from Service Calls.md",
-  "active": "593df7ad4371bd36",
-  "lastOpenFiles": [
-    "The Technician Profile Page.md",
-    "Effective Date.md",
-  "active": "367b96c3ab9d6616",
-  "lastOpenFiles": [
-    "To be organized/Send Text Message from Service Calls.md",
-    "V. Templates.md",
-    "To be organized/Duplicate a Catalog.md",
-    "To be organized/Automatic Logout After Inactivity.md",
-    "To be organized/Automatic Price Rounding.md",
+    "Viewing Product List and Details.md",
     "To be organized/Viewing and Searching Catalog Items.md",
-    "III. Service Calls.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "I. Catalogs.md",
-    "Table of Contents.md",
     "To be organized/Task Codes.md",
-    "III. Service Calls.md",
-    "Assign Service Calls on the Dispatch Board.md",
-    "IV. FileMaker Access.md",
-    "Create Catalogs.md",
-    "Technician Profile Page.md",
-    "II. Products.md",
-    "Delete Catalog.md",
+    "To be organized/Send Text Message from Service Calls.md",
+    "To be organized/Duplicate a Catalog.md",
+    "To be organized/Automatic Price Rounding.md",
+    "To be organized/Automatic Logout After Inactivity.md",
+    "To be organized",
+    "The Technician Profile Page.md",
     "Images/2_delete_catalog.png",
     "Images/1_add_catalog.png",
-    "Images",
-    "Untitled.md",
-    "I.  Catalogs.md",
-    "I. Create and Manage Catalogs",
-    "To be organized",
-    "002 Catalog",
-    "Connecting to the Mowery Service Call App.md",
     "Images/1313_view_catalog_items.png",
     "Images/1313_search_catalog_items.png",
     "Images/1313_2_view_catalog_items.png",
+    "Images",
+    "III. Service Calls.md",
+    "II. Products.md",
+    "1315_viewing_product_list_and_details.png",
+    "1315_1_view_product_list_and_details.png",
+    "Assign Service Calls on the Dispatch Board.md",
+    "Create Catalogs.md",
+    "Technician Profile Page.md",
+    "Delete Catalog.md",
+    "Untitled.md",
+    "I.  Catalogs.md",
+    "I. Create and Manage Catalogs",
+    "002 Catalog",
+    "Connecting to the Mowery Service Call App.md",
     "service_call_tabs.png",
-    "Mowery Mobile App – iPad Setup Instructions.md",
-    "Product Catalog and Pricing System.md",
-    "Service Tracking and Payment System.md",
-    "Resolve Duplicated Template Items.md",
-    "Mowery Mirror Server Access Guide.md",
-    "Mowery Documentation"
-    "Product and Price Book Management System.md",
-    "Mowery Documentation"
-    "Mowery Documentation",
-    "Welcome.md"
+    "Mowery Mobile App – iPad Setup Instructions.md"
   ]
 }

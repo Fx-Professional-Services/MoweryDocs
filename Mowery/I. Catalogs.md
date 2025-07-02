@@ -17,7 +17,8 @@ This guide explains how to create, duplicate, delete, and manage **Catalogs** (a
 - [Edit Catalog Tax and Add-on Rates](#edit-catalog-tax-and-add-on-rates)
     
 - [Manage Task Codes (Reorder Items)](#manage-task-codes-reorder-items)
-    
+
+* [Terminology Reference](#terminology-reference)
 
 ---
 
@@ -296,3 +297,18 @@ Task code sequencing depends on **Category Code** and **Subcategory Code**:
     
 
 This structure ensures catalog order stays organized and easy to manage.
+
+____
+
+## Terminology Reference
+
+|Term|Meaning|
+|---|---|
+|**Catalog (Price Book)**|A product price list with an effective date. Both terms are interchangeable.|
+|**Effective Date**|The date when a catalog’s pricing becomes active.|
+|**Task Code**|A number that controls the display order of catalog items.|
+|**Category Code**|A label used to group items by type or department.|
+|**Subcategory Code**|A more specific grouping within a category.|
+|**Mobile App SA Add-on Discount**|Discount applied for service agreements purchased via the mobile app.|
+|**Update Prices Except Manually Modified Ones**|Keeps manual price changes when updating catalog rates.|
+|**Update All Prices (Overwrite Manual Changes)**|Replaces all catalog item prices, including manual edits.|

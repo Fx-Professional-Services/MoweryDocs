@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II. Products.md",
+                "file": "III. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II. Products"
+              "title": "III. Service Calls"
             }
           }
         ]
@@ -168,13 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "367b96c3ab9d6616",
+  "active": "e0f25451a879719d",
   "lastOpenFiles": [
-    "View Product Price History.md",
-    "II. Products.md",
-    "I. Catalogs.md",
-    "To be organized/Task Codes.md",
     "To be organized/Automatic Price Rounding.md",
+    "III. Service Calls.md",
+    "To be organized/Duplicate a Catalog.md",
+    "To be organized/Send Text Message from Service Calls.md",
+    "To be organized/Viewing and Searching Catalog Items.md",
+    "To be organized/Task Codes.md",
+    "II. Products.md",
+    "View Product Price History.md",
+    "I. Catalogs.md",
     "To be organized/Automatic Logout After Inactivity.md",
     "Managing Categories and Subcategories.md",
     "Edit Catalog Tax and Add-on Rates.md",
@@ -186,9 +190,6 @@
     "IV. FileMaker Access.md",
     "Table of Contents.md",
     "Viewing Product List and Details.md",
-    "To be organized/Viewing and Searching Catalog Items.md",
-    "To be organized/Send Text Message from Service Calls.md",
-    "To be organized/Duplicate a Catalog.md",
     "To be organized",
     "The Technician Profile Page.md",
     "Images/2_delete_catalog.png",
@@ -197,7 +198,6 @@
     "Images/1313_search_catalog_items.png",
     "Images/1313_2_view_catalog_items.png",
     "Images",
-    "III. Service Calls.md",
     "1315_viewing_product_list_and_details.png",
     "1315_1_view_product_list_and_details.png",
     "Assign Service Calls on the Dispatch Board.md",

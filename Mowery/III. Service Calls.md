@@ -1,225 +1,360 @@
 # 🧾 Service Call Features: Printing, Messaging, and Dispatching
 
-This guide explains how to use key features in the **Service Call** module in FileMaker. It includes instructions for:
+This guide explains how to use key features of the **Service Call** module in FileMaker. These tools improve communication with customers, track service activity, and streamline technician dispatch.
 
-- Printing parts lists using **Print to Parts**
-- Sending SMS messages with technician information
-- Understanding the **automatic logout** behavior
-- Assigning technicians using the **dispatch board**
-- Viewing the **Technician Profile Page** sent to customers
+You will learn how to:
 
-These tools improve communication, track service activity, and streamline dispatching workflows.
+- Print a parts list
+    
+- Send a technician introduction by text message
+    
+- Assign technicians using the dispatch board
+    
+- View the **Technician Profile Page** shared with customers
+    
+- Understand the automatic logout process
+    
 
 ---
 
 ## 🔗 Quick Links
 
-- [Print to Parts from a Service Call](#print-to-parts-from-a-service-call)
-- [Send Text Message from Service Calls](#send-text-message-from-service-calls)
+- [Assign Technicians Using the Dispatch Board](#assign-technicians-using-the-dispatch-board)
+    
+- [Send a Text Message with Technician Details](#send-a-text-message-with-technician-details)
+    
+- [Technician Profile Page for Customers](#technician-profile-page-for-customers)
+    
+- [Print a Parts List from a Service Call](#print-a-parts-list-from-a-service-call)
+    
 - [Automatic Logout After Inactivity](#automatic-logout-after-inactivity)
-- [Assign Calls on the Dispatch Board](#assign-calls-on-the-dispatch-board)
-- [Technician Profile Page](#technician-profile-page)
+    
+
+
+# Managing Categories and Subcategories
+
+This guide explains how to manage categories and subcategories in the system, including how to assign types such as **HVAC** or **Plumbing**.
 
 ---
 
-## Print to Parts from a Service Call
+## 🏷️ Specify a Type for Each Category
 
-You can generate a printed parts list directly from a service call using the **Print to Parts** feature.
+To create a new category and assign a type:
 
-### What happens when you click "Print to Parts"
+1. From the main menu, go to **System Defaults**.
+2. From the top navigation menu, select **Category**.
+3. Click **New Item** to create a new category.
+4. In the **Category Name** field, enter the desired name.
+5. In the **Type** field, select either:
+   - `HVAC`
+   - `Plumbing`
 
-When the dispatcher clicks **Print to Parts**:
+> **Note:** The **Type** field is a plain text attribute stored only in the **Category** table. It distinguishes between categories with the same name.
 
-- The **Printed to Parts** field is updated with:
-  - The dispatcher's account name
-  - The date and time of the action
+---
 
-> 📌 This field logs the print action for future reference.
+## 🧩 Use Duplicate Category Names with Different Types
 
-### How to print to parts
+The system allows multiple categories to share the same name if each has a different **Type**.
+
+Example:
+
+- `Miscellaneous (HVAC)` → Select the type **HVAC**
+- `Miscellaneous (Plumbing)` → Select the type **Plumbing**
+
+These categories will appear in the **Category** selection list within **Sub Category**, with the type shown in the name to help distinguish them. The underlying **Type** field remains hidden from users at the selection level.
+
+---
+
+## 📂 Assign Subcategories to Categories
+
+To link a subcategory to a parent category:
+
+1. From the main menu, go to **System Defaults**.
+2. From the top navigation menu, select **Sub Category**.
+3. Select the subcategory you want to edit.
+4. From the **Category** dropdown, select the appropriate parent category.
+
+> The **Category** dropdown displays the category name only.  
+> Be sure you recognize the correct category based on its naming convention.  
+> The subcategory automatically inherits the **Type** from its parent category.  
+
+> **Important:** The **Type** field does not exist in the **Sub Category** table.
+
+---
+
+## 📦 Assign Products to a Subcategory
+
+All products must be assigned to a subcategory.
+
+- If no specific subcategory applies, assign the product to a `Miscellaneous` subcategory under the appropriate **Type**.  
+  Examples:
+  - `Miscellaneous (HVAC)`
+  - `Miscellaneous (Plumbing)`
+
+---
+
+## Assign Technicians Using the Dispatch Board
+
+The **HVAC Schedule Board** helps dispatchers assign technicians to service calls quickly.
+
+### 📅  How to assign a technician
 
 1. Go to **Service Calls** from the main menu.
-2. Click a service card in the rightmost column.
-3. Scroll to the bottom-right of the screen.
-4. Click **Print to Parts**:
-   - A print layout opens.
-   - Ignore any "Printer not found" message.
-5. The system updates the **Printed to Parts** field automatically.
+    
+2. Click **Schedule Board**.
+    
+3. Unassigned HVAC calls appear in peach on the left column.
+    
+4. Click a service call to open the details.
+    
+5. In **Step 2: Assign Technician**, click **New**.
+    
+6. Select a technician from the dropdown list.
+    
 
-### Default printer behavior
-
-- The system sends the job to the **default parts printer**.
-- No manual printer selection is needed.
-
-**Benefits**:
-- Saves time  
-- Reduces errors  
-- Improves workflow
-
-### Definitions
-
-- **Service Call**: A scheduled visit for installation, repair, or inspection.
-- **Print to Parts**: A function to print a job-specific parts list.
-- **Printed to Parts field**: A log showing who printed the list and when.
-- **Default parts printer**: A preconfigured printer used automatically.
+> Only preconfigured technicians appear in the list.
 
 ---
 
-##  Send Text Message from Service Calls
+### What is HVAC?
 
-You can send a personalized text message to customers directly from the Service Call screen using Twilio.
+**HVAC** means **Heating, Ventilation, and Air Conditioning**. HVAC service calls cover heating, cooling, and ventilation systems. These calls are managed separately using the HVAC dispatch board.
 
-### Pre-send checklist
+---
+
+## Send a Text Message with Technician Details
+
+You can send customers a personalized text message with technician and appointment information using Twilio.
+
+### 💬 Requirements
 
 Before sending a message:
 
-1. **Master Property List**:  
-   - Phone number is valid  
-   - Marked as **preferred**
+- The **Master Property List** phone number is:
+    
+    - Valid
+        
+    - Marked as **Preferred**
+        
+- In the **Service Call** record:
+    
+    - **Accept Text Message** is checked
+        
+- The phone number uses valid 10-digit U.S. format
+    
 
-2. **Service Call**:  
-   - **Accept Text Message** is checked
-
-3. **Phone Format**:  
-   - Valid 10-digit U.S. format
+---
 
 ### How to send a text message
 
 1. Go to **Service Calls**.
+    
 2. Open the service call record.
+    
 3. In the **Contact** section:
-   - Confirm **Text** is selected
-   - Ensure number is valid and preferred
-   - Check **Accept Text Message**
+    
+    - Confirm **Text** is selected
+        
+    - Ensure the number is valid and marked as **Preferred**
+        
+    - Check **Accept Text Message**
+        
 4. Click the **Send Text Message** icon.
-5. Wait for success or error message.
+    
+5. Wait for the confirmation or error message.
+    
 
-### Requirements
-
-- Valid U.S. cellphone number  
-- Preferred number selected  
-- **Text** set as contact method  
-- **Accept Text Message** checked
-
-### Error messages
-
-| Condition                                  | Message                                                    |
-|-------------------------------------------|------------------------------------------------------------|
-| No preferred number                       | `A preferred phone number is required to send a message.`  |
-| Number missing, checkbox checked          | `Cell number is required if Accept Text Message is checked.` |
-| Invalid number                            | `Invalid US Number.`                                       |
-| Twilio delivery failure                   | `Failed to deliver.`                                       |
-| Other Twilio errors                       | Shown directly from Twilio                                 |
-
-### Success message
-
-- The system displays a confirmation when the message is sent successfully.
+---
 
 ### Message contents
 
-- Technician name(s)  
-- Customer address  
-- Secure technician profile link  
-- Personalized greeting  
+The text includes:
 
-**Sample message:**
+- Technician name(s)
+    
+- Customer address
+    
+- Secure link to the **Technician Profile Page**
+    
+- Technician introduction
+    
 
-Hello [Customer Name], [Technician Name(s)] from Mowery is on the way to [Customer Address].  
-Click here for more details: [Technician Profile Webpage Link]
+**Example message:**
 
-Hi, my name is [Technician Name]. I’ll be your technician today. [Short Technician Bio]  
-If you have any questions, I’m here to help. Thank you for choosing Mowery!
+`Hello [Customer Name], [Technician Name(s)] from Mowery is on the way to [Customer Address].   Click here for more details: [Technician Profile Webpage Link]    Hi, my name is [Technician Name]. I’ll be your technician today. [Short Technician Bio]   If you have any questions, I’m here to help. Thank you for choosing Mowery!`
 
+---
 
 ### Template variables
 
-| Variable                         | Description                             |
-|----------------------------------|-----------------------------------------|
-| `[Customer Name]`               | Full name of the customer               |
-| `[Technician Name(s)]`          | Name(s) of assigned technician(s)       |
-| `[Customer Address]`            | Service address                         |
-| `[Technician Bio]`              | Introduction text from technician       |
-| `[Technician Profile Webpage Link]` | Secure profile link for the technician |
-
-### Message behavior
-
-- Sent manually or automatically from a Service Call
-- Opens a secure webpage showing:
-  - Technician name, photo, bio
-  - Arrival time
-  - Optional appointment confirmation
+|Variable|Description|
+|---|---|
+|`[Customer Name]`|Full name of the customer|
+|`[Technician Name(s)]`|Name(s) of assigned technician(s)|
+|`[Customer Address]`|Service location|
+|`[Technician Bio]`|Technician's introduction text|
+|`[Technician Profile Webpage Link]`|Secure link to technician's profile|
 
 ---
 
-##  Automatic Logout After Inactivity
+### Error messages
 
-The system logs out users after a period of inactivity to protect data.
+|Condition|Message|
+|---|---|
+|No preferred number|`A preferred phone number is required to send a message.`|
+|Number missing, checkbox checked|`Cell number is required if Accept Text Message is checked.`|
+|Invalid number|`Invalid US Number.`|
+|Twilio delivery failure|`Failed to deliver.`|
+|Other Twilio errors|Message displayed directly from Twilio|
 
-### Overview
+### Message Behavior
 
-- If inactive for **2 hours**, a message appears:
-  > "No activity detected. The file will close unless you click Cancel."
-- If no action is taken, the file automatically closes.
+- Sent automatically or manually from the **Service Call** screen.
+- Links to a secure webpage with:
+    - Technician name, photo, and bio
+    - Estimated time of arrival
+    - Appointment confirmation or cancellation buttons (if applicable)
+- Personal and professional tone to build trust with the customer.
 
-### Who this applies to
+---
+
+##  Technician Profile Page for Customers
+
+### 🌐 Technician Profile Page
+
+This page explains what customers see when they click the **Technician Profile** link sent via text message from the Service Call system.
+
+---
+### 📋 Overview
+
+Customers receive a secure link to a **Technician Profile Page** in their service notification text. This page provides helpful details about the upcoming appointment and the assigned technician(s).
+
+### 👨‍🔧 What customers see
+
+ **🛠️** **Service information:**
+
+- Status (Scheduled, In Progress, or Completed)
+    
+- Appointment time
+    
+- Service description
+    
+- Service type (e.g., HVAC, Electrical)
+    
+
+**👷** **Technician details:**
+
+- Technician name(s)
+    
+- Technician photos
+    
+- Short biography (if available)
+    
+
+---
+
+### **🔒** Security and access
+
+- Each link is unique and secure
+    
+- No login is required
+    
+- Customers cannot browse other profiles
+    
+- Mobile-friendly and easy to use
+    
+
+
+**By sharing this information, Mowery helps ensure a smooth, transparent, and professional experience for every customer.**
+
+---
+
+## Print a Parts List from a Service Call
+
+You can print a job-specific parts list using the **Print to Parts** feature.
+
+### 🖨️  How to print to parts
+
+1. Go to **Service Calls** from the main menu.
+    
+2. Select a service call from the list (rightmost column).
+    
+3. Scroll to the bottom-right corner.
+    
+4. Click **Print to Parts**:
+    
+    - A print layout opens
+        
+    - Ignore "Printer not found" message if it appears
+        
+5. The **Printed to Parts** field updates automatically with:
+    
+    - Dispatcher’s account name
+        
+    - Date and time
+        
+
+---
+
+### Default printer behavior
+
+- The job goes to the **default parts printer**
+    
+- You do not need to select a printer manually
+    
+
+**Benefits:**
+
+- Faster printing
+    
+- Fewer manual steps
+    
+- Improved workflow tracking
+    
+
+---
+
+## Automatic Logout After Inactivity
+
+The system protects your data by logging out inactive users.
+
+### ⏲️  How it works
+
+- After **2 hours** of inactivity:
+    
+    - A message appears: `"No activity detected. The file will close unless you click Cancel."`
+        
+- If no action is taken, the file closes automatically
+    
+
+**Who this applies to:**
 
 - All FileMaker users
+    
 
 ### Tips to stay logged in
 
-- Click **Cancel** when prompted  
-- Save work regularly  
-- Reopen the file to log back in if logged out
+- Click **Cancel** when prompted
+    
+- Save your work regularly
+    
+- Reopen the file if logged out
+    
 
-> ℹ️ This feature prevents unattended sessions from remaining active.
-
----
-
-## Assign Calls on the Dispatch Board
-
-Use the **HVAC Schedule Board** to assign technicians to service calls.
-
-### How to assign a technician
-
-1. Go to **Service Calls** from the main menu.
-2. View the **Schedule Board**.
-3. In the leftmost column, find unassigned HVAC calls (highlighted in peach).
-4. Click a call to open the Service Call Detail.
-5. In **Step 2: Assign Technician**, click **New**.
-6. Use the dropdown to select a technician.
-
-> 📌 Only preconfigured technicians appear in the list.
-
-### What is HVAC?
-
-**HVAC** stands for **Heating, Ventilation, and Air Conditioning**. HVAC calls relate to heating or cooling systems and are managed on the HVAC dispatch board.
+> This feature helps prevent unauthorized access to unattended sessions.
 
 ---
 
-## Technician Profile Page
+## Terminology Reference
 
-When customers receive a text message, they are linked to a personalized **Technician Profile Page**.
-
-### What customers see
-
-#### Service information
-
-- **Status** — Scheduled, In Progress, or Completed  
-- **Appointment Time**  
-- **Service Description**  
-- **Service Type** (e.g., HVAC, Electrical)
-
-#### Technician details
-
-- **Technician Name(s)**  
-- **Photos**  
-- **Bio** (if available)
-
-### Security and access
-
-- Each link is unique and secure  
-- No login required  
-- Customers cannot browse other profiles  
-- Mobile-friendly and accessible
-
-> This improves customer confidence and transparency before a technician arrives.
+|Term|Description|
+|---|---|
+|**Service Call**|Scheduled visit for installation, repair, or inspection|
+|**HVAC**|Heating, Ventilation, and Air Conditioning|
+|**Print to Parts**|Function to print a job-specific parts list|
+|**Printed to Parts field**|Record of who printed the parts list and when|
+|**Default parts printer**|Preconfigured printer used for parts list printing|
+|**Technician Profile Page**|Secure webpage showing technician details for customers|
+|**Accept Text Message**|Checkbox allowing text communications to the customer|
+|**Twilio**|Service used to send SMS messages to customers|

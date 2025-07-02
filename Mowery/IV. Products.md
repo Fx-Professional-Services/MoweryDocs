@@ -61,7 +61,6 @@ You can manually update product pricing in the **Current Pricing** section. All 
 All pricing updates are recorded in the **Price History Tracking** panel on the product detail page.
 
 ---
-
 ## Automatic Price Rounding and Manual Overrides
 
 The system simplifies displayed pricing by rounding certain fields to the **nearest whole dollar**. However, when you manually override a price, your exact entered value is preserved without rounding.
@@ -88,7 +87,6 @@ The system simplifies displayed pricing by rounding certain fields to the **near
     
 
 ---
-
 ### Manual Price Overrides
 
 If you manually override a price in the system, the exact value you enter is preserved. The rounding function does **not** apply to manual price entries.
@@ -116,7 +114,6 @@ You can view a record of all price changes for a product using the **Price Histo
     
 
 ---
-
 ### What the Panel Shows
 
 The **Price History Tracking** panel displays a list of price updates, including:

@@ -21,7 +21,7 @@ These tools help maintain accurate, consistent pricing across your product catal
 
 - [Edit Product Pricing](#edit-product-pricing)
     
-- [Automatic Price Rounding](#automatic-price-rounding)
+- [Automatic Price Rounding](#automatic-price-rounding-and-manual-overrides)
     
 - [View Product Price History](#view-product-price-history)
 
@@ -62,11 +62,12 @@ All pricing updates are recorded in the **Price History Tracking** panel on the 
 
 ---
 
-##  Automatic Price Rounding
+## Automatic Price Rounding and Manual Overrides
 
-The system simplifies pricing by rounding certain fields to the **nearest whole dollar**. Rounding affects only the displayed price—internal calculations continue using exact decimal values.
+The system simplifies displayed pricing by rounding certain fields to the **nearest whole dollar**. However, when you manually override a price, your exact entered value is preserved without rounding.
 
-### 🎯 Price Fields Affected
+---
+### 🎯 Price Fields Affected by Rounding
 
 |Field|Example|
 |---|---|
@@ -75,21 +76,30 @@ The system simplifies pricing by rounding certain fields to the **nearest whole 
 |**Add-On Standard**|`$59.49 → $59`|
 |**Add-On Value**|`$45.51 → $46`|
 
----
+**Rounding Rules:**
 
-### Rounding Behavior
-
-- The system uses **standard rounding rules**:
+- `.50` and above rounds **up**
     
-    - `.50` and above rounds **up**
-        
-    - Below `.50` rounds **down**
-        
-- Only the displayed price is rounded. Backend calculations remain precise.
+- Below `.50` rounds **down**
+    
+- Rounding applies only to the displayed price. Backend calculations use the precise decimal value.
     
 - All price changes appear in the **Price History Tracking** panel.
     
 
+---
+
+### Manual Price Overrides
+
+If you manually override a price in the system, the exact value you enter is preserved. The rounding function does **not** apply to manual price entries.
+
+For example:
+
+- If you enter `$42.50` as a manual price, the system displays `$42.50` without rounding.
+    
+- This ensures manual entries, such as diagnostic fees, remain accurate and are not altered by automatic rounding.
+    
+> **Note:** Manual price entry does not interfere with existing markup calculations for other pricing fields.
 ---
 
 ## View Product Price History

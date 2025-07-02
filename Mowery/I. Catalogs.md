@@ -24,7 +24,7 @@ This guide explains how to create, duplicate, delete, and manage **Catalogs** (a
 
 ## Create a Catalog (Price Book)
 
-To create a new catalog in Mowery:
+➕ To create a new catalog in Mowery:
 
 1. Go to **System Defaults → Catalog**.
     
@@ -78,9 +78,9 @@ To create a new catalog in Mowery:
 
 ##  Duplicate a Catalog (Manual Edits Are Preserved)
 
-Duplicating a catalog retains your manually entered values, including custom prices and descriptions. System-generated values do not overwrite your edits.
+ Duplicating a catalog retains your manually entered values, including custom prices and descriptions. System-generated values do not overwrite your edits.
 
-### How to Duplicate a Catalog
+### 📄 How to Duplicate a Catalog
 
 1. Go to **System Defaults → Catalog**.
     
@@ -118,7 +118,7 @@ Duplicating a catalog retains your manually entered values, including custom pri
 
 ## Delete a Catalog
 
-To delete a catalog:
+### 🗑️ To delete a catalog:
 
 1. Go to **System Defaults → Catalog**.
     
@@ -143,7 +143,7 @@ To delete a catalog:
 
 You can review catalog details or search for specific items within a catalog.
 
-### View a Catalog
+### 🔍 View a Catalog
 
 1. Go to **System Defaults → Catalog**.
     
@@ -189,9 +189,9 @@ You can review catalog details or search for specific items within a catalog.
 
 ##  Edit Catalog Tax and Add-on Rates
 
-You can update tax rates, labor charges, and other catalog-level pricing fields in **Catalog Price Settings**.
+ You can update tax rates, labor charges, and other catalog-level pricing fields in **Catalog Price Settings**.
 
-### How to Update Rates
+### 💵 How to Update Rates
 
 1. Go to **System Defaults → Catalog**.
     
@@ -247,7 +247,7 @@ You can update tax rates, labor charges, and other catalog-level pricing fields 
 
 ---
 
-### How Task Codes Work
+### 🔢  How Task Codes Work
 
 - **Reordering Items** — Task codes define item order within categories and subcategories.
     

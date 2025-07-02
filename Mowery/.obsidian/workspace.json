@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "III. Service Calls.md",
+                "file": "VI. Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III. Service Calls"
+              "title": "VI. Templates"
             }
           }
         ]
@@ -168,15 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "367b96c3ab9d6616",
+  "active": "e0f25451a879719d",
   "lastOpenFiles": [
+    "Mowery User Guide/Images",
+    "V. FileMaker Access.md",
+    "IV. Service Calls.md",
+    "III. Products.md",
+    "II. Catalogs.md",
+    "I. Table of Contents.md",
+    "Mowery User Guide",
     "Staff Management.md",
-    "III. Service Calls.md",
-    "IV. FileMaker Access.md",
     "The Technician Profile Page.md",
     "Managing Categories and Subcategories.md",
-    "II. Products.md",
-    "I. Catalogs.md",
     "To be organized/Automatic Price Rounding.md",
     "To be organized/Duplicate a Catalog.md",
     "To be organized/Send Text Message from Service Calls.md",
@@ -185,18 +188,17 @@
     "View Product Price History.md",
     "To be organized/Automatic Logout After Inactivity.md",
     "Edit Catalog Tax and Add-on Rates.md",
-    "V. Templates.md",
-    "Mowery Documentation/1311_apply_the_price_updates.png",
-    "Mowery Documentation/1311_Edit Catalog Tax and Add-on Rates.png",
+    "VI. Templates.md",
+    "Mowery User Guide/Images/1311_apply_the_price_updates.png",
+    "Mowery User Guide/Images/1311_Edit Catalog Tax and Add-on Rates.png",
     "Mowery Documentation",
-    "Table of Contents.md",
     "Viewing Product List and Details.md",
     "To be organized",
-    "Images/2_delete_catalog.png",
-    "Images/1_add_catalog.png",
-    "Images/1313_view_catalog_items.png",
-    "Images/1313_search_catalog_items.png",
-    "Images/1313_2_view_catalog_items.png",
+    "Mowery User Guide/Images/2_delete_catalog.png",
+    "Mowery User Guide/Images/1_add_catalog.png",
+    "Mowery User Guide/Images/1313_view_catalog_items.png",
+    "Mowery User Guide/Images/1313_search_catalog_items.png",
+    "Mowery User Guide/Images/1313_2_view_catalog_items.png",
     "Images",
     "1315_viewing_product_list_and_details.png",
     "1315_1_view_product_list_and_details.png",
@@ -209,7 +211,6 @@
     "I. Create and Manage Catalogs",
     "002 Catalog",
     "Connecting to the Mowery Service Call App.md",
-    "service_call_tabs.png",
-    "Mowery Mobile App – iPad Setup Instructions.md"
+    "service_call_tabs.png"
   ]
 }

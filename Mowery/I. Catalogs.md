@@ -115,7 +115,7 @@ Duplicating a catalog retains your manually entered values, including custom pri
 
 ---
 
-## 🗑️ Delete a Catalog
+## Delete a Catalog
 
 To delete a catalog:
 

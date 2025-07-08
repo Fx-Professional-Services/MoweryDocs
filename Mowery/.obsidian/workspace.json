@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5378b049ad999f",
+        "id": "aa76430ea55ed992",
         "type": "tabs",
         "children": [
           {
             "id": "367b96c3ab9d6616",
+            "id": "aad9b5877e0a48f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Viewing Product List and Details.md",
+                "file": "II. Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Viewing Product List and Details"
+              "title": "II. Getting Started"
             }
           }
         ]
@@ -182,6 +185,30 @@
     "VI. Templates.md",
     "Mowery User Guide/Images",
     "Mowery User Guide",
+  "active": "aad9b5877e0a48f3",
+  "lastOpenFiles": [
+    "Connecting to the Mowery Service Call App.md",
+    "II. Getting Started.md",
+    "Untitled.md",
+    "Mowery User Guide/Images/service_call_tabs.png",
+    "III. Catalogs.md",
+    "IV. Products.md",
+    "I. Table of Contents.md",
+    "Viewing Product List and Details.md",
+    "VII. FileMaker Access.md",
+    "VI. Templates.md",
+    "V. Service Calls.md",
+    "Mowery User Guide/Images/2_delete_catalog.png",
+    "Mowery User Guide/Images/1_add_catalog.png",
+    "Mowery User Guide/Images/1313_view_catalog_items.png",
+    "Mowery User Guide/Images/1313_search_catalog_items.png",
+    "Mowery User Guide/Images/1313_2_view_catalog_items.png",
+    "Mowery User Guide/Images/1311_apply_the_price_updates.png",
+    "Mowery User Guide/Images/1311_Edit Catalog Tax and Add-on Rates.png",
+    "Mowery User Guide/Images",
+    "Mowery User Guide",
+    "1315_viewing_product_list_and_details.png",
+    "1315_1_view_product_list_and_details.png",
     "Staff Management.md",
     "The Technician Profile Page.md",
     "Managing Categories and Subcategories.md",
@@ -202,6 +229,8 @@
     "Mowery User Guide/Images/1313_view_catalog_items.png",
     "Mowery User Guide/Images/1313_search_catalog_items.png",
     "Mowery User Guide/Images/1313_2_view_catalog_items.png",
+    "Mowery Documentation",
+    "To be organized",
     "Images",
     "Assign Service Calls on the Dispatch Board.md",
     "Create Catalogs.md",
@@ -212,5 +241,7 @@
     "002 Catalog",
     "Connecting to the Mowery Service Call App.md",
     "service_call_tabs.png"
+    "I. Create and Manage Catalogs",
+    "002 Catalog"
   ]
 }

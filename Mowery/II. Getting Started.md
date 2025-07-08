@@ -18,15 +18,15 @@ Use this guide to:
 
 ## 🔗 Quick Links
 
-- [What You Need](#✅-what-you-need)  
-- [Connect to the Mowery Live App](#🔗-connect-to-the-mowery-live-app)  
-- [You're In!](#🟢-youre-in)  
-- [Troubleshooting](#🛠-troubleshooting)  
-- [Automatic Logout After Inactivity](#⏱-automatic-logout-after-inactivity)  
+- [What You Need](#what-you-need)  
+- [Connect to the Mowery Live App](#connect-to-the-mowery-live-app)  
+- [You're In!](#youre-in)  
+- [Troubleshooting](#troubleshooting)  
+- [Automatic Logout After Inactivity](#automatic-logout-after-inactivity)  
 
 ---
 
-## ✅ What You Need
+## What You Need
 
 - An **iPad** with the **FileMaker Go** app installed (available in the App Store)  
 - A stable **Wi-Fi or cellular** internet connection  
@@ -34,7 +34,7 @@ Use this guide to:
 
 ---
 
-## 🔗 Connect to the Mowery Live App
+## Connect to the Mowery Live App
 
 1. Open the **FileMaker Go** app.
 2. Tap **Hosts** at the bottom of the screen.
@@ -49,7 +49,7 @@ Use this guide to:
 
 ---
 
-## 🟢 You’re In!
+## You’re In!
 
 You now have access to the live Mowery Mobile system. From here, you can:
 
@@ -59,7 +59,7 @@ You now have access to the live Mowery Mobile system. From here, you can:
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 | Problem           | Solution                                                                 |
 |-------------------|--------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ You now have access to the live Mowery Mobile system. From here, you can:
 
 ---
 
-## ⏱ Automatic Logout After Inactivity
+## Automatic Logout After Inactivity
 
 To protect data, the system logs out inactive users.
 

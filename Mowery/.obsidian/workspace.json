@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IV. Products.md",
+                "file": "II. Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IV. Products"
+              "title": "II. Getting Started"
             }
           }
         ]
@@ -170,19 +170,19 @@
   },
   "active": "aad9b5877e0a48f3",
   "lastOpenFiles": [
-    "Viewing Product List and Details.md",
-    "IV. Products.md",
-    "Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
+    "V. Service Calls.md",
+    "III. Catalogs.md",
     "II. Getting Started.md",
-    "Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
     "I. Table of Contents.md",
+    "IV. Products.md",
+    "Viewing Product List and Details.md",
+    "Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
+    "Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
     "VII. FileMaker Access.md",
     "Connecting to the Mowery Service Call App.md",
     "Untitled.md",
     "Mowery User Guide/Images/service_call_tabs.png",
-    "III. Catalogs.md",
     "VI. Templates.md",
-    "V. Service Calls.md",
     "Mowery User Guide/Images/2_delete_catalog.png",
     "Mowery User Guide/Images/1_add_catalog.png",
     "Mowery User Guide/Images/1313_view_catalog_items.png",

@@ -195,23 +195,6 @@ Manage employee records from the **Service Calls** module.
 
 ---
 
-## Automatic Logout After Inactivity
-
-The system logs out inactive users to protect data.
-
-- After **2 hours** of inactivity:  
-  - A message appears: "No activity detected. The file will close unless you click Cancel."  
-- If no action is taken, the file closes automatically.  
-
-**Applies to:** All FileMaker users.  
-
-**Tips:**  
-- Click **Cancel** when prompted  
-- Save work regularly  
-- Reopen the file if logged out  
-
----
-
 ## Manage Categories and Subcategories
 
 Organize products by category and subcategory to support service calls.

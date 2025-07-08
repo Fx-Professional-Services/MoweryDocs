@@ -40,14 +40,12 @@ These tools help maintain accurate and consistent pricing across your product ca
 
 1. From the main menu, go to **System Defaults → Products**.
     
-2. The **Product List** screen appears, showing all available products.
+2. The **Product List** screen appears, showing all available products.  Locate the product you want to review.
     
 
 ### 📦 View a Product’s Details
 
-1. Locate the product you want to review.
-    
-2. Click the **leftmost button** in the product row to open the **Product Detail** page.
+3.  Click the **leftmost button** in the product row to open the **Product Detail** page.
     
 
 <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_viewing_product_list_and_details.png" width="350" height="230">

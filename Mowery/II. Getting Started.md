@@ -30,7 +30,7 @@ Use this guide to:
 
 - An **iPad** with the **FileMaker Go** app installed (available in the App Store)  
 - A stable **Wi-Fi or cellular** internet connection  
-- Your **login credentials** provided by SCG or your supervisor  
+- Your **login credentials** 
 
 ---
 

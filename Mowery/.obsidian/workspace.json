@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II. Getting Started.md",
+                "file": "I. Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "II. Getting Started"
+              "title": "I. Table of Contents"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "aad9b5877e0a48f3",
   "lastOpenFiles": [
+    "II. Getting Started.md",
     "V. Service Calls.md",
     "III. Catalogs.md",
-    "II. Getting Started.md",
     "I. Table of Contents.md",
     "IV. Products.md",
     "Viewing Product List and Details.md",

@@ -2,71 +2,168 @@
 
 This guide explains how to update product pricing, how automatic price rounding works, and how to track pricing changes using the **Price History Tracking** panel.
 
-You can:
+Use this guide to:
 
-- Manually update product pricing fields
+- Manually update product pricing
     
 - Revert changes using the reset icon
     
 - Understand how rounding affects displayed prices
     
-- Track price changes in the **Price History Tracking** panel
+- Track changes using the **Price History Tracking** panel
     
 
-These tools help maintain accurate, consistent pricing across your product catalog.
+These tools help maintain accurate and consistent pricing across your product catalog.
 
 ---
 
 ## 🔗 Quick Links
 
+- [View Product List and Details](#view-product-list-and-details)
+    
 - [Edit Product Pricing](#edit-product-pricing)
     
 - [Automatic Price Rounding](#automatic-price-rounding)
     
 - [View Product Price History](#view-product-price-history)
-
-* [Terminology Reference](#terminology-reference)
     
+- [Terminology Reference](#terminology-reference)
+    
+- [Need Help?](#-need-help)
+    
+
+---
+
+## View Product List and Details
+
+### Open the Product List
+
+1. From the main menu, go to **System Defaults → Products**.
+    
+2. The **Product List** screen appears, showing all available products.
+    
+
+### 📦 View a Product’s Details
+
+1. Locate the product you want to review.
+    
+2. Click the **leftmost button** in the product row to open the **Product Detail** page.
+    
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_viewing_product_list_and_details.png" width="350" height="230">
+
+---
+
+## 🧾 Understand the Product Detail Sections
+
+Each product has several sections:
+
+### I. Product Info
+
+Basic product classification and description.
+
+|Field|Description|
+|---|---|
+|**Type**|High-level classification (e.g., HVAC, Plumbing)|
+|**Category**|General function or use (e.g., Refrigerant Repairs)|
+|**Subcategory**|Specific variant or application (e.g., R410A)|
+|**Description**|Short summary of the product/service|
+|**Savings**|Any predefined value or benefit|
+|**Active**|Indicates if the product is available|
+
+> **Purpose:** Ensures products are correctly described and easy to find during sales and service.
+
+---
+
+### II. Product Price Attributes
+
+Details about how pricing is calculated.
+
+|Field|Description|
+|---|---|
+|**Cost**|Base cost of the product|
+|**Estimated Hours**|Labor time estimate|
+|**Add-On Rate**|Rate when the product is added to another job|
+|**Commercial Rate**|Rate for commercial jobs|
+
+---
+
+### III. Current Pricing
+
+Displays current prices under different pricing structures.
+
+|Field|Description|
+|---|---|
+|**Revision**|Pricing version|
+|**Effective Date**|Date pricing was activated|
+|**Standard**|Base retail price|
+|**Value**|Discounted or adjusted rate|
+|**Commercial**|Commercial application rate|
+|**Add-On Standard**|Add-on base price|
+|**Add-On Value**|Discounted add-on price|
+
+---
+
+### IV. Pricing Tracking and History
+
+Shows a record of pricing updates in the **Price History Tracking** panel (top-right corner).
+
+> **Purpose:** Allows historical review of pricing changes and version control.
+
+---
+
+### V. Developer Settings Tip
+
+Enable auto-entry of **Add-On** and **Commercial** rates for new products in Developer Settings.  
+This applies when using the **New Product** button.
+
+<img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/d47c689033db43bc54721ff19a8efbdcc1891ab6/Mowery/1315_1_view_product_list_and_details.png" width="350" height="230">
+
+---
+
+### VI. Category and Subcategory
+
+|Term|Description|
+|---|---|
+|**Category**|A top-level group, identified by name and type (e.g., HVAC, Plumbing). Categories can share names if their types differ.|
+|**Subcategory**|Specific group under a category. Inherits its parent category's type. Required for product assignment.|
 
 ---
 
 ##  Edit Product Pricing
 
-You can manually update product pricing in the **Current Pricing** section. All updates are tracked in the **Price History Tracking** panel.
+Manually update product pricing in the **Current Pricing** section. Updates are tracked in the **Price History Tracking** panel.
 
-### ✏️ How to Edit Pricing
+### ✏️ Steps
 
 1. Go to **System Defaults → Products**.
     
-2. Select a product by clicking the **leftmost button** next to its name.
+2. Select a product.
     
-3. In the **Current Pricing** section, update any of the following fields:
+3. In the **Current Pricing** section, update any of the following:
     
-    - **Standard Rate** — Default price for regular sales.
+    - **Standard Rate**
         
-    - **Value Rate** — Price for value-based pricing.
+    - **Value Rate**
         
-    - **Commercial Rate** — Price for commercial or bulk transactions.
+    - **Commercial Rate**
         
-4. When a price field changes:
+4. When a price changes:
     
-    - A **reset icon** (rounded arrow) appears next to the field.
+    - A **reset icon** (circular arrow) appears.
         
-    - Click the reset icon to revert to the system-calculated default.
+    - Click it to revert to the default value.
         
 
-> **Note:**  
-> Product-level pricing changes automatically apply to any catalogs using the product.
-
-All pricing updates are recorded in the **Price History Tracking** panel on the product detail page.
+> **Note:** Changes automatically apply to any catalogs using the product.
 
 ---
 
 ##  Automatic Price Rounding
 
-The system simplifies pricing by rounding certain fields to the **nearest whole dollar**. Rounding affects only the displayed price—internal calculations continue using exact decimal values.
+The system rounds displayed prices to the nearest whole dollar. Internal calculations remain precise.
 
-### 🎯 Price Fields Affected
+### 🔁 Affected Fields
 
 |Field|Example|
 |---|---|
@@ -75,72 +172,66 @@ The system simplifies pricing by rounding certain fields to the **nearest whole 
 |**Add-On Standard**|`$59.49 → $59`|
 |**Add-On Value**|`$45.51 → $46`|
 
----
+### How It Works
 
-### Rounding Behavior
+- `.50` and above rounds **up**
+    
+- Below `.50` rounds **down**
+    
+- Only **displayed values** are rounded
+    
+- Exact values are stored and used for calculations
+    
 
-- The system uses **standard rounding rules**:
-    
-    - `.50` and above rounds **up**
-        
-    - Below `.50` rounds **down**
-        
-- Only the displayed price is rounded. Backend calculations remain precise.
-    
-- All price changes appear in the **Price History Tracking** panel.
-    
+All changes appear in the **Price History Tracking** panel.
 
 ---
 
 ## View Product Price History
 
-You can view a record of all price changes for a product using the **Price History Tracking** panel.
+Track price updates in the **Price History Tracking** panel.
 
-### 🕘 How to View Price History
+### 🕘 Steps
 
 1. Go to **System Defaults → Products**.
     
-2. Click the **leftmost button** next to the product name.
+2. Select a product.
     
-3. Locate the **Price History Tracking** panel in the upper-right corner.
+3. Find the **Price History Tracking** panel (upper-right corner).
     
 
----
-
-### What the Panel Shows
-
-The **Price History Tracking** panel displays a list of price updates, including:
+### What You’ll See
 
 |Field|Description|
 |---|---|
-|**Effective Date**|Date when the price change became active.|
-|**Revision**|Version number or update identifier.|
-|**Standard Rate**|Price for regular sales.|
-|**Value Rate**|Price for value-based pricing.|
-|**Add-On Standard**|Add-on price under standard pricing.|
-|**Add-On Value**|Add-on price under value pricing.|
-|**Commercial**|Price for commercial or bulk sales.|
+|**Effective Date**|Date when pricing was updated|
+|**Revision**|Version number|
+|**Standard Rate**|Regular sale price|
+|**Value Rate**|Value-based sale price|
+|**Add-On Standard**|Standard price for add-ons|
+|**Add-On Value**|Value-based price for add-ons|
+|**Commercial**|Commercial pricing|
 
-> **Note:**  
-> All pricing field changes are automatically recorded for auditing and reference.
+> **Note:** All pricing updates are automatically logged for auditing.
 
 ---
 
-## Terminology Reference
+##  Terminology Reference
 
-|Term|Meaning|
+|Term|Definition|
 |---|---|
-|**Standard Rate**|The default product price used for regular sales.|
-|**Value Rate**|Discounted or promotional product price, often for special offers.|
-|**Commercial Rate**|Price applied to business, wholesale, or bulk purchases.|
-|**Add-On Standard**|Price for optional add-ons or services under standard pricing.|
-|**Add-On Value**|Price for optional add-ons when the product uses value-based pricing.|
-|**Catalog**|Also called a **Price Book**; a product price list with an effective date.|
-|**Effective Date**|Date when a new price or catalog becomes active.|
-|**Reset Icon**|A button (circular arrow) to undo manual pricing changes.|
-|**Price History Tracking**|A record showing all pricing updates made to a product.|
+|**Standard Rate**|Default price used in regular sales|
+|**Value Rate**|Discounted or promotional price|
+|**Commercial Rate**|Bulk or wholesale price|
+|**Add-On Standard**|Add-on pricing under the standard rate|
+|**Add-On Value**|Add-on pricing under the value rate|
+|**Catalog**|Product price list with an effective date (also called **Price Book**)|
+|**Effective Date**|Date when pricing becomes active|
+|**Reset Icon**|Circular arrow used to undo manual changes|
+|**Price History Tracking**|Section that logs pricing changes|
 
+---
 
-## 📞 Need Help?
+##  Need Help?
 
-If price rounding behaves unexpectedly or you need assistance updating pricing, contact your system administrator or support team.
+📞 If price rounding seems incorrect or you need help updating prices, contact your system administrator or support team.

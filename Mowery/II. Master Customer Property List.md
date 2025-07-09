@@ -18,17 +18,17 @@ Use this guide to:
 
 ## 🔗 Quick Links
 
-- [Master Customer Property List](#-master-customer-property-list)  
-  - [What you can do](#-what-you-can-do)  
-  - [Column descriptions](#-column-descriptions)  
-  - [Toolbar actions](#-toolbar-actions)  
-  - [Open the customer detail view](#-open-the-customer-detail-view)  
-  - [Tips](#-tips)  
-  - [Access restrictions](#-access-restrictions)  
-- [Customer Detail View](#-customer-detail-view)  
-  - [What you can do](#-what-you-can-do-1)  
-  - [Customer information (top panel)](#-customer-information-top-panel)  
-  - [Property information (step-2-section)](#-property-information-step-2-section)
+- [Master Customer Property List](#master-customer-property-list)  
+  - [What you can do](#what-you-can-do)  
+  - [Column descriptions](#column-descriptions)  
+  - [Toolbar actions](#toolbar-actions)  
+  - [Open the customer detail view](#open-the-customer-detail-view)  
+  - [Tips](#tips)  
+  - [Access restrictions](#access-restrictions)  
+- [Customer Detail View](#customer-detail-view)  
+  - [What you can do](#what-you-can-do-1)  
+  - [Customer information (top panel)](#customer-information-top-panel)  
+  - [Property information (step-2-section)](#property-information-step-2-section)
 
 ---
 

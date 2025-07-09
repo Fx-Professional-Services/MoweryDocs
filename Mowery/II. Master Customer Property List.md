@@ -1,0 +1,201 @@
+# 🧾 Customer Management Guide
+
+This guide explains how to use the **Master Customer Property List** and the **Customer Detail View** in the Mowery system. These layouts allow service and office staff to manage customer records, property details, and service history.
+
+---
+
+## 📋 Overview
+
+Use this guide to:
+
+- View and search the full list of customers  
+- Sort and filter records by location, name, or status  
+- Open detailed customer profiles  
+- Manage equipment, service agreements, and contact info  
+- Record directions, property notes, and communication logs  
+
+---
+
+## 🔗 Quick Links
+
+- [Master Customer Property List](#-master-customer-property-list)  
+  - [What you can do](#-what-you-can-do)  
+  - [Column descriptions](#-column-descriptions)  
+  - [Toolbar actions](#-toolbar-actions)  
+  - [Open the customer detail view](#-open-the-customer-detail-view)  
+  - [Tips](#-tips)  
+  - [Access restrictions](#-access-restrictions)  
+- [Customer Detail View](#-customer-detail-view)  
+  - [What you can do](#-what-you-can-do-1)  
+  - [Customer information (top panel)](#-customer-information-top-panel)  
+  - [Property information (step-2-section)](#-property-information-step-2-section)
+
+---
+
+## Master Customer Property List
+
+The **Master Customer Property List** (also called the **Customer Property Card List**) provides a searchable table of all customers in the system. This layout is commonly used by service staff, dispatchers, and office administrators to access contact information, service agreements, and equipment records.
+
+---
+
+### What you can do
+
+Use the Master Customer Property List to:
+
+- Search for a customer by name, phone number, or address  
+- View details such as service status, contact numbers, and equipment counts  
+- Open the **Detail View** to access full customer records  
+- Filter or sort customers by ZIP code, city, or customer type  
+- Check if a property has service agreements, proposals, or pending orders  
+- Print or review customer records for scheduling, billing, or dispatch  
+
+---
+
+### Column descriptions
+
+| Column | Description |
+|--------|-------------|
+| **Customer Type** | Indicates whether the property is Residential or Commercial. |
+| **Customer / Email** | Displays the customer's name and email address. |
+| **Bill To Property / City / ZIP** | Shows the billing address and location details. |
+| **Phone Numbers** | Lists all contact numbers associated with the account. |
+| **Phone Descriptions** | Identifies who each number belongs to (for example, HUSBAND, WIFE, JESSICA). |
+| **# SAs** | Number of service agreements linked to the property. |
+| **# PAs** | Number of proposals created for the customer. |
+| **# Equip.** | Number of equipment items listed at the property. |
+| **Service Agreement Status** | Indicates if the agreement is Active, Expired, or missing. |
+
+---
+
+###  Toolbar actions
+
+At the top of the layout, you can:
+
+- Click **New Customer** to add a new record  
+- Use **Find** or **Find All** to search for or list all customers  
+- Use **Sort** to group customers by city, ZIP code, or name  
+- Use **QuickFind** to search by phone number (area code required)  
+
+---
+
+### Open the customer detail view
+
+To view full customer information:
+
+1. Locate the row of the customer you want to open.  
+2. Click the **blue arrow** button at the far left.
+
+The **Customer Detail View** opens, where you can:
+
+- Edit the customer’s address, phone numbers, and billing information  
+- Add or update equipment, service calls, and service agreements  
+- Review communication logs and property notes  
+
+---
+
+### Tips
+
+- Use the **Phone Descriptions** column to identify which contact belongs to which person.  
+- Use the **Sort** feature to group customers by location when planning technician routes.  
+- Some properties may have different **Bill To** and **Service** addresses—verify both.  
+
+---
+
+### Access restrictions
+
+Only authorized users can edit or delete customer records. If a record appears locked or disabled, contact your supervisor.
+
+---
+
+## Customer Detail View
+
+The **Customer Detail View** displays all information related to a customer and their property. You can open this view by clicking the blue arrow in the **Master Customer Property List**.
+
+---
+
+### What you can do
+
+In the detail view, you can:
+
+- Edit customer contact and billing details  
+- View and edit service property information  
+- Add or review equipment, service agreements, and service call history  
+- Record directions, special notes, or communication logs  
+- Add new service records directly from this screen  
+
+---
+
+### Customer information (top panel)
+
+| Field | Description |
+|-------|-------------|
+| **Company/Last Name** | The business name or customer surname. |
+| **First Name** | The customer’s first name. |
+| **Email / Email Two** | Primary and secondary email addresses. |
+| **Customer Type** | Classifies the customer as Commercial or Residential. |
+| **Customer Since** | Displays how long the customer has been with Mowery. |
+| **Phone / Cell / Work / Other** | Contact numbers, labeled by purpose. |
+| **Description** | Identifies the owner of each number (for example, PAT, JACKIE). |
+| **Preferred** | Marks preferred contact methods using checkboxes. |
+| **Locked / COD** | Flags whether the account is locked or requires cash-on-delivery. |
+
+---
+
+### Property information (Step 2 section)
+
+| Field | Description |
+|-------|-------------|
+| **Property Type** | Defines the property as a residence, business, or other. |
+| **Account #** | Internal account identifier for the property. |
+| **Name** | Main contact at the service location. |
+| **Address** | Full service address (street, city, state, ZIP). |
+| **Directions** | Notes to help technicians locate the property. |
+| **Property Notes** | Important information like filter sizes or unit location. |
+
+---
+
+### Service contact (right-side panel)
+
+| Field | Description |
+|-------|-------------|
+| **Service Mgr** | Assigned service manager or technician. |
+| **Phone** | Main phone number for service. |
+| **SA Exp. Date** | Service agreement expiration date. |
+| **Email** | Contact email for scheduling or notifications. |
+
+---
+
+### Action buttons
+
+Located to the right of the property section:
+
+- **Add Equipment** – Opens the Equipment tab to log a new HVAC or plumbing item.  
+- **Add Serv Agreement** – Starts a new service agreement for this property.  
+- **Add Service Call** – Begins a new service request for this customer.  
+
+---
+
+### Tab navigation
+
+Use the tabs at the center of the screen to manage related records:
+
+| Tab | Purpose |
+|-----|---------|
+| **Property** | Main property information (default). |
+| **Equipment** | View or add equipment installed at the property. |
+| **Service Agreements** | Manage active or expired agreements. |
+| **Service Calls** | View all service calls linked to the property. |
+| **Proposals/Quotes** | Access sales proposals or estimates. |
+| **Customer History** | Review service logs, updates, and contact history. |
+| **Payment Profile** | View billing terms, payments, and credit flags. |
+
+---
+
+### Audit trail
+
+At the bottom of the screen:
+
+- **Created By** – Name of the user who created the record.  
+- **Modified By** – Last user who updated the record and the timestamp.
+
+---

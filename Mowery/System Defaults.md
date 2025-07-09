@@ -19,14 +19,14 @@ The **System Defaults** section allows administrators to manage foundational set
   - [View Product Details](#view-product-details)  
   - [Edit Product Pricing](#edit-product-pricing)  
   - [Automatic Price Rounding](#automatic-price-rounding)  
-- [Configure Dropdown Lists](#configure-dropdown-lists)  
+- [FileMaker Access](#filemaker-access)  
   - [Employee List](#employee-list)  
 - [Terminology Reference](#terminology-reference)  
 
 
 ---
 
-## 📦 Catalog Management
+## Catalog Management
 
 _This section explains how to manage catalogs or price books. Catalogs define effective pricing and include features for duplication, item searching, and item reordering._
 
@@ -310,7 +310,7 @@ Task code sequencing depends on **Category Code** and **Subcategory Code**:
 This structure ensures catalog order stays organized and easy to manage.
 
 # Products 
-# 💵 Managing Product Pricing
+#  Managing Product Pricing
 
 This guide explains how to update product pricing, how automatic price rounding works, and how to track pricing changes using the **Price History Tracking** panel.
 
@@ -346,13 +346,13 @@ These tools help maintain accurate and consistent pricing across your product ca
 
 ---
 
-# 💵 Product Pricing
+# Product Pricing
 
 The **Products** section allows you to manage default pricing for every product in the system. Changes here affect all catalogs that use these products unless manually overridden.
 
 ---
 
-## 📦 View Product Details
+## View Product Details
 
 1. Go to **System Defaults → Products**.
 2. Click the button on the far left of a product row to open the **Product Detail** screen.
@@ -364,7 +364,7 @@ The **Products** section allows you to manage default pricing for every product 
 
 ---
 
-## 🧾 Understand the Product Detail Sections
+## Understand the Product Detail Sections
 
 Each product has several sections:
 
@@ -481,31 +481,7 @@ The system rounds displayed prices to the nearest whole dollar. Internal calcula
 |                   |                  |
 # FileMaker Access
 
-## 👥 Add a New Employee (FileMaker Access)
-
-To add a new employee in the FileMaker system:
-
-1. From the main menu, go to **System Defaults**.
-
-2. Click **FileMaker Access** from the top-left menu.
-
-3. Click **New** in the upper-left corner.
-
-   > 🆕 A new entry field will appear at the **top of the employee list**.
-
-4. Enter the employee’s details in the new row.
-
-5. Exit the employee file once you're done.
-
-   > 🔄 The system will **automatically sort** the list **alphabetically by first name** after exiting the employee record.
-
-> ✅ Use this process when onboarding new technicians or administrators into the system.
-
-## ⚙️ Configure Dropdown Lists
-
-Use this section to customize system dropdowns, such as the list of employees available for assignment.
-
-### 👥 Employee List
+### Employee List
 
 To add a new employee:
 

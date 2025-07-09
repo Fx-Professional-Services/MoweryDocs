@@ -493,7 +493,7 @@ To add a new employee:
 > ✅ Use this for onboarding new technicians or administrators.
 
 ---
-# 📖 Terminology Reference
+# Terminology Reference
 
 | Term | Description |
 |------|-------------|

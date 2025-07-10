@@ -86,7 +86,7 @@ Duplicating a catalog retains your manually entered values, such as custom price
 
 1. Go to **System Defaults → Catalog**.
     
-2. Click the white area to the right of the catalog name to select it.
+2. Click the white area to the right of the catalog effective date to select it.
     
 3. Click **Duplicate Catalog**.
     

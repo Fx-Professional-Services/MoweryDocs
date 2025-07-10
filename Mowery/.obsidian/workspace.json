@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Mowery Mobile App – iPad Setup Instructions.md",
                 "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Mowery Mobile App – iPad Setup Instructions"
               "title": "6. System Defaults"
             }
           },
@@ -185,6 +187,19 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
+    "Mowery Mobile App – iPad Setup Instructions.md",
+    "Connecting to the Mowery Service Call App.md",
+    "Edit Product Pricing.md",
+    "service_call_tabs.png",
+    "Technician Profile Page.md",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Automatic Price Rounding.md",
+    "Duplicate a Catalog.md",
+    "Product Catalog and Pricing System.md",
+    "Service Tracking and Payment System.md",
+    "Resolve Duplicated Template Items.md",
+    "Mowery Mirror Server Access Guide.md",
+    "Product and Price Book Management System.md",
     "6. System Defaults.md",
     "System Defaults.md",
     "4. Service Calls.md",

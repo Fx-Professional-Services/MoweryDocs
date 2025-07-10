@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Getting Started.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Getting Started"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
+    "4. Service Calls.md",
+    "2. Getting Started.md",
     "III. Catalogs.md",
     "System Defaults.md",
     "6. System Defaults.md",
-    "2. Getting Started.md",
     "Mowery Mobile App – iPad Setup Instructions.md",
-    "4. Service Calls.md",
     "3. Master Customer Property List.md",
     "1. Table of Contents.md",
     "Mowery User Guide/Images/service_call_tabs.png",

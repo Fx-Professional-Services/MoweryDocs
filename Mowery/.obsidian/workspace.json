@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Service Calls.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Service Calls.md",
+                "file": "6. System Defaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Service Calls"
+              "title": "Backlinks for 6. System Defaults"
             }
           },
           {
@@ -169,10 +169,11 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
-    "2. Getting Started.md",
-    "6. System Defaults.md",
-    "5. Service Agreements.md",
     "4. Service Calls.md",
+    "6. System Defaults.md",
+    "7. Proposals.md",
+    "2. Getting Started.md",
+    "5. Service Agreements.md",
     "3. Master Customer Property List.md",
     "1. Table of Contents.md",
     "Mowery User Guide/Images/main_menu.png",
@@ -184,7 +185,6 @@
     "Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
     "9. Purchase Order.md",
     "8. Inventory.md",
-    "7. Proposals.md",
     "11. Templates.md",
     "10. Report.md",
     "VII. FileMaker Access.md",

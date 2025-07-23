@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Service Calls.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
-    "6. System Defaults.md",
+    "5. Service Agreements.md",
     "4. Service Calls.md",
+    "6. System Defaults.md",
     "3. Master Customer Property List.md",
     "2. Getting Started.md",
     "1. Table of Contents.md",
-    "5. Service Agreements.md",
     "7. Proposals.md",
     "Mowery User Guide/Images/main_menu.png",
     "III. Catalogs.md",

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "products",
+                "query": "Catalog Tax Rate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for 5. Service Agreements"
-            }
           },
           {
             "id": "f2d8ad01a8185c7f",
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,21 +172,16 @@
     "2. Getting Started.md",
     "5. Service Agreements.md",
     "6. System Defaults.md",
-    "4. Service Calls.md",
     "7. Proposals.md",
-    "3. Master Customer Property List.md",
-    "1. Table of Contents.md",
-    "Mowery User Guide/Images/main_menu.png",
+    "8. Inventory.md",
+    "10. Report.md",
+    "9. Purchase Order.md",
+    "5. Service Agreements.md",
     "III. Catalogs.md",
     "System Defaults.md",
     "Mowery Mobile App – iPad Setup Instructions.md",
     "Mowery User Guide/Images/service_call_tabs.png",
     "Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
-    "Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
-    "9. Purchase Order.md",
-    "8. Inventory.md",
-    "11. Templates.md",
-    "10. Report.md",
     "VII. FileMaker Access.md",
     "VI. Templates.md",
     "V. Service Calls.md",
@@ -200,7 +195,6 @@
     "II. Master Customer Property List",
     "Connecting to the Mowery Service Call App.md",
     "Mowery User Guide/Images/2_delete_catalog.png",
-    "Mowery User Guide/Images/1_add_catalog.png",
     "Mowery User Guide/Images/1313_view_catalog_items.png",
     "Mowery User Guide/Images/1313_search_catalog_items.png",
     "Mowery User Guide/Images/1313_2_view_catalog_items.png",

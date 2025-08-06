@@ -11,12 +11,14 @@
             "id": "764c2a75d2efab58",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mowery User Guide/Images/service_call_tabs.png"
+                "file": "4. Service Calls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "service_call_tabs"
+              "icon": "lucide-file",
+              "title": "4. Service Calls"
             }
           }
         ]
@@ -166,22 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f25451a879719d",
+  "active": "764c2a75d2efab58",
   "lastOpenFiles": [
+    "6. System Defaults.md",
+    "4. Service Calls.md",
+    "5. Service Agreements.md",
+    "Mowery User Guide/Images/send_to_parts_button 1.png",
     "Mowery User Guide/Images/service_call_tabs.png",
     "Mowery User Guide/Images/send_to_parts_button.png",
-    "4. Service Calls.md",
-    "Mowery User Guide/Images/send_to_parts_button 1.png",
     "2. Getting Started.md",
     "8. Inventory.md",
-    "5. Service Agreements.md",
     "Print Catalogs.md",
     "3_3_print_catalog.png",
     "3_2_print_catalog.png",
     "3_1_print_catalog.png",
     "3. Master Customer Property List.md",
     "Mowery User Guide/Images/technician_profile_page.png",
-    "6. System Defaults.md",
     "Mowery User Guide/Images/send_text_message_technician_details.png",
     "1. Table of Contents.md",
     "7. Proposals.md",

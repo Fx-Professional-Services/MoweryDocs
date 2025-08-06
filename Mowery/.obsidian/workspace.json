@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Service Agreements.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Service Agreements"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -171,6 +171,8 @@
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
     "4. Service Calls.md",
+    "6. System Defaults.md",
+    "Mowery User Guide/Images/new_employee_filemaker_access.png",
     "5. Service Agreements.md",
     "Mowery User Guide/Images/accept_payment_for_service_agreements.png",
     "Print Catalogs.md",
@@ -178,7 +180,6 @@
     "3_3_print_catalog.png",
     "3_2_print_catalog.png",
     "3_1_print_catalog.png",
-    "6. System Defaults.md",
     "Mowery User Guide/Images/send_to_parts_button 1.png",
     "Mowery User Guide/Images/service_call_tabs.png",
     "Mowery User Guide/Images/send_to_parts_button.png",
@@ -188,7 +189,6 @@
     "Mowery User Guide/Images/send_text_message_technician_details.png",
     "1. Table of Contents.md",
     "7. Proposals.md",
-    "Mowery User Guide/Images/main_menu.png",
     "Mowery User Guide/Images",
     "Mowery User Guide",
     "9. Purchase Order.md",

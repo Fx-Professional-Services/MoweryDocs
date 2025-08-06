@@ -18,7 +18,7 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "title": "Print Catalogs"
             }
           }
         ]
@@ -168,6 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "593df7ad4371bd36",
+  "lastOpenFiles": [
+    "3_3_print_catalog.png",
+    "3_2_print_catalog.png",
+    "3_1_print_catalog.png",
+    "Delete Catalog.md",
+    "Print Catalogs.md",
+    "2_delete_catalog.png",
+    "Create Catalogs.md",
+    "1_add_catalog.png",
+    "Catalog Management.md",
+    "Mowery Mobile App – iPad Setup Instructions.md",
+    "Connecting to the Mowery Service Call App.md",
+    "Edit Product Pricing.md",
+    "service_call_tabs.png",
+    "Technician Profile Page.md",
+    "Edit Sort Numbers to Reorder Items.md",
+    "Automatic Price Rounding.md",
+    "Duplicate a Catalog.md",
+    "Product Catalog and Pricing System.md",
+    "Service Tracking and Payment System.md",
+    "Resolve Duplicated Template Items.md",
+    "Mowery Mirror Server Access Guide.md",
+    "Product and Price Book Management System.md",
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
     "Mowery User Guide/Images/technician_profile_page.png",

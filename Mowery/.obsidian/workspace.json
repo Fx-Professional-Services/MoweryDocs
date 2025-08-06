@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Master Customer Property List.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Master Customer Property List"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -170,15 +170,15 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
-    "Mowery User Guide/Images/cod_customer.png",
-    "4. Service Calls.md",
+    "Print Catalogs.md",
     "6. System Defaults.md",
+    "4. Service Calls.md",
     "3. Master Customer Property List.md",
+    "Mowery User Guide/Images/cod_customer.png",
     "11. Templates.md",
     "5. Service Agreements.md",
     "2. Getting Started.md",
     "1. Table of Contents.md",
-    "Print Catalogs.md",
     "10. Report.md",
     "9. Purchase Order.md",
     "8. Inventory.md",
@@ -192,7 +192,6 @@
     "Mowery User Guide/Images/send_to_parts_button 1.png",
     "Mowery User Guide/Images/service_call_tabs.png",
     "Mowery User Guide/Images/send_to_parts_button.png",
-    "Mowery User Guide/Images/send_text_message_technician_details.png",
     "Mowery User Guide/Images",
     "Mowery User Guide",
     "Create Catalogs.md",

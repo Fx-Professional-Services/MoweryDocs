@@ -11,12 +11,14 @@
             "id": "7082106caec24e17",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mowery/Mowery User Guide/Images/1315_1_view_product_list_and_details.png"
+                "file": "Mowery/6. System Defaults.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1315_1_view_product_list_and_details"
+              "icon": "lucide-file",
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -166,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d56e4f985b293f3e",
+  "active": "7082106caec24e17",
   "lastOpenFiles": [
+    "Mowery/Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
     "Mowery/Mowery User Guide/Images/view_product_details.png",
     "Mowery/Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
     "Mowery/Mowery User Guide/Images/1313_view_catalog_items.png",
@@ -178,7 +181,6 @@
     "Mowery/Mowery User Guide/Images/3_3_print_catalog.png",
     "Mowery/Mowery User Guide/Images/3_1_print_catalog.png",
     "Mowery/Mowery User Guide/Images/2_delete_catalog.png",
-    "Mowery/Mowery User Guide/Images/1_add_catalog.png",
     "Mowery/6. System Defaults.md",
     "Mowery/4. Service Calls.md",
     "Mowery/5. Service Agreements.md",

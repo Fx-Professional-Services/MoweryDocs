@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.5
   },
   "right": {
     "id": "35b2348d6987c47f",
@@ -170,6 +170,7 @@
   },
   "active": "7082106caec24e17",
   "lastOpenFiles": [
+    "Mowery/Mowery User Guide/Images/assign_technician.png",
     "Mowery/2. Getting Started.md",
     "Mowery/1. Table of Contents.md",
     "Mowery/4. Service Calls.md",

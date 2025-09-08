@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "right": {
     "id": "35b2348d6987c47f",
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7082106caec24e17",
+  "active": "d56e4f985b293f3e",
   "lastOpenFiles": [
     "Mowery/Mowery User Guide/Images/refresh_hvac_board.png",
     "Mowery/Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
@@ -186,19 +186,29 @@
     "Mowery/5. Service Agreements.md",
     "Mowery/3. Master Customer Property List.md",
     "Mowery/2. Getting Started.md",
+    "Mowery/Mowery User Guide/Images/assign_technician.png",
+    "Mowery/2. Getting Started.md",
+    "Mowery/1. Table of Contents.md",
+    "Mowery/4. Service Calls.md",
+    "Mowery/Mowery User Guide/Images/send_to_parts.png",
+    "Mowery/Mowery User Guide/Images/send_to_parts 1.png",
+    "Mowery/4. Service Calls.md",
+    "Mowery/Mowery User Guide/Images/assign_technician.png",
+    "Mowery/2. Getting Started.md",
+    "Mowery/1. Table of Contents.md",
+    "Mowery/Mowery User Guide/Images/list_view_assign_technician.png",
+    "Mowery/Mowery User Guide/Images/arrow_list_view.png",
     "Mowery/Mowery User Guide/Images/delete_account.png",
     "Mowery/Mowery User Guide/Images/archive_account.png",
-    "Mowery/4. Service Calls.md",
     "Mowery/6. System Defaults.md",
-    "Mowery/5. Service Agreements.md",
     "Mowery/3. Master Customer Property List.md",
-    "Mowery/2. Getting Started.md",
-    "Mowery/Mowery User Guide/Images/cod_message.png",
-    "Mowery/Mowery User Guide/Images/mowery_db_mobile.png",
-    "Mowery/Mowery User Guide/Images/connect_mowery_live_app.png",
-    "Mowery/Mowery User Guide/Images/service_call_page.png",
-    "Mowery/Mowery User Guide/Images/technician_profile_page.png",
-    "Mowery/1. Table of Contents.md",
+    "Mowery/5. Service Agreements.md",
+    "Mowery/Mowery User Guide/Images/refresh_hvac_board.png",
+    "Mowery/Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
+    "Mowery/Mowery User Guide/Images/view_product_details.png",
+    "Mowery/Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
+    "Mowery/Mowery User Guide/Images/1313_view_catalog_items.png",
+    "Mowery/Mowery User Guide/Images/1313_search_catalog_items.png",
     "Mowery/11. Templates.md"
   ]
 }

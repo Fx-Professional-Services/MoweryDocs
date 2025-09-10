@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Master Customer Property List"
+              "title": "4. Service Calls"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "4f79fc47e5e78320",
   "lastOpenFiles": [
+    "Mowery/1. Table of Contents.md",
+    "Mowery/3. Master Customer Property List.md",
     "Mowery/4. Service Calls.md",
     "Mowery/Mowery User Guide/Images/refresh_hvac_board.png",
     "Mowery/Mowery User Guide/Images/list_view_assign_technician.png",
@@ -196,12 +198,10 @@
     "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
     "Mowery/Mowery User Guide/Images/search_from_service_calls.png",
     "Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/1. Table of Contents.md",
     "Mowery/Mowery User Guide/Images/send_to_parts.png",
     "Mowery/Mowery User Guide/Images/send_to_parts 1.png",
     "Mowery/2. Getting Started.md",
     "Mowery/Mowery User Guide/Images/delete_account.png",
-    "Mowery/3. Master Customer Property List.md",
     "Mowery/11. Templates.md"
   ]
 }

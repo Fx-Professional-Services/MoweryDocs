@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Master Customer Property List"
+              "title": "4. Service Calls"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "ec18b7cd69ada488",
   "lastOpenFiles": [
-    "Mowery/2. Getting Started.md",
     "Mowery/3. Master Customer Property List.md",
+    "Mowery/2. Getting Started.md",
     "Mowery/4. Service Calls.md",
     "Mowery/12. Master Terminology Guide.md",
     "Untitled.base",

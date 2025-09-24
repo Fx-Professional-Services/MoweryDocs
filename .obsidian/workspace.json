@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/6. System Defaults.md",
+                "file": "Mowery/5. Service Agreements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. System Defaults"
+              "title": "5. Service Agreements"
             }
           }
         ]
@@ -171,6 +171,10 @@
   },
   "active": "ec18b7cd69ada488",
   "lastOpenFiles": [
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/11. Templates.md",
+    "Mowery/10. Report.md",
+    "Mowery/9. Purchase Order.md",
     "Mowery/8. Inventory.md",
     "Mowery/7. Proposals.md",
     "Mowery/6. System Defaults.md",
@@ -178,7 +182,6 @@
     "Mowery/4. Service Calls.md",
     "Mowery/3. Master Customer Property List.md",
     "Mowery/2. Getting Started.md",
-    "Mowery/12. Master Terminology Guide.md",
     "Untitled.base",
     "Mowery/Mowery User Guide/Images/service_calls.png",
     "Mowery/Mowery User Guide/Images/master_customer_property_list.png",
@@ -190,9 +193,6 @@
     "Mowery/Mowery User Guide/Images/arrow_list_view.png",
     "Screenshot 2025-09-10 at 10.50.38.png",
     "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
-    "Mowery/Mowery User Guide/Images/search_from_service_calls.png",
-    "Mowery/9. Purchase Order.md",
-    "Mowery/10. Report.md",
-    "Mowery/11. Templates.md"
+    "Mowery/Mowery User Guide/Images/search_from_service_calls.png"
   ]
 }

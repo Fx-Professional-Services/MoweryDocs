@@ -25,12 +25,14 @@
             "id": "1569a80da26e2617",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview.png"
+                "file": "Mowery/4. Service Calls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "1364_sms_inbox_overview"
+              "icon": "lucide-file",
+              "title": "4. Service Calls"
             }
           }
         ],
@@ -184,9 +186,9 @@
   },
   "active": "1569a80da26e2617",
   "lastOpenFiles": [
+    "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview.png",
     "Mowery/4. Service Calls.md",
     "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview 1.png",
-    "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview.png",
     "Mowery/5. Service Agreements.md",
     "Mowery/3. Master Customer Property List.md",
     "Mowery User Guide.md",

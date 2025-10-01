@@ -25,14 +25,12 @@
             "id": "1569a80da26e2617",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
-                "mode": "source",
-                "source": false
+                "file": "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview.png"
               },
-              "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "icon": "lucide-image",
+              "title": "1364_sms_inbox_overview"
             }
           }
         ],
@@ -186,11 +184,13 @@
   },
   "active": "1569a80da26e2617",
   "lastOpenFiles": [
+    "Mowery/4. Service Calls.md",
+    "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview 1.png",
+    "Mowery/Mowery User Guide/Images/1364_sms_inbox_overview.png",
     "Mowery/5. Service Agreements.md",
     "Mowery/3. Master Customer Property List.md",
     "Mowery User Guide.md",
     "Mowery/1. Table of Contents.md",
-    "Mowery/4. Service Calls.md",
     "Mowery/6. System Defaults.md",
     "Mowery/7. Proposals.md",
     "Mowery/8. Inventory.md",
@@ -207,8 +207,6 @@
     "Mowery/Mowery User Guide/Images/edit_an_employee_record.png",
     "Mowery/Mowery User Guide/Images/assign_technician.png",
     "Mowery/Mowery User Guide/Images/arrow_list_view.png",
-    "Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
-    "Mowery/Mowery User Guide/Images/search_from_service_calls.png"
+    "Screenshot 2025-09-10 at 10.50.38.png"
   ]
 }

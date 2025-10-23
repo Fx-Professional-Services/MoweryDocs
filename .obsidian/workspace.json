@@ -1,24 +1,27 @@
 {
   "main": {
-    "id": "7b8b39eea3325694",
+    "id": "0a7bf9b56c766a75",
     "type": "split",
     "children": [
       {
-        "id": "1bde92fc4160f76f",
+        "id": "f66b7130b5f4bd36",
         "type": "tabs",
         "children": [
           {
             "id": "03a94dc558eaa8c0",
+            "id": "3d27c2868d93d924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mowery/6. System Defaults.md",
+                "file": "Mowery/4. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "6. System Defaults"
+              "title": "4. Service Calls"
             }
           }
         ]
@@ -27,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0bc0f052b59e8b3b",
+    "id": "3eef78354e5696d4",
     "type": "split",
     "children": [
       {
-        "id": "a7d771e45ac9cc6b",
+        "id": "d12dcdf70481ec32",
         "type": "tabs",
         "children": [
           {
-            "id": "d56e4f985b293f3e",
+            "id": "f38b24a40e661ebb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +51,13 @@
             }
           },
           {
-            "id": "1c3eb5d56466d300",
+            "id": "3b9f2a143d3ed1ef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "SMS ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
             }
           },
           {
-            "id": "26052f32e572d309",
+            "id": "f577b0d2eae30c38",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,17 +83,18 @@
     ],
     "direction": "horizontal",
     "width": 200
+    "width": 300
   },
   "right": {
-    "id": "35b2348d6987c47f",
+    "id": "3a5b9fa1e9b7f1cb",
     "type": "split",
     "children": [
       {
-        "id": "a8df44d90bd214f0",
+        "id": "dc1f46260bd7aca7",
         "type": "tabs",
         "children": [
           {
-            "id": "f1ac13b42a03e043",
+            "id": "53bab9856c465f37",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +113,7 @@
             }
           },
           {
-            "id": "abf9cd56037dfd66",
+            "id": "ace605a605028329",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +127,7 @@
             }
           },
           {
-            "id": "0bce6103563de4f7",
+            "id": "d50c3c0d4447f03e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +142,7 @@
             }
           },
           {
-            "id": "f7241ead47fe82f8",
+            "id": "54a01cae1874f40c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -160,13 +165,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "03a94dc558eaa8c0",
@@ -196,4 +201,6 @@
     "Mowery/Mowery User Guide/Images/refresh_hvac_board.png",
     "Mowery/Mowery User Guide/Images/list_view_assign_technician.png"
   ]
+  "active": "3d27c2868d93d924",
+  "lastOpenFiles": []
 }

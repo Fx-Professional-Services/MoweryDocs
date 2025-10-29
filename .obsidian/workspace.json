@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "0a7bf9b56c766a75",
+    "id": "27e8891bc4050071",
     "type": "split",
     "children": [
       {
-        "id": "f66b7130b5f4bd36",
+        "id": "74c21bd56f71ef8b",
         "type": "tabs",
         "children": [
           {
-            "id": "3d27c2868d93d924",
+            "id": "39a480693764b78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Master Customer Property List"
+              "title": "4. Service Calls"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3eef78354e5696d4",
+    "id": "51f325ad53a6286b",
     "type": "split",
     "children": [
       {
-        "id": "d12dcdf70481ec32",
+        "id": "2b6a252ff403afb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f38b24a40e661ebb",
+            "id": "46a433444c0b9b35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "3b9f2a143d3ed1ef",
+            "id": "d10f26e1628b3f6d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f577b0d2eae30c38",
+            "id": "554703ade75eaa33",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "3a5b9fa1e9b7f1cb",
+    "id": "a92cc0ca5c410d08",
     "type": "split",
     "children": [
       {
-        "id": "dc1f46260bd7aca7",
+        "id": "927b45d93333e4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "53bab9856c465f37",
+            "id": "2c694c5d1bf85502",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Master Customer Property List"
+              "title": "Backlinks for 4. Service Calls"
             }
           },
           {
-            "id": "ace605a605028329",
+            "id": "bd62a94b09c79cdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Master Customer Property List"
+              "title": "Outgoing links from 4. Service Calls"
             }
           },
           {
-            "id": "d50c3c0d4447f03e",
+            "id": "27f92d4f12dedad3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "54a01cae1874f40c",
+            "id": "0a58f666dbb846b3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mowery/3. Master Customer Property List.md",
+                "file": "Mowery/4. Service Calls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Master Customer Property List"
+              "title": "Outline of 4. Service Calls"
             }
           }
         ]
@@ -169,10 +169,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "3d27c2868d93d924",
-  "lastOpenFiles": [
-    "Mowery/4. Service Calls.md"
-  ]
-  "active": "3d27c2868d93d924",
+  "active": "39a480693764b78d",
   "lastOpenFiles": []
 }

@@ -14,11 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "4. Service Calls.md",
+                "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "4. Service Calls"
+              "title": "6. System Defaults"
             }
           }
         ]
@@ -194,6 +196,30 @@
     "9. Purchase Order.md",
     "11. Templates.md",
     "10. Report.md",
+    "Mowery User Guide/Images/service_call_tabs.png",
+    "Mowery User Guide/Images/main_menu.png",
+    "Mowery User Guide/Images/2_delete_catalog.png",
+    "Mowery User Guide/Images/1_add_catalog.png",
+    "Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
+    "Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
+    "Mowery User Guide/Images/1313_view_catalog_items.png",
+    "Mowery User Guide/Images/1313_search_catalog_items.png",
+    "Mowery User Guide/Images/1313_2_view_catalog_items.png",
+    "Mowery User Guide/Images/1311_apply_the_price_updates.png",
+    "Mowery User Guide/Images/1311_Edit Catalog Tax and Add-on Rates.png",
+    "Mowery User Guide/Images",
+    "Mowery User Guide",
+    "9. Purchase Order.md",
+    "8. Inventory.md",
+    "7. Proposals.md",
+    "6. System Defaults.md",
+    "5. Service Agreements.md",
+    "4. Service Calls.md",
+    "3. Master Customer Property List.md",
+    "2. Getting Started.md",
+    "11. Templates.md",
+    "10. Report.md",
+    "1. Table of Contents.md",
     "Create Catalogs.md",
     "III. Catalogs.md",
     "System Defaults.md",
@@ -209,6 +235,7 @@
     "Products.md",
     "II. Master Customer Property List",
     "II. Master Customer Property List",
+    "Connecting to the Mowery Service Call App.md",
     "Mowery Documentation",
     "To be organized",
     "Images",

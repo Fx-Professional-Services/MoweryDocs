@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4. Service Calls.md",
                 "file": "6. System Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "4. Service Calls"
               "title": "6. System Defaults"
             }
           }
@@ -170,6 +172,30 @@
   },
   "active": "764c2a75d2efab58",
   "lastOpenFiles": [
+    "6. System Defaults.md",
+    "4. Service Calls.md",
+    "5. Service Agreements.md",
+    "Mowery User Guide/Images/send_to_parts_button 1.png",
+    "Mowery User Guide/Images/service_call_tabs.png",
+    "Mowery User Guide/Images/send_to_parts_button.png",
+    "2. Getting Started.md",
+    "8. Inventory.md",
+    "Print Catalogs.md",
+    "3_3_print_catalog.png",
+    "3_2_print_catalog.png",
+    "3_1_print_catalog.png",
+    "3. Master Customer Property List.md",
+    "Mowery User Guide/Images/technician_profile_page.png",
+    "Mowery User Guide/Images/send_text_message_technician_details.png",
+    "1. Table of Contents.md",
+    "7. Proposals.md",
+    "Mowery User Guide/Images/main_menu.png",
+    "Mowery User Guide/Images/2_delete_catalog.png",
+    "Mowery User Guide/Images",
+    "Mowery User Guide",
+    "9. Purchase Order.md",
+    "11. Templates.md",
+    "10. Report.md",
     "Mowery User Guide/Images/service_call_tabs.png",
     "Mowery User Guide/Images/main_menu.png",
     "Mowery User Guide/Images/2_delete_catalog.png",

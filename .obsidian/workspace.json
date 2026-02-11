@@ -36,6 +36,7 @@
             }
           },
           {
+            "id": "68386745d080b59d",
             "id": "686be8ff810b7c25",
             "type": "leaf",
             "state": {
@@ -50,16 +51,19 @@
             }
           },
           {
+            "id": "18cffda04d507777",
             "id": "a54f20afc008e313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "14. Monthly Tune-Up Schedule.md",
                 "file": "Mowery/4. Service Calls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "14. Monthly Tune-Up Schedule"
               "title": "4. Service Calls"
             }
           }
@@ -212,6 +216,11 @@
       "bases:Create new base": false
     }
   },
+  "active": "18cffda04d507777",
+  "lastOpenFiles": [
+    "Mowery/13. Mobile App.md",
+    "14. Monthly Tune-Up Schedule.md",
+    "Mowery/4. Service Calls.md",
   "active": "a54f20afc008e313",
   "lastOpenFiles": [
     "Mowery/Mowery User Guide/Images/appointment_details.png",

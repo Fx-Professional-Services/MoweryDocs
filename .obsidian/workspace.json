@@ -53,12 +53,14 @@
             "id": "a54f20afc008e313",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mowery/Mowery User Guide/Images/active-service-agreements.png"
+                "file": "Mowery/5. Service Agreements.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "active-service-agreements"
+              "icon": "lucide-file",
+              "title": "5. Service Agreements"
             }
           }
         ],
@@ -212,9 +214,10 @@
   },
   "active": "a54f20afc008e313",
   "lastOpenFiles": [
+    "Mowery/6. System Defaults.md",
+    "Mowery/4. Service Calls.md",
     "Mowery/5. Service Agreements.md",
     "Mowery/Mowery User Guide/Images/active-service-agreements.png",
-    "Mowery/4. Service Calls.md",
     "Mowery/Mowery User Guide/Images/property-notes.png",
     "Mowery/Mowery User Guide/Images/main_menu 1.png",
     "Mowery/Mowery User Guide/Images/dispatch-board-date-synch-update.png",
@@ -230,7 +233,6 @@
     "Mowery/1. Table of Contents.md",
     "Mowery/13. Mobile App.md",
     "Mowery/14. Monthly Tune Up Schedule.md",
-    "Mowery/6. System Defaults.md",
     "Mowery/13. Mobile App",
     "Mowery/12. Master Terminology Guide.md",
     "Mowery/7. Proposals.md",

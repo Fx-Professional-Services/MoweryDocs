@@ -53,14 +53,12 @@
             "id": "a54f20afc008e313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mowery/5. Service Agreements.md",
-                "mode": "source",
-                "source": false
+                "file": "Mowery/Mowery User Guide/Images/active-service-agreements.png"
               },
-              "icon": "lucide-file",
-              "title": "5. Service Agreements"
+              "icon": "lucide-image",
+              "title": "active-service-agreements"
             }
           }
         ],
@@ -214,6 +212,8 @@
   },
   "active": "a54f20afc008e313",
   "lastOpenFiles": [
+    "Mowery/5. Service Agreements.md",
+    "Mowery/Mowery User Guide/Images/active-service-agreements.png",
     "Mowery/4. Service Calls.md",
     "Mowery/Mowery User Guide/Images/property-notes.png",
     "Mowery/Mowery User Guide/Images/main_menu 1.png",
@@ -224,7 +224,6 @@
     "Mowery/Mowery User Guide/Images/2_delete_catalog.png",
     "Mowery/Mowery User Guide/Images/1_add_catalog.png",
     "Mowery/Mowery User Guide/Images/send_text_message_technician_details.png",
-    "Mowery/Mowery User Guide/Images/confirmation_page.png",
     "Mowery/3. Master Customer Property List.md",
     "14. Monthly Tune-Up Schedule.md",
     "Mowery/2. Getting Started.md",
@@ -235,7 +234,6 @@
     "Mowery/13. Mobile App",
     "Mowery/12. Master Terminology Guide.md",
     "Mowery/7. Proposals.md",
-    "Mowery/5. Service Agreements.md",
     "Mowery/8. Inventory.md",
     "Mowery/9. Purchase Order.md",
     "Mowery/10. Report.md",

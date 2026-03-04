@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/10. Report.md",
+                "file": "Mowery/11. Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Report"
+              "title": "11. Templates"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "2f48d146e884547c",
   "lastOpenFiles": [
+    "Mowery/10. Report.md",
     "Mowery/9. Purchase Order.md",
     "Mowery/6. System Defaults.md",
-    "Mowery/10. Report.md",
     "Mowery/7. Proposals.md",
     "Mowery/Mowery User Guide/Images/report.png",
     "Mowery/11. Templates.md",

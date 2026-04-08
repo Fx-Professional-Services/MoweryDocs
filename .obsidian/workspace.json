@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -119,6 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for 4. Service Calls"
               "title": "Backlinks for 12. Master Terminology Guide"
             }
           },
@@ -128,11 +130,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from 4. Service Calls"
               "title": "Outgoing links from 12. Master Terminology Guide"
             }
           },
@@ -157,12 +161,14 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+              "title": "Outline of 4. Service Calls"
               "title": "Outline of 12. Master Terminology Guide"
             }
           }

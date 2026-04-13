@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 296.5
   },
   "right": {
     "id": "a92cc0ca5c410d08",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,6 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for 4. Service Calls"
               "title": "Backlinks for 12. Master Terminology Guide"
             }
           },
@@ -113,11 +115,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from 4. Service Calls"
               "title": "Outgoing links from 12. Master Terminology Guide"
             }
           },
@@ -142,12 +146,14 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+              "title": "Outline of 4. Service Calls"
               "title": "Outline of 12. Master Terminology Guide"
             }
           }
@@ -193,6 +199,19 @@
     "Mowery/7. Proposals.md",
     "Mowery/5. Service Agreements.md",
     "Mowery/4. Service Calls.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/8. Inventory.md",
+    "Mowery/7. Proposals.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/Untitled.md",
+    "Mowery/2. Getting Started.md",
+    "19. Counter Sales.md",
+    "Mowery/18.  Vendors.md",
+    "Mowery/17. Invoices.md",
+    "Mowery/16. Payments.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
+    "Mowery/15. Vendors.md",
+    "Mowery/5. Service Agreements.md",
     "Mowery/11. Templates.md",
     "Mowery/8. Inventory.md",
     "Mowery/1. Table of Contents.md",

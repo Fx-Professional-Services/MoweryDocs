@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/13. Mobile App.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Mobile App"
-            }
-          },
-          {
-            "id": "f26c5c8aa6e693fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Mowery/6. System Defaults.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "6. System Defaults"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +175,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "f26c5c8aa6e693fc",
+  "active": "66bb32026b4e169f",
   "lastOpenFiles": [
+    "Mowery/18.  Vendors.md",
+    "Mowery/17. Invoices.md",
+    "Mowery/16. Payments.md",
+    "19. Counter Sales.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/Mowery User Guide/Images/vendors.png",
+    "Mowery/Mowery User Guide/Images/templates-screen.png",
+    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
+    "Mowery/Mowery User Guide/Images/report.png",
+    "Mowery/Mowery User Guide/Images/property-notes.png",
+    "Mowery/Mowery User Guide/Images/main_menu 1.png",
+    "Mowery/Mowery User Guide/Images/dispatch-board-date-synch-update.png",
+    "Mowery/Mowery User Guide/Images/confirmation_page.png",
+    "Mowery/Mowery User Guide/Images/appointment_details.png",
+    "Mowery/Mowery User Guide/Images/active-service-agreements.png",
+    "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/7. Proposals.md",
+    "Mowery/5. Service Agreements.md",
     "Mowery/4. Service Calls.md",
     "Mowery/6. System Defaults.md",
     "Mowery/8. Inventory.md",
@@ -207,20 +213,11 @@
     "Mowery/15. Vendors.md",
     "Mowery/5. Service Agreements.md",
     "Mowery/11. Templates.md",
-    "Mowery/Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
-    "Mowery/Mowery User Guide/Images/1313_2_view_catalog_items.png",
-    "Mowery/14. Monthly Tune-Up Schedule.md",
-    "Mowery/Mowery User Guide/Images/vendors.png",
+    "Mowery/8. Inventory.md",
     "Mowery/1. Table of Contents.md",
     "Mowery/10. Report.md",
     "Mowery/12. Master Terminology Guide.md",
-    "Mowery/Mowery User Guide/Images/templates-screen.png",
-    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
     "Mowery/9. Purchase Order.md",
-    "Mowery/Mowery User Guide/Images/report.png",
-    "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
-    "Mowery/Mowery User Guide/Images/active-service-agreements.png",
-    "Mowery/Mowery User Guide/Images/property-notes.png",
     "Mowery/3. Master Customer Property List.md",
     "Mowery/14. Monthly Tune Up Schedule.md",
     "Mowery/13. Mobile App"

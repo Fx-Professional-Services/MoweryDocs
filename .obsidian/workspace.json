@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5c2244153f5ef19d",
+    "id": "27e8891bc4050071",
     "type": "split",
     "children": [
       {
-        "id": "9a0fbffa84ea31a9",
+        "id": "7428c3ffe58f6a58",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac28f806a1bfee6",
+            "id": "66bb32026b4e169f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/19. Counter Sales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "title": "19. Counter Sales"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f68796cdd81286ad",
+    "id": "51f325ad53a6286b",
     "type": "split",
     "children": [
       {
-        "id": "19241e7bfeded0ad",
+        "id": "2b6a252ff403afb0",
         "type": "tabs",
         "children": [
           {
-            "id": "9f0ac030b5354089",
+            "id": "46a433444c0b9b35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8adcd3cf39d896b2",
+            "id": "d10f26e1628b3f6d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c1b262c74a4171d4",
+            "id": "554703ade75eaa33",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
-    "id": "771b601c0cf41aaf",
+    "id": "a92cc0ca5c410d08",
     "type": "split",
     "children": [
       {
-        "id": "22f44f6c39aea35a",
+        "id": "927b45d93333e4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "aa6d07f1d29017b3",
+            "id": "2c694c5d1bf85502",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/12. Master Terminology Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Service Calls"
+              "title": "Backlinks for 12. Master Terminology Guide"
             }
           },
           {
-            "id": "0d4aa14c7eb9ad95",
+            "id": "bd62a94b09c79cdc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/12. Master Terminology Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Service Calls"
+              "title": "Outgoing links from 12. Master Terminology Guide"
             }
           },
           {
-            "id": "0b36e03d5135c8c4",
+            "id": "27f92d4f12dedad3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "6ea8abf3f95fbb89",
+            "id": "0a58f666dbb846b3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/12. Master Terminology Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Service Calls"
+              "title": "Outline of 12. Master Terminology Guide"
             }
           }
         ]
@@ -169,16 +169,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "9f0ac030b5354089",
+  "active": "66bb32026b4e169f",
   "lastOpenFiles": [
-    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/4. Service Calls.md",
-    "Mowery/10. Report.md",
-    "Mowery/15. Vendors.md",
-    "Mowery/14. Monthly Tune Up Schedule.md",
-    "Mowery/14. Monthly Tune-Up Schedule.md",
     "Mowery/13. Mobile App.md",
     "Mowery/2. Getting Started.md",
-    "Mowery/1. Table of Contents.md"
+    "Mowery/1. Table of Contents.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/19. Counter Sales.md",
+    "Mowery/14. Monthly Tune Up Schedule.md",
+    "Mowery/8. Inventory.md",
+    "Mowery/7. Proposals.md",
+    "Mowery/5. Service Agreements.md",
+    "Mowery/4. Service Calls.md",
+    "Mowery/3. Master Customer Property List.md",
+    "19. Counter Sales.md",
+    "Mowery/18.  Vendors.md",
+    "Mowery/17. Invoices.md",
+    "Mowery/16. Payments.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
+    "Mowery/15. Vendors.md",
+    "Mowery/11. Templates.md",
+    "Mowery/Mowery User Guide/Images/1315_1_view_product_list_and_details.png",
+    "Mowery/Mowery User Guide/Images/1313_2_view_catalog_items.png",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/Mowery User Guide/Images/vendors.png",
+    "Mowery/10. Report.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/Mowery User Guide/Images/templates-screen.png",
+    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
+    "Mowery/9. Purchase Order.md",
+    "Mowery/Mowery User Guide/Images/report.png",
+    "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
+    "Mowery/Mowery User Guide/Images/active-service-agreements.png",
+    "Mowery/Mowery User Guide/Images/property-notes.png",
+    "Mowery/13. Mobile App"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "27e8891bc4050071",
+    "id": "5c2244153f5ef19d",
     "type": "split",
     "children": [
       {
-        "id": "74c21bd56f71ef8b",
+        "id": "9a0fbffa84ea31a9",
         "type": "tabs",
         "children": [
           {
-            "id": "39a480693764b78d",
+            "id": "9ac28f806a1bfee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,22 @@
               "icon": "lucide-file",
               "title": "4. Service Calls"
             }
-          },
-          {
-            "id": "7fd31e00bfe55267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mowery/13. Mobile App.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Mobile App"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "51f325ad53a6286b",
+    "id": "f68796cdd81286ad",
     "type": "split",
     "children": [
       {
-        "id": "2b6a252ff403afb0",
+        "id": "19241e7bfeded0ad",
         "type": "tabs",
         "children": [
           {
-            "id": "46a433444c0b9b35",
+            "id": "9f0ac030b5354089",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "d10f26e1628b3f6d",
+            "id": "8adcd3cf39d896b2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "554703ade75eaa33",
+            "id": "c1b262c74a4171d4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a92cc0ca5c410d08",
+    "id": "771b601c0cf41aaf",
     "type": "split",
     "children": [
       {
-        "id": "927b45d93333e4ca",
+        "id": "22f44f6c39aea35a",
         "type": "tabs",
         "children": [
           {
-            "id": "2c694c5d1bf85502",
+            "id": "aa6d07f1d29017b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mowery/12. Master Terminology Guide.md",
+                "file": "Mowery/4. Service Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12. Master Terminology Guide"
+              "title": "Backlinks for 4. Service Calls"
             }
           },
           {
-            "id": "bd62a94b09c79cdc",
+            "id": "0d4aa14c7eb9ad95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mowery/12. Master Terminology Guide.md",
+                "file": "Mowery/4. Service Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12. Master Terminology Guide"
+              "title": "Outgoing links from 4. Service Calls"
             }
           },
           {
-            "id": "27f92d4f12dedad3",
+            "id": "0b36e03d5135c8c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +137,18 @@
             }
           },
           {
-            "id": "0a58f666dbb846b3",
+            "id": "6ea8abf3f95fbb89",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mowery/12. Master Terminology Guide.md",
+                "file": "Mowery/4. Service Calls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Master Terminology Guide"
+              "title": "Outline of 4. Service Calls"
             }
           }
         ]
@@ -184,24 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "46a433444c0b9b35",
+  "active": "9f0ac030b5354089",
   "lastOpenFiles": [
-    "Mowery/4. Service Calls.md",
-    "Mowery/13. Mobile App.md",
-    "Mowery/13. Mobile App",
     "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/Mowery User Guide/Images/view_product_details.png",
-    "Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/Mowery User Guide/Images/1315_viewing_product_list_and_details.png",
-    "Mowery/3. Master Customer Property List.md",
-    "Mowery/6. System Defaults.md",
-    "Mowery/1. Table of Contents.md",
-    "Mowery/12. Master Terminology Guide.md",
-    "Mowery/7. Proposals.md",
-    "Mowery/5. Service Agreements.md",
-    "Mowery/8. Inventory.md",
-    "Mowery/9. Purchase Order.md",
+    "Mowery/4. Service Calls.md",
     "Mowery/10. Report.md",
-    "Mowery/11. Templates.md"
+    "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune Up Schedule.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/1. Table of Contents.md"
   ]
 }

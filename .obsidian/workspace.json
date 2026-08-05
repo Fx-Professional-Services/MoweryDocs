@@ -4,6 +4,11 @@
     "type": "split",
     "children": [
       {
+        "id": "74c21bd56f71ef8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a480693764b78d",
         "id": "7428c3ffe58f6a58",
         "type": "tabs",
         "children": [
@@ -13,11 +18,13 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/13. Mobile App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "4. Service Calls"
               "title": "13. Mobile App"
             }
           }
@@ -94,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -104,6 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks for 4. Service Calls"
               "title": "Backlinks for 12. Master Terminology Guide"
             }
           },
@@ -113,11 +122,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+              "title": "Outgoing links from 4. Service Calls"
               "title": "Outgoing links from 12. Master Terminology Guide"
             }
           },
@@ -142,12 +153,14 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/12. Master Terminology Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+              "title": "Outline of 4. Service Calls"
               "title": "Outline of 12. Master Terminology Guide"
             }
           }
@@ -169,6 +182,10 @@
       "bases:Create new base": false
     }
   },
+  "active": "39a480693764b78d",
+  "lastOpenFiles": [
+    "Mowery/6. System Defaults.md",
+    "Mowery/4. Service Calls.md"
   "active": "66bb32026b4e169f",
   "lastOpenFiles": [
     "Mowery/2. Getting Started.md",

@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "revision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,6 +152,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
+              "icon": "lucide-archive",
+              "title": "All properties"
               "icon": "lucide-ghost",
               "title": "all-properties"
             }
@@ -188,6 +191,13 @@
       "bases:Create new base": false
     }
   },
+  "active": "3c586e15462934c7",
+  "lastOpenFiles": [
+    "Mowery/13. Mobile App.md",
+    "19. Counter Sales.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/Mobile App.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
   "active": "55fe63fae4a63aaa",
   "lastOpenFiles": [
     "Mowery/19. Counter Sales.md",
@@ -222,6 +232,8 @@
     "Mowery/17. Invoices.md",
     "Mowery/16. Payments.md",
     "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/12. Master Terminology Guide.md",
     "Mowery/4. Service Calls.md",
     "Mowery/2. Getting Started.md",
     "Mowery/1. Table of Contents.md",

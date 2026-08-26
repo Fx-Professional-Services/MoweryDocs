@@ -1,13 +1,16 @@
-## Send a Signed Estimate or Invoice
+# Email Estimate or Invoice After Customer Signature
 
-After a customer signs an estimate or invoice, you can immediately email the signed PDF before returning to the service call.
+Use this feature to email a signed estimate or invoice to the customer from the mobile app.
 
-### Steps
+## Email a Signed Estimate or Invoice
 
-1. Complete the estimate or invoice.
-2. Have the customer sign the document.
-3. Tap **Done**.
-4. When prompted, verify the recipient's email address.
-5. Tap **Send**.
+1. Open the **Estimate** or **Invoice** in the mobile app.
+2. Have the customer sign the form.
+3. After the customer signs, tap **Email PDF**.
+4. If the customer's email address is already displayed, verify that it is correct. If no email address is displayed, enter the customer's email address.
+5. Send the email.
+6. Check the customer's inbox to confirm that the PDF was received.
 
-The app emails the signed PDF to the customer and returns to the **Service Call Details** screen.
+## Expected Result
+
+The signed estimate or invoice PDF is sent to the customer's email address.

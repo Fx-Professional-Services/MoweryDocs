@@ -12,7 +12,7 @@
 Screenshot:
 <p style="float: right; margin-left: 15px; width: 20%;">
   <img src="https://github.com/Fx-Professional-Services/MoweryDocs/blob/e222dbdf97bf98fc4f6b7d7e6988d30a856c3900/Mowery/Mowery%20User%20Guide/Images/list_view_assign_technician.png](https://github.com/Fx-Professional-Services/MoweryDocs/blob/Redmine-Customer-Use-Guide/Redmine%20Assets/log-in-page.png" 
-       alt="List View" style="width: 50%;" />
+       alt="Log In Page" style="width: 50%;" />
 </p>
 
 Your Redmine account uses your login credentials to authenticate you.

@@ -1,49 +1,36 @@
 # Redmine Customer User Guide
 
+This guide explains how to access your Redmine project, view Features and Issues, add comments, attach files, and check project updates.
+
 ## 1. Sign in to Redmine
 
-1. Open the Redmine website provided by FX Professional Services: [https://projects.staging.fxprofessionalservices.com/login?](https://projects.staging.fxprofessionalservices.com/login?back_url=https%3A%2F%2Fprojects.staging.fxprofessionalservices.com%2Fprojects%2Fmowery-test-project-iq%2Fsettings%2Fcategories). 
-    
-2. Enter your Username and Password.
-    
-3. Click Log in.
+1. Open the Redmine website provided by FX Professional Services: [Redmine](https://projects.staging.fxprofessionalservices.com/login).
+2. Enter your **Username** and **Password**.
+3. Click **Log in**.
 
-Your Redmine account uses your login credentials to authenticate you.
+After you sign in, you can access the projects that have been assigned to your account.
 
 ---
-
 ## 2. Open Your Project
 
-After signing in:
+1. Click **Projects** in the top navigation.
+2. Find the project you were given access to.
+3. Click the project name.
 
-1. Click Projects in the top navigation.
-    
-2. Find the project that you were given access to.
-    
-3. Click the Project Name.
-    
-
-You will be taken to the project's Overview page.
-
-The Project Overview provides information about the project, including its issue tracking area, project members, and other available project sections.
+Redmine opens the project's **Overview** page.
 
 ---
 
 ## 3. View the Project's Issues and Features
 
-To see the Features/Issues in the project:
-
-1. Click the title of the project to open it.
-    
+1. Open the project.
 2. Click **Issues** in the project menu.
-    
-3. You will see the project's issue list.
-    
-4. Click an Issue/Feature number or title to open it.
-    
+3. Review the list of Issues and Features.
+4. Click the Issue or Feature number or title to open it.
 
-The Issue List allows you to view issues belonging to the project and filter them based on available fields.
+You can use the Issue List to view and filter Issues and Features.
 
+For example:
 For example:
 
 Issues
@@ -60,64 +47,48 @@ Click the issue you want to review.
 
 # 4. Review an Issue or Feature
 
-When you open an issue, you can review information such as:
+When you open an Issue or Feature, you can review information such as:
 
-- Issue/Feature number
-    
+- Issue or Feature number
 - Subject
-    
 - Description
-    
 - Status
-    
 - Priority
-    
 - Assignee
-    
 - Category
-    
-- Start/due dates
-    
+- Start date and due date
 - % Done
-    
-- Estimated TIme
-    
+- Estimated time
 - Attachments
-    
-- Existing comments/notes
-    
-- Issue history/activity
+- Existing notes
+- Issue history
 
-Review the existing information before adding your comment.
+Review the existing information and notes before adding a comment.
 
 ---
 
 # 5. Add a Comment to an Issue or Feature
 
-This is the main action you will use when communicating with the project team.
+In Redmine, comments are called **notes**.
 
-1. Open the Issue/Feature.
-    
-2. Scroll down to the **Notes** section.
-    
-3. Click **Edit** at the lower right. 
-    
-4. If necessary, attach a file.
+1. Open the Issue or Feature.
+2. Scroll to the **Notes** section.
+3. Click **Edit** at the lower right.
+4. Enter your comment in the text box.
+5. Attach a file if needed.
+6. Click **Submit**.
 
-5. Enter your comment in the text box.
-    
-6. Click Submit.
-
-Your comment will be added to the issue as a new note.
-
-In Redmine terminology, comments on issues are called notes.
+Your comment is added to the Issue or Feature as a new note.
 
 ### Example
 
-If you are reviewing Feature #5290, you could add:
+If you are reviewing Feature #5290, you can add:
 
-The mobile application is working as expected. Please proceed with the next step.
+> The mobile application is working as expected. Please proceed with the next step.
 
+Or:
+
+> The issue is still occurring when I try to submit the form. Please investigate.
 Or:
 
 The issue is still occurring when I try to submit the form. Please investigate.
@@ -126,28 +97,23 @@ The issue is still occurring when I try to submit the form. Please investigate.
 
 # 6. Attach a File to Your Comment
 
-If you need to provide a screenshot, document, or other file:
+You can attach screenshots, documents, or other files to your comment.
 
-1. Open the relevant Issue/Feature.
-    
-2. Scroll to Add a note.
-    
-3. Enter your comment.
-    
-4. Click **Choose File** in the attachment area.
-    
-5. Select the file from your computer.
-    
-6. Click Submit.
-    
+1. Open the relevant Issue or Feature.
+2. Scroll to the **Notes** section.
+3. Click **Edit** at the lower right.
+4. Enter your comment.
+5. Click **Choose File** in the attachment area.
+6. Select the file from your computer.
+7. Click **Submit**.
 
-The file will be attached to your update.
+The file is attached to your comment.
 
 ### Example
 
 You can write:
 
-The error is still occurring. I have attached a screenshot showing the issue.
+> The error is still occurring. I have attached a screenshot showing the issue.
 
 Then attach the screenshot before submitting the note.
 
@@ -155,148 +121,108 @@ Then attach the screenshot before submitting the note.
 
 # 7. Reply to an Existing Issue
 
-When you need to respond to an existing Feature/Issue, do not create a new issue unless you are reporting something completely separate.
+When you need to respond to an existing Issue or Feature, add your response to the existing Issue instead of creating a new one.
 
-Instead:
-
-1. Open the existing Issue/Feature.
-    
+1. Open the existing Issue or Feature.
 2. Review the previous notes.
-    
-3. Scroll to Add a note.
-    
-4. Enter your response.
-    
-5. Attach supporting files if needed.
-    
-6. Click Submit.
-    
+3. Scroll to the **Notes** section.
+4. Click **Edit**.
+5. Enter your response.
+6. Attach supporting files if needed.
+7. Click **Submit**.
 
-This keeps the conversation and updates associated with the correct Issue/Feature.
+This keeps the discussion and updates associated with the correct Issue or Feature.
+
+Create a new Issue only when you need to report a separate problem or request.
 
 ---
 
 # 8. Check Previous Comments
 
-Before adding a new comment, review the existing notes on the issue.
+Before adding a new comment, review the existing notes on the Issue or Feature.
 
-This helps you:
+Reviewing previous notes helps you:
 
-- See what the project team has already discussed.
-    
-- Avoid asking the same question twice.
-    
-- Understand the current status of the issue.
-    
+- Understand what the project team has already discussed.
+- Avoid repeating questions or information.
+- Understand the current status of the Issue.
 - Follow up on previous requests.
-    
-- Provide additional information when necessary.
-    
-
-Redmine's issue view provides the issue's discussion/history as part of the issue information.
+- Provide additional information when needed.
 
 ---
 
 # 9. Search for an Issue or Feature
 
-If the project contains many Issues/Features, you can use the Issue List filters to find the item you need.
+If the project contains many Issues or Features, use the Issue List filters to find the item you need.
 
-1. Open Issues within the project.
-    
-2. Click the **Add filter** dropdown. 
-    
-3. Select the criteria you need, such as:
-    
+1. Open **Issues** within the project.
+2. Click **Add filter**.
+3. Select the criteria you want to use, such as:
+    - Status
+    - Tracker
+    - Assignee
+    - Priority
+    - Subject
+    - Other available fields
+4. Apply the filter.
 
-- Status
-    
-- Tracker
-    
-- Assignee
-    
-- Priority
-    
-- Subject
-    
-- Other available fields
-    
-
-5. Apply the filter.
-    
-
-You can also use Redmine's Search function to search across information available to you.
+You can also use Redmine's **Search** function to search for information available to your account.
 
 
 ---
 
 # 10. Check Your Notifications
 
-Redmine can send email notifications for project activity and issue updates depending on your notification settings.
+Redmine can send email notifications about project activity and Issue updates, depending on your notification settings.
 
-To review your settings:
+To review your notification settings:
 
 1. Click your account name.
-    
-2. Click **My Account**.
-    
+2. Click **My account**.
 3. Hover over **Email notifications**.
-    
 4. Review your notification preferences.
-    
-5. Update the settings if necessary.
-    
+5. Update the settings if needed.
 
-Redmine allows users to configure their email notification preferences, while watching an issue can also cause notifications for that specific issue.
+You can also watch an Issue to receive notifications about updates to that Issue.
 
 ---
 
 # 11. Update Your Account Information
 
-You can manage your own account information from My account.
+You can manage your account information from **My account**.
 
 Depending on your Redmine configuration, you may be able to update:
 
 - First name
-    
 - Last name
-    
 - Email address
-    
 - Language
-    
 - Notification preferences
-    
-- Two-factor authentication settings, if enabled
-    
-
-Redmine's account settings provide these user-level options.
+- Two-factor authentication settings, if enabled.
 
 ---
 
 # 12. What You Should Use Redmine For
 
-As a customer, use the project to:
+As a customer, you can use the project to communicate with the project team and follow the progress of your Issues and Features.
 
 ### Report an issue
 
-Open the relevant issue or create a new issue if your account has permission to create issues, then describe:
+If your account has permission to create Issues:
 
-- What happened
-    
-- What you expected to happen
-    
-- Steps to reproduce the problem
-    
-- Screenshots or files, if applicable
-    
+1. Create a new Issue.
+2. Describe what happened.
+3. Describe what you expected to happen.
+4. Provide the steps to reproduce the problem.
+5. Attach screenshots or other relevant files.
 
 ### Provide feedback
 
-Add a note to the relevant Feature/Issue.
+Add a note to the relevant Issue or Feature.
 
-### Respond to the development team
+### Respond to the project team
 
-Open the existing Feature/Issue and add your response under Notes.
+Open the existing Issue or Feature and add your response under **Notes**.
 
 ### Provide supporting files
 
@@ -304,60 +230,29 @@ Attach screenshots, documents, or other relevant files to your note.
 
 ### Check progress
 
-Review the Issue's:
+Review the Issue or Feature for updates, including:
 
 - Status
-    
 - Notes
-    
-- Updates
-    
 - Assignee
-    
+- Issue history
 - Other available fields
-    
 
 ---
 
 # 13. Summary of Customer Workflow
 
+Use the following workflow when communicating with the project team:
 
-1. Sign in
-
-↓
-
-2. Open Mowery Project
-
-↓
-
-3. Click Issues
-
-↓
-
-4. Open Feature #5290
-
-↓
-
-5. Review the Feature
-
-↓
-
-6. Scroll to Add a Note
-
-↓
-
-7. Enter your feedback
-
-↓
-
-8. Attach a screenshot if needed
-
-↓
-
-9. Click Submit
-
-↓
-
-10. Watch the Issue for future updates
+1. Sign in to Redmine.
+2. Open the project.
+3. Click **Issues**.
+4. Open the relevant Issue or Feature.
+5. Review the Issue or Feature details.
+6. Review the existing notes.
+7. Add your comment under **Notes**.
+8. Attach a screenshot or file if needed.
+9. Click **Submit**.
+10. Check the Issue for future updates.
 
 ---

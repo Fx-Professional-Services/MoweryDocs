@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "68c14522cf6a3ff1",
+    "id": "af485497f24fe4d5",
     "type": "split",
     "children": [
       {
-        "id": "090b581c32c043e9",
+        "id": "d11e7edcf16a5994",
         "type": "tabs",
         "children": [
           {
-            "id": "3c586e15462934c7",
+            "id": "8eaaa99cb88a77ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/4. Service Calls.md",
+                "file": "Redmine Customer User Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Service Calls"
+              "title": "Redmine Customer User Guide"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a8f3c8864514c4da",
+    "id": "3e2eee418f4ecd09",
     "type": "split",
     "children": [
       {
-        "id": "92d01b9e4ff699a2",
+        "id": "c2184e517f40ccae",
         "type": "tabs",
         "children": [
           {
-            "id": "55fe63fae4a63aaa",
+            "id": "50fb7c30402a0b16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "bfbf7a2804f62423",
+            "id": "ec25face5b466aee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "154fb2b74736f8e0",
+            "id": "e8a09bd10ec51496",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "3f5652dbc724b443",
+    "id": "090ad5c7adaad85e",
     "type": "split",
     "children": [
       {
-        "id": "bee01d2229f64d84",
+        "id": "0fd89ebe2774d38f",
         "type": "tabs",
         "children": [
           {
-            "id": "83b5c77c12076d30",
+            "id": "ab5dd71a9284a4d1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "b9e6036c929f2893",
+            "id": "9965da4423846402",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "90a516ee9a0b1117",
+            "id": "60e17ff76c293d1c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,26 +142,12 @@
             }
           },
           {
-            "id": "ba098ce88e13e268",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "e1e5651aff0848df",
+            "id": "941fc208ab0f7761",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,59 +174,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c586e15462934c7",
+  "active": "8eaaa99cb88a77ee",
   "lastOpenFiles": [
-    "Mowery/3. Master Customer Property List.md",
-    "Mowery/14. Monthly Tune-Up Schedule.md",
-    "Mowery/2. Getting Started.md",
-    "Mowery/6. System Defaults.md",
-    "Mowery/19. Counter Sales.md",
-    "Mowery/14. Monthly Tune-Up Schedule.md",
-    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/14. Monthly Tune Up Schedule.md",
-    "Mowery/13. Mobile App.md",
-    "Mowery/Mowery User Guide/Images/vendors.png",
-    "Mowery/Mowery User Guide/Images/templates-screen.png",
-    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
-    "Mowery/Mowery User Guide/Images/report.png",
-    "Mowery/Mowery User Guide/Images/property-notes.png",
-    "Mowery/Mowery User Guide/Images/main_menu 1.png",
-    "Mowery/Mowery User Guide/Images/dispatch-board-date-synch-update.png",
-    "Mowery/Mowery User Guide/Images/confirmation_page.png",
-    "Mowery/Mowery User Guide/Images/appointment_details.png",
-    "Mowery/13. Mobile App.md",
-    "Mowery/19. Counter Sales.md",
-    "Mowery/Mobile App.md",
-    "Mowery/Mowery User Guide/Images/Screenshot 2025-09-10 at 10.50.38.png",
-    "Mowery/Mowery User Guide/Images/view_product_details.png",
-    "Mowery/Mowery User Guide/Images/vendors.png",
-    "Mowery/Mowery User Guide/Images/templates-screen.png",
-    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
-    "Mowery/Mowery User Guide/Images/service_calls.png",
-    "Mowery/Mowery User Guide/Images/service_call_page.png",
-    "Mowery/Mowery User Guide/Images/send_to_parts.png",
-    "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
-    "Mowery/Mowery User Guide/Images/search_from_service_calls.png",
-    "Mowery/18.  Vendors.md",
-    "Mowery/17. Invoices.md",
-    "Mowery/16. Payments.md",
-    "Mowery/15. Vendors.md",
+    "().md",
+    "Redmine Customer User Guide.md",
+    "Redmine Assets/log-in-page.png",
     "Mowery/4. Service Calls.md",
-    "Mowery/2. Getting Started.md",
-    "Mowery/1. Table of Contents.md",
-    "Mowery/3. Master Customer Property List.md",
-    "Mowery/5. Service Agreements.md",
-    "Mowery/6. System Defaults.md",
-    "Mowery/7. Proposals.md",
-    "Mowery/8. Inventory.md",
-    "Mowery/9. Purchase Order.md",
-    "Mowery/10. Report.md",
-    "Mowery/11. Templates.md",
-    "Mowery/12. Master Terminology Guide.md",
-    "Mowery/13. Mobile App"
-    "Mowery/14. Monthly Tune-Up Schedule.md",
-    "Mowery/12. Master Terminology Guide.md",
-    "Mowery/19. Counter Sales.md",
-    "Mowery/1. Table of Contents.md"
+    "Redmine Assets"
   ]
 }

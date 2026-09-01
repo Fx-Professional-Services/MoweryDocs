@@ -11,12 +11,14 @@
             "id": "8eaaa99cb88a77ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Redmine Assets/log-in-page.png"
+                "file": "Redmine Customer User Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "log-in-page"
+              "icon": "lucide-file",
+              "title": "Redmine Customer User Guide"
             }
           }
         ]
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redmine Assets/log-in-page.png",
+                "file": "Redmine Customer User Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redmine Assets/log-in-page.png",
+                "file": "Redmine Customer User Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redmine Assets/log-in-page.png",
+                "file": "Redmine Customer User Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,9 +176,9 @@
   },
   "active": "8eaaa99cb88a77ee",
   "lastOpenFiles": [
+    "Redmine Assets/log-in-page.png",
     "Mowery/4. Service Calls.md",
     "Redmine Customer User Guide.md",
-    "Redmine Assets/log-in-page.png",
     "Redmine Assets"
   ]
 }

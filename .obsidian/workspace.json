@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -151,6 +153,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
+              "icon": "lucide-archive",
+              "title": "All properties"
               "icon": "lucide-ghost",
               "title": "all-properties"
             }
@@ -161,6 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "followCursor": false,
                 "showSearch": false,
@@ -190,6 +195,10 @@
   },
   "active": "3c586e15462934c7",
   "lastOpenFiles": [
+    "19. Counter Sales.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/Mobile App.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
     "Mowery/3. Master Customer Property List.md",
     "Mowery/14. Monthly Tune-Up Schedule.md",
     "Mowery/2. Getting Started.md",
@@ -225,6 +234,9 @@
     "Mowery/17. Invoices.md",
     "Mowery/16. Payments.md",
     "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/12. Master Terminology Guide.md",
     "Mowery/4. Service Calls.md",
     "Mowery/2. Getting Started.md",
     "Mowery/1. Table of Contents.md",

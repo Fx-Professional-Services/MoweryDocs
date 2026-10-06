@@ -99,6 +99,8 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,6 +120,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -142,11 +146,30 @@
             }
           },
           {
+            "id": "ba098ce88e13e268",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "e1e5651aff0848df",
             "id": "941fc208ab0f7761",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
                 "followCursor": false,
                 "showSearch": false,
@@ -176,6 +199,13 @@
   },
   "active": "a80249d8d0005d9a",
   "lastOpenFiles": [
+    "19. Counter Sales.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/Mobile App.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
+    "Mowery/3. Master Customer Property List.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/2. Getting Started.md",
     "Mowery/6. System Defaults.md",
     "Mowery/Mobile App.md",
     "Mowery/Mowery User Guide/Images/view_product_details.png",
@@ -193,6 +223,22 @@
     "Mowery/17. Invoices.md",
     "Mowery/16. Payments.md",
     "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/4. Service Calls.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/1. Table of Contents.md",
+    "Mowery/3. Master Customer Property List.md",
+    "Mowery/5. Service Agreements.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/7. Proposals.md",
+    "Mowery/8. Inventory.md",
+    "Mowery/9. Purchase Order.md",
+    "Mowery/10. Report.md",
+    "Mowery/11. Templates.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/13. Mobile App"
     "Mowery/14. Monthly Tune-Up Schedule.md",
     "Mowery/13. Mobile App.md",
     "Mowery/12. Master Terminology Guide.md",

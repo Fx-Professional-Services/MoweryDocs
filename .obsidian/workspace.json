@@ -9,16 +9,25 @@
         "children": [
           {
             "id": "2be56aee80157308",
+    "id": "af485497f24fe4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11e7edcf16a5994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80249d8d0005d9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mowery/6. System Defaults.md",
+                "file": "Mowery/13. Mobile App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. System Defaults"
+              "title": "13. Mobile App"
             }
           }
         ]
@@ -36,6 +45,15 @@
         "children": [
           {
             "id": "1b3503c77e628a2b",
+    "id": "3e2eee418f4ecd09",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2184e517f40ccae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50fb7c30402a0b16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,6 +69,7 @@
           },
           {
             "id": "41a3fb9a22610950",
+            "id": "ec25face5b466aee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,6 +87,7 @@
           },
           {
             "id": "3999fb4ee66970cb",
+            "id": "e8a09bd10ec51496",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,11 +116,23 @@
         "children": [
           {
             "id": "caafb9c8e584de19",
+    "id": "090ad5c7adaad85e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd89ebe2774d38f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5dd71a9284a4d1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +147,15 @@
           },
           {
             "id": "755e1269bd97e325",
+            "id": "9965da4423846402",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -129,6 +165,7 @@
           },
           {
             "id": "999d89e448d569da",
+            "id": "60e17ff76c293d1c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,11 +181,32 @@
           },
           {
             "id": "1a6667c3c6c2a444",
+            "id": "ba098ce88e13e268",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "e1e5651aff0848df",
+            "id": "941fc208ab0f7761",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "Mowery/4. Service Calls.md",
+                "file": "Mowery/13. Mobile App.md",
+                "file": "Mowery/6. System Defaults.md",
+                "file": "Redmine Customer User Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,5 +237,57 @@
   "lastOpenFiles": [
     "Mowery/5. Service Agreements.md",
     "Mowery/4. Service Calls.md"
+  "active": "a80249d8d0005d9a",
+  "lastOpenFiles": [
+    "19. Counter Sales.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/Mobile App.md",
+    "Mowery/Screenshot 2025-09-10 at 10.50.38.png",
+    "Mowery/3. Master Customer Property List.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/Mobile App.md",
+    "Mowery/Mowery User Guide/Images/view_product_details.png",
+    "Mowery/Mowery User Guide/Images/vendors.png",
+    "Mowery/Mowery User Guide/Images/templates-screen.png",
+    "Mowery/Mowery User Guide/Images/templates-main-menu.png",
+    "Mowery/Mowery User Guide/Images/service_calls.png",
+    "Mowery/Mowery User Guide/Images/service_call_page.png",
+    "Mowery/Mowery User Guide/Images/send_to_parts.png",
+    "Mowery/Mowery User Guide/Images/search_from_the_customer_property_card.png",
+    "Mowery/Mowery User Guide/Images/search_from_service_calls.png",
+    "Mowery/Mowery User Guide/Images/report.png",
+    "Mowery/19. Counter Sales.md",
+    "Mowery/18.  Vendors.md",
+    "Mowery/17. Invoices.md",
+    "Mowery/16. Payments.md",
+    "Mowery/15. Vendors.md",
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/4. Service Calls.md",
+    "Mowery/2. Getting Started.md",
+    "Mowery/1. Table of Contents.md",
+    "Mowery/3. Master Customer Property List.md",
+    "Mowery/5. Service Agreements.md",
+    "Mowery/6. System Defaults.md",
+    "Mowery/7. Proposals.md",
+    "Mowery/8. Inventory.md",
+    "Mowery/9. Purchase Order.md",
+    "Mowery/10. Report.md",
+    "Mowery/11. Templates.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/13. Mobile App"
+    "Mowery/14. Monthly Tune-Up Schedule.md",
+    "Mowery/13. Mobile App.md",
+    "Mowery/12. Master Terminology Guide.md",
+    "Mowery/5. Service Agreements.md",
+    "Mowery/4. Service Calls.md",
+    "Redmine Customer User Guide.md",
+    "How to Submit a Support Ticket by Email.md",
+    "Redmine Development Team Quick Guide.md",
+    "().md",
+    "Redmine Assets"
   ]
 }

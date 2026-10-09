@@ -1,5 +1,14 @@
 {
   "main": {
+    "id": "9f0af07bfa8f59b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb55adddd628665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be56aee80157308",
     "id": "af485497f24fe4d5",
     "type": "split",
     "children": [
@@ -27,6 +36,15 @@
     "direction": "vertical"
   },
   "left": {
+    "id": "d99b135b19f5e078",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f3ea0a9293ceed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3503c77e628a2b",
     "id": "3e2eee418f4ecd09",
     "type": "split",
     "children": [
@@ -50,12 +68,13 @@
             }
           },
           {
+            "id": "41a3fb9a22610950",
             "id": "ec25face5b466aee",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "verify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,6 +86,7 @@
             }
           },
           {
+            "id": "3999fb4ee66970cb",
             "id": "e8a09bd10ec51496",
             "type": "leaf",
             "state": {
@@ -79,13 +99,23 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
+    "id": "711eb021b73e934b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52df51ad2d50eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caafb9c8e584de19",
     "id": "090ad5c7adaad85e",
     "type": "split",
     "children": [
@@ -99,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
@@ -115,11 +146,13 @@
             }
           },
           {
+            "id": "755e1269bd97e325",
             "id": "9965da4423846402",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
@@ -131,6 +164,7 @@
             }
           },
           {
+            "id": "999d89e448d569da",
             "id": "60e17ff76c293d1c",
             "type": "leaf",
             "state": {
@@ -146,6 +180,7 @@
             }
           },
           {
+            "id": "1a6667c3c6c2a444",
             "id": "ba098ce88e13e268",
             "type": "leaf",
             "state": {
@@ -168,6 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mowery/4. Service Calls.md",
                 "file": "Mowery/13. Mobile App.md",
                 "file": "Mowery/6. System Defaults.md",
                 "file": "Redmine Customer User Guide.md",
@@ -197,6 +233,10 @@
       "bases:Create new base": false
     }
   },
+  "active": "2be56aee80157308",
+  "lastOpenFiles": [
+    "Mowery/5. Service Agreements.md",
+    "Mowery/4. Service Calls.md"
   "active": "a80249d8d0005d9a",
   "lastOpenFiles": [
     "19. Counter Sales.md",
